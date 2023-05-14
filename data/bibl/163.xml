@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/FF3H2WG4"
+    xml:id="Shchuryk2010"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            Lbesh Pegra: Studies on the Influence of Early Syriac Literature on the Armenian
+            Theology of Incarnation
+        </title>
+        <author
+            xml:id="ShchurykOleh"
+            ref="https://cobdh.org/persons/ShchurykOleh"
+        >
+            <forename>Oleh</forename>
+            <surname>Shchuryk</surname>
+        </author>
+        <imprint>
+            <date>2010</date>
+            <note type="thesisType">Th.D. dissertation</note>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/Z4EF968T"
+    xml:id="Shirinian2001"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Reflections on the “Sons and Daughters of the Covenant” in Armenian Sources
+        </title>
+        <author
+            xml:id="ShirinianManeaErna"
+            ref="https://cobdh.org/persons/ShirinianManeaErna"
+        >
+            <forename>Manea Erna</forename>
+            <surname>Shirinian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="page">261-285</biblScope>
+            <date>2001</date>
+        </imprint>
+    </monogr>
+</biblStruct>

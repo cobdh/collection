@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/V494VZ4I"
+    xml:id="Mahé2016"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            De Thaddée à Grégoire l’Illuminateur: la christianisation de l’Arménie
+        </title>
+        <author
+            xml:id="MahéJeanPierre"
+            ref="https://cobdh.org/persons/MahéJeanPierre"
+        >
+            <forename>Jean-Pierre</forename>
+            <surname>Mahé</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Saint Grégoire l’Illuminateur: aux commencement de l’Eglise d’Arménie. Actes de
+            la huitième Petite Journée de Patristique, 12 mars 2016 – Royan
+        </title>
+        <editor
+            xml:id="DelagePascalGrégoire"
+            ref="https://cobdh.org/persons/DelagePascalGrégoire"
+        >
+            <forename>Pascal-Grégoire</forename>
+            <surname>Delage</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <biblScope unit="page">1-22</biblScope>
+            <publisher>Association CaritasPatrum</publisher>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

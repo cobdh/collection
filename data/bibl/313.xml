@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ZKMFAGPF"
+    xml:id="Mingana1931"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshūni, Edited
+            and Translated with a Critical Apparatus. Vol. 4: The Work of Dionysius
+            Barsalibi against the Armenians
+        </title>
+        <author
+            xml:id="MinganaAlphonse"
+            ref="https://cobdh.org/persons/MinganaAlphonse"
+        >
+            <forename>Alphonse</forename>
+            <surname>Mingana</surname>
+        </author>
+        <imprint>
+            <pubPlace>Cambridge</pubPlace>
+            <publisher>W. Heffer & Sons</publisher>
+            <date>1931</date>
+        </imprint>
+    </monogr>
+</biblStruct>

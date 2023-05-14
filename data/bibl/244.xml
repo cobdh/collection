@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/Q9LNQPPK"
+    xml:id="Mathews1996"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            The Armenian Commentary on the Book of Genesis Attributed to Ephrem the Syrian:
+            An Edition of the Armenian Text with Introduction, English Translation and
+            Commentary
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+        <imprint>
+            <date>1996</date>
+            <note type="thesisType">Ph.D. dissertation</note>
+        </imprint>
+    </monogr>
+</biblStruct>

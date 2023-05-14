@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RIXVGXGH"
+    xml:id="Mathews2001"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Saint Ephrem the Syrian: Armenian Dispute Hymns between
+            <hi rend="italics">Virginity</hi>
+            and
+            <hi rend="italics">Chastity</hi>
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="page">143-169</biblScope>
+            <date>2001</date>
+        </imprint>
+    </monogr>
+</biblStruct>

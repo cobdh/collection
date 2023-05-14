@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/QFRXVHT5"
+    xml:id="Schilling2020"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Ahreman in Armenien: Untersuchungen zu den christlich-orientalischen Zurwān-
+            Texten
+        </title>
+        <author
+            xml:id="SchillingAlexanderMarkus"
+            ref="https://cobdh.org/persons/SchillingAlexanderMarkus"
+        >
+            <forename>Alexander Markus</forename>
+            <surname>Schilling</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Ephemerides Theologicae Lovanienses</title>
+        <imprint>
+            <biblScope unit="volume">96:2</biblScope>
+            <biblScope unit="page">313-405</biblScope>
+            <date>2020</date>
+        </imprint>
+    </monogr>
+</biblStruct>

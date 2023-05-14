@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/TZTMNULJ"
+    xml:id="Lehmann1982"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Den armeniske kirkes overtagelse af græske og syriske traditioner
+        </title>
+        <author
+            xml:id="LehmannHenningJ"
+            ref="https://cobdh.org/persons/LehmannHenningJ"
+        >
+            <forename>Henning J.</forename>
+            <surname>Lehmann</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Nordisk kollokvium for latinsk liturgiforskning V
+        </title>
+        <imprint>
+            <pubPlace>Aarhus</pubPlace>
+            <biblScope unit="page">4-18</biblScope>
+            <publisher>
+                Institut for Kirkehistorie, Aarhus Universitet
+            </publisher>
+            <date>1982</date>
+        </imprint>
+    </monogr>
+</biblStruct>

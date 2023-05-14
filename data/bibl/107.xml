@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RE2LT598"
+    xml:id="Day1972"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Eastern Christian Liturgies: The Armenian, Coptic, Ethiopian, and Syrian Rites
+        </title>
+        <author
+            xml:id="DayPeterD"
+            ref="https://cobdh.org/persons/DayPeterD"
+        >
+            <forename>Peter D.</forename>
+            <surname>Day</surname>
+        </author>
+        <imprint>
+            <pubPlace>Shannon, Ireland</pubPlace>
+            <publisher>Irish University Press</publisher>
+            <date>1972</date>
+        </imprint>
+    </monogr>
+</biblStruct>

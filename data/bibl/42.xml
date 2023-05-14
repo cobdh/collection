@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2QJXJKWT"
+    xml:id="Takahashi2014"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Armenisch-Garschuni (Armenisch in syrischer Schrift)
+        </title>
+        <author
+            xml:id="TakahashiHidemi"
+            ref="https://cobdh.org/persons/TakahashiHidemi"
+        >
+            <forename>Hidemi</forename>
+            <surname>Takahashi</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Scripts Beyond Borders: A Survey of Allographic Traditions in the Euro-
+            Mediterranean World
+        </title>
+        <editor
+            xml:id="denHeijerJohannes"
+            ref="https://cobdh.org/persons/denHeijerJohannes"
+        >
+            <forename>Johannes</forename>
+            <surname>den Heijer</surname>
+        </editor>
+        <editor
+            xml:id="SchmidtAndreaB"
+            ref="https://cobdh.org/persons/SchmidtAndreaB"
+        >
+            <forename>Andrea B.</forename>
+            <surname>Schmidt</surname>
+        </editor>
+        <editor
+            xml:id="PataridzeTamara"
+            ref="https://cobdh.org/persons/PataridzeTamara"
+        >
+            <forename>Tamara</forename>
+            <surname>Pataridze</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <biblScope unit="page">187-214</biblScope>
+            <publisher>Peeters</publisher>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Publications de l’Institut Orientaliste de Louvain 62
+        </title>
+    </series>
+</biblStruct>

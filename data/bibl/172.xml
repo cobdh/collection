@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RADMT4AC"
+    xml:id="Simonet1998"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Les citations des Actes des Apôtres dans
+            <hi rend="italics">
+                Sur Étienne premier des serviteurs et prémices des témoins
+            </hi>
+            , œuvre présentée sous le nom de Jacques de Saroug en syriaque et sous celui
+            d’Ephrem en arménien
+        </title>
+        <author
+            xml:id="SimonetJeanLouis"
+            ref="https://cobdh.org/persons/SimonetJeanLouis"
+        >
+            <forename>Jean-Louis</forename>
+            <surname>Simonet</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">111:1-2</biblScope>
+            <biblScope unit="page">59-94</biblScope>
+            <date>1998</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/CIIQFKPZ"
+    xml:id="Üngör2017"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">How Armenian Was the 1915 Genocide?</title>
+        <author
+            xml:id="UEngoerUgurUEmit"
+            ref="https://cobdh.org/persons/UEngoerUgurUEmit"
+        >
+            <forename>Ugur Ümit</forename>
+            <surname>Üngör</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Let Them Not Return: Sayfo – The Genocide Against the Assyrian, Syriac, and
+            Chaldean Christians in the Ottoman Empire
+        </title>
+        <editor
+            xml:id="GauntDavid"
+            ref="https://cobdh.org/persons/GauntDavid"
+        >
+            <forename>David</forename>
+            <surname>Gaunt</surname>
+        </editor>
+        <editor
+            xml:id="AttoNaures"
+            ref="https://cobdh.org/persons/AttoNaures"
+        >
+            <forename>Naures</forename>
+            <surname>Atto</surname>
+        </editor>
+        <editor
+            xml:id="BarthomaSonerOnder"
+            ref="https://cobdh.org/persons/BarthomaSonerOnder"
+        >
+            <forename>Soner Onder</forename>
+            <surname>Barthoma</surname>
+        </editor>
+        <imprint>
+            <pubPlace>New York / Oxford</pubPlace>
+            <biblScope unit="page">33-53</biblScope>
+            <publisher>Berghahn</publisher>
+            <date>2017</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">War and Genocide 26</title>
+    </series>
+</biblStruct>

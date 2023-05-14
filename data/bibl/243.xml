@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9RNQPKZL"
+    xml:id="Mathews1997"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Commentary on Genesis Attributed to Ephrem the Syrian: General
+            Characteristics and Considerations
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">St. Nersess Theological Review</title>
+        <imprint>
+            <biblScope unit="volume">2:2</biblScope>
+            <biblScope unit="page">199-232</biblScope>
+            <date>1997</date>
+        </imprint>
+    </monogr>
+</biblStruct>

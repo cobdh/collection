@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/HHC5DF8C"
+    xml:id="Desreumaux2004"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Inscription syriaque du village de Gelaysor (Arménie)
+        </title>
+        <author
+            xml:id="DesreumauxAlain"
+            ref="https://cobdh.org/persons/DesreumauxAlain"
+        >
+            <forename>Alain</forename>
+            <surname>Desreumaux</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Iran and the Caucasus</title>
+        <imprint>
+            <biblScope unit="volume">8:2</biblScope>
+            <biblScope unit="page">215-217</biblScope>
+            <date>2004</date>
+        </imprint>
+    </monogr>
+</biblStruct>

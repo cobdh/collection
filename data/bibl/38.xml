@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/MSC4PHFD"
+    xml:id="Hovhanessian2009"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Armenian Manuscripts of the Commentaries on the Letters of the Apostle Paul
+            Attributed to Saint Ephrem the Syrian
+        </title>
+        <author
+            xml:id="HovhanessianVahanS"
+            ref="https://cobdh.org/persons/HovhanessianVahanS"
+        >
+            <forename>Vahan S.</forename>
+            <surname>Hovhanessian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">The Harp</title>
+        <imprint>
+            <biblScope unit="volume">24</biblScope>
+            <biblScope unit="page">311-327</biblScope>
+            <date>2009</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/3PDNMADG"
+    xml:id="Casey1938"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Marcionites and the Diatessaron
+        </title>
+        <author
+            xml:id="CaseyRobertPierce"
+            ref="https://cobdh.org/persons/CaseyRobertPierce"
+        >
+            <forename>Robert Pierce</forename>
+            <surname>Casey</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Journal of Biblical Literature</title>
+        <imprint>
+            <biblScope unit="volume">57:2</biblScope>
+            <biblScope unit="page">185-194</biblScope>
+            <date>1938</date>
+        </imprint>
+    </monogr>
+</biblStruct>

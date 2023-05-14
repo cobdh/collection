@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WXBI7PW8"
+    xml:id="Winkler1993"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Ein Beitrag zum armenischen, syrischen und griechischen Sprachgebrauch bei den
+            Aussagen über die Inkarnation in den frühen Symbolzitaten
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Logos: Festschrift für Luise Abramowski zum 8. Juli 1993
+        </title>
+        <editor
+            xml:id="BrenneckeHannsChristof"
+            ref="https://cobdh.org/persons/BrenneckeHannsChristof"
+        >
+            <forename>Hanns Christof</forename>
+            <surname>Brennecke</surname>
+        </editor>
+        <editor
+            xml:id="GrasmueckErnstLudwig"
+            ref="https://cobdh.org/persons/GrasmueckErnstLudwig"
+        >
+            <forename>Ernst Ludwig</forename>
+            <surname>Grasmück</surname>
+        </editor>
+        <editor
+            xml:id="MarkschiesChristoph"
+            ref="https://cobdh.org/persons/MarkschiesChristoph"
+        >
+            <forename>Christoph</forename>
+            <surname>Markschies</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Berlin</pubPlace>
+            <biblScope unit="page">499-510</biblScope>
+            <publisher>Walter de Gruyter</publisher>
+            <date>1993</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 67
+        </title>
+    </series>
+</biblStruct>

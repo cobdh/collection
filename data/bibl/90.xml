@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/5NDHZYY2"
+    xml:id="Honigmann1935"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Die Ostgrenze des byzantinischen Reiches, von 363 bis 1071 nach griechischen,
+            arabischen, syrischen und armenischen Quellen
+        </title>
+        <author
+            xml:id="HonigmannErnest"
+            ref="https://cobdh.org/persons/HonigmannErnest"
+        >
+            <forename>Ernest</forename>
+            <surname>Honigmann</surname>
+        </author>
+        <imprint>
+            <pubPlace>Bruxelles</pubPlace>
+            <publisher>
+                Institut de Philologie et d’Histoire Orientales
+            </publisher>
+            <date>1935</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Corpus Bruxellense historiae Byzantinae 3
+        </title>
+    </series>
+</biblStruct>

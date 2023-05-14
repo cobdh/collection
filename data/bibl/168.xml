@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WD2L8DK4"
+    xml:id="Ter-Petrossian1987"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Le rôle des Syriens dans la culture de la Cilicie armenienne aux XII
+            <hi rend="sup">e</hi>
+            -XIII
+            <hi rend="sup">e</hi>
+            siècle
+        </title>
+        <author
+            xml:id="TerPetrossianLevon"
+            ref="https://cobdh.org/persons/TerPetrossianLevon"
+        >
+            <forename>Levon</forename>
+            <surname>Ter-Petrossian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Bazmavep</title>
+        <imprint>
+            <biblScope unit="volume">145</biblScope>
+            <biblScope unit="page">122-161</biblScope>
+            <date>1987</date>
+        </imprint>
+    </monogr>
+</biblStruct>

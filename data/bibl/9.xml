@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/AXGBVIEW"
+    xml:id="Pouderon2000"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            À propos de l’Apologie d’Aristide: recherches sur le prototype commun aux
+            versions syriaque et arménienne
+        </title>
+        <author
+            xml:id="PouderonBernard"
+            ref="https://cobdh.org/persons/PouderonBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Pouderon</surname>
+        </author>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+        <author
+            xml:id="PierreMarieJoseph"
+            ref="https://cobdh.org/persons/PierreMarieJoseph"
+        >
+            <forename>Marie-Joseph</forename>
+            <surname>Pierre</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des sciences religieuses</title>
+        <imprint>
+            <biblScope unit="volume">74</biblScope>
+            <biblScope unit="page">173-193</biblScope>
+            <date>2000</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RBCW2NQ3"
+    xml:id="Mathews2005"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Early Armenian Hermit: Further Reflections on the Syriac Sources
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">St. Nersess Theological Review</title>
+        <imprint>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="page">141-167</biblScope>
+            <date>2005</date>
+        </imprint>
+    </monogr>
+</biblStruct>

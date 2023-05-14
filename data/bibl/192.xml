@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/HXLAGH5G"
+    xml:id="Winkler2007"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Nochmals die “Dritte Stunde” und die “Heiligen Mysterien” in syrischen und
+            armenischen Quellen
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Orientalia Christiana Periodica</title>
+        <imprint>
+            <biblScope unit="volume">73:1</biblScope>
+            <biblScope unit="page">207-222</biblScope>
+            <date>2007</date>
+        </imprint>
+    </monogr>
+</biblStruct>

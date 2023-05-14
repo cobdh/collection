@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RZXLSGWP"
+    xml:id="Schellewald1984"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Zur Typologie, Entwicklung und Funktion von Oberräumen in Syrien, Armenien und
+            Byzanz
+        </title>
+        <author
+            xml:id="SchellewaldBarbara"
+            ref="https://cobdh.org/persons/SchellewaldBarbara"
+        >
+            <forename>Barbara</forename>
+            <surname>Schellewald</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Jahrbuch für Antike und Christentum</title>
+        <imprint>
+            <biblScope unit="volume">27-28</biblScope>
+            <biblScope unit="page">171-218</biblScope>
+            <date>1984</date>
+        </imprint>
+    </monogr>
+</biblStruct>

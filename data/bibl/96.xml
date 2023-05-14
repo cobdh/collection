@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9NE4SNYM"
+    xml:id="Göttsberger1901"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Die syro-armenischen und die syro-koptischen Bibelcitate aus den Scholien des
+            Barhebräus
+        </title>
+        <author
+            xml:id="GoettsbergerJohann"
+            ref="https://cobdh.org/persons/GoettsbergerJohann"
+        >
+            <forename>Johann</forename>
+            <surname>Göttsberger</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Zeitschrift für die alttestamentliche Wissenschaft
+        </title>
+        <imprint>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="page">101-141</biblScope>
+            <date>1901</date>
+        </imprint>
+    </monogr>
+</biblStruct>

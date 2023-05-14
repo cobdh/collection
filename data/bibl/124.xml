@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/66MM4QTG"
+    xml:id="McCollum2015"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Greek Literature in the Christian East: Translations into Syriac, Georgian, and
+            Armenian
+        </title>
+        <author
+            xml:id="McCollumAdamCarter"
+            ref="https://cobdh.org/persons/McCollumAdamCarter"
+        >
+            <forename>Adam Carter</forename>
+            <surname>McCollum</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Intellectual History of the Islamicate World
+        </title>
+        <imprint>
+            <biblScope unit="volume">3:1-2</biblScope>
+            <biblScope unit="page">15-65</biblScope>
+            <date>2015</date>
+        </imprint>
+    </monogr>
+</biblStruct>

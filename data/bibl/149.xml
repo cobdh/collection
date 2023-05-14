@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/EJFEPISZ"
+    xml:id="Carrière1895"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            La Légende d’Abgar dans I’“Histoire d’Arménie” de Moïse de Khoren
+        </title>
+        <author
+            xml:id="CarrièreAuguste"
+            ref="https://cobdh.org/persons/CarrièreAuguste"
+        >
+            <forename>Auguste</forename>
+            <surname>Carrière</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Imprimerie nationale</publisher>
+            <date>1895</date>
+        </imprint>
+    </monogr>
+</biblStruct>

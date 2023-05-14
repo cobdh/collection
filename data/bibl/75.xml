@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JBPV4AHU"
+    xml:id="Molitor1938"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Der Paulustext des hl. Ephräm aus seinem armenisch erhaltenen Paulinenkommentar
+            untersucht und rekonstruiert
+        </title>
+        <author
+            xml:id="MolitorJoseph"
+            ref="https://cobdh.org/persons/MolitorJoseph"
+        >
+            <forename>Joseph</forename>
+            <surname>Molitor</surname>
+        </author>
+        <imprint>
+            <pubPlace>Roma</pubPlace>
+            <publisher>Pontifical Biblical Institute</publisher>
+            <date>1938</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Monumenta Biblica et Ecclesiastica 4</title>
+    </series>
+</biblStruct>

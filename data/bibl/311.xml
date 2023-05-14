@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/QBHVVNU9"
+    xml:id="Schmidt1994"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Warum schreibt Petrus der Iberer an die Armenier? Ein pseudonymer Brief und die
+            Armenisierung der syrischen Plerophorien
+        </title>
+        <author
+            xml:id="SchmidtAndreaB"
+            ref="https://cobdh.org/persons/SchmidtAndreaB"
+        >
+            <forename>Andrea B.</forename>
+            <surname>Schmidt</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Horizonte der Christenheit: Festschrift für Friedrich Heyer zu seinem 85.
+            Geburtstag
+        </title>
+        <editor
+            xml:id="KohlbacherMichael"
+            ref="https://cobdh.org/persons/KohlbacherMichael"
+        >
+            <forename>Michael</forename>
+            <surname>Kohlbacher</surname>
+        </editor>
+        <editor
+            xml:id="LesinskiMarkus"
+            ref="https://cobdh.org/persons/LesinskiMarkus"
+        >
+            <forename>Markus</forename>
+            <surname>Lesinski</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Erlangen</pubPlace>
+            <biblScope unit="page">250-267</biblScope>
+            <publisher>K. Urlaub</publisher>
+            <date>1994</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Oikonomia 34</title>
+    </series>
+</biblStruct>

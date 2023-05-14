@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/F5UVK8AR"
+    xml:id="Schmidt2007"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Des langues orientales écrites en caractères arméniens: arménien et syriaque
+        </title>
+        <author
+            xml:id="SchmidtAndreaB"
+            ref="https://cobdh.org/persons/SchmidtAndreaB"
+        >
+            <forename>Andrea B.</forename>
+            <surname>Schmidt</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">Arménie. La magie de l’écrit</title>
+        <editor
+            xml:id="MutafianClaude"
+            ref="https://cobdh.org/persons/MutafianClaude"
+        >
+            <forename>Claude</forename>
+            <surname>Mutafian</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <biblScope unit="page">345-348</biblScope>
+            <publisher>Somogy</publisher>
+            <date>2007</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6FQMUHWX"
+    xml:id="Outtier1977"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            [La traduction arménienne d’un texte d’Apollinaire sous le nom d’Ephrem]
+        </title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Banber Matenadarani</title>
+        <imprint>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="page">163-167</biblScope>
+            <date>1977</date>
+        </imprint>
+    </monogr>
+</biblStruct>

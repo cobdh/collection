@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/MJJZDKQP"
+    xml:id="Akopian2010"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Babylon, and Armenian-Language Syriac Periodical: Some Remarks on Milieu,
+            Structure, and Language
+        </title>
+        <author
+            xml:id="AkopianArman"
+            ref="https://cobdh.org/persons/AkopianArman"
+        >
+            <forename>Arman</forename>
+            <surname>Akopian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Journal of the Canadian Society for Syriac Studies
+        </title>
+        <imprint>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="page">84-99</biblScope>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+</biblStruct>

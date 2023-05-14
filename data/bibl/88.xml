@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/C4E6EKJH"
+    xml:id="Essabalian1933"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Die mêmrê des hl. Ephraim über den Untergang Nikomediens in armenischer
+            Übersetzung
+        </title>
+        <author
+            xml:id="EssabalianPaul"
+            ref="https://cobdh.org/persons/EssabalianPaul"
+        >
+            <forename>Paul</forename>
+            <surname>Essabalian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Handes Amsorya</title>
+        <imprint>
+            <biblScope unit="volume">47</biblScope>
+            <biblScope unit="page">261-280</biblScope>
+            <date>1933</date>
+        </imprint>
+    </monogr>
+</biblStruct>

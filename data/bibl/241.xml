@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/PG4EKTEC"
+    xml:id="Mathews1997"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Commentary on Genesis Attributed to Ephrem the Syrian
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            The Book of Genesis in Jewish and Oriental Christian Interpretation: A
+            Collection of Essays
+        </title>
+        <editor
+            xml:id="FrishmanJudith"
+            ref="https://cobdh.org/persons/FrishmanJudith"
+        >
+            <forename>Judith</forename>
+            <surname>Frishman</surname>
+        </editor>
+        <editor
+            xml:id="vanRompayLucas"
+            ref="https://cobdh.org/persons/vanRompayLucas"
+        >
+            <forename>Lucas</forename>
+            <surname>van Rompay</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <biblScope unit="page">143-161</biblScope>
+            <publisher>Peeters</publisher>
+            <date>1997</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Traditio Exegetica Graeca 5</title>
+    </series>
+</biblStruct>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/YE9KMSEK"
+    xml:id="Maśko2021"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Memory of Mass Persecution of Armenians and Assyrians in Four Recent Iraqi
+            Novels
+        </title>
+        <author
+            xml:id="MaśkoAdrianna"
+            ref="https://cobdh.org/persons/MaśkoAdrianna"
+        >
+            <forename>Adrianna</forename>
+            <surname>Maśko</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Rocznik Orientalistyczny</title>
+        <imprint>
+            <biblScope unit="volume">74:1</biblScope>
+            <biblScope unit="page">58-94</biblScope>
+            <date>2021</date>
+        </imprint>
+    </monogr>
+</biblStruct>

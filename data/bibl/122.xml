@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/R2FD477I"
+    xml:id="Arlen2018"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Gišeroy kc‘urdk‘ (Hymns of the Night): Seven Madrāše of Ephrem the Syrian
+            Preserved in Armenian
+        </title>
+        <author
+            xml:id="ArlenJesseSiragan"
+            ref="https://cobdh.org/persons/ArlenJesseSiragan"
+        >
+            <forename>Jesse Siragan</forename>
+            <surname>Arlen</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Hugoye: Journal of Syriac Studies</title>
+        <imprint>
+            <biblScope unit="volume">21:2</biblScope>
+            <biblScope unit="page">267-318</biblScope>
+            <date>2018</date>
+        </imprint>
+    </monogr>
+</biblStruct>

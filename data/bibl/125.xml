@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IF6F2MEW"
+    xml:id="Scala2016"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Greek, Syriac and Armenian in Contact: Lexical and Textual Outcomes
+        </title>
+        <author
+            xml:id="ScalaAndrea"
+            ref="https://cobdh.org/persons/ScalaAndrea"
+        >
+            <forename>Andrea</forename>
+            <surname>Scala</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Greek Texts and Armenian Traditions: An Interdisciplinary Approach
+        </title>
+        <editor
+            xml:id="GazzanoFrancesca"
+            ref="https://cobdh.org/persons/GazzanoFrancesca"
+        >
+            <forename>Francesca</forename>
+            <surname>Gazzano</surname>
+        </editor>
+        <editor
+            xml:id="PaganiLara"
+            ref="https://cobdh.org/persons/PaganiLara"
+        >
+            <forename>Lara</forename>
+            <surname>Pagani</surname>
+        </editor>
+        <editor
+            xml:id="TrainaGiusto"
+            ref="https://cobdh.org/persons/TrainaGiusto"
+        >
+            <forename>Giusto</forename>
+            <surname>Traina</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Berlin / Boston</pubPlace>
+            <biblScope unit="page">299-310</biblScope>
+            <publisher>Walter de Gruyter</publisher>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Trends in Classics – Supplementary Volumes 39
+        </title>
+    </series>
+</biblStruct>

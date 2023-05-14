@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/75V2EXSE"
+    xml:id="Langlois1867"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Collection des historiens anciens et modernes de l’Arménie
+        </title>
+        <extent>2</extent>
+        <author
+            xml:id="LangloisVictor"
+            ref="https://cobdh.org/persons/LangloisVictor"
+        >
+            <forename>Victor</forename>
+            <surname>Langlois</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Firmin-Didot</publisher>
+            <date>1867</date>
+        </imprint>
+    </monogr>
+</biblStruct>

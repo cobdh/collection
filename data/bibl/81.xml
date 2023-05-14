@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/BX7ABBFC"
+    xml:id="Kaufhold1997"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Die armenischen Übersetzungen byzantinischer Rechtsbücher. Erster Teil:
+            Allgemeines; Zweiter Teil: Die “Kurze Sammlung” (“Sententiae Syriacae”)
+        </title>
+        <author
+            xml:id="KaufholdHubert"
+            ref="https://cobdh.org/persons/KaufholdHubert"
+        >
+            <forename>Hubert</forename>
+            <surname>Kaufhold</surname>
+        </author>
+        <imprint>
+            <pubPlace>Frankfurt am Main</pubPlace>
+            <publisher>Löwenklau-Gesellschaft e. V.</publisher>
+            <date>1997</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Forschungen zur byzantinischen Rechtsgeschichte 21
+        </title>
+    </series>
+</biblStruct>

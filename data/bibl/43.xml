@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/FM22YFEN"
+    xml:id="Essabalian1942"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Armenisch-persische Lehnwörter im Pahlavi-Psalter
+        </title>
+        <author
+            xml:id="EssabalianPaul"
+            ref="https://cobdh.org/persons/EssabalianPaul"
+        >
+            <forename>Paul</forename>
+            <surname>Essabalian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Handes Amsorya</title>
+        <imprint>
+            <biblScope unit="volume">56</biblScope>
+            <biblScope unit="page">61-69</biblScope>
+            <date>1942</date>
+        </imprint>
+    </monogr>
+</biblStruct>

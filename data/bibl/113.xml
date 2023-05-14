@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/GPMCQF7K"
+    xml:id="Hovhanessian1980"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Eusèbe d’Émèse. Commentaire de l’Octateuque
+        </title>
+        <author
+            xml:id="HovhanessianVahan"
+            ref="https://cobdh.org/persons/HovhanessianVahan"
+        >
+            <forename>Vahan</forename>
+            <surname>Hovhanessian</surname>
+        </author>
+        <imprint>
+            <pubPlace>Venezia</pubPlace>
+            <publisher>S. Lazzaro</publisher>
+            <date>1980</date>
+        </imprint>
+    </monogr>
+</biblStruct>

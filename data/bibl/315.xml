@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JUNPVD23"
+    xml:id="Drost-Abgarjan2005"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Zur Eschatologie Aphrahats des Persischen Weisen. Differenzen in der armenischen
+            Version der Demonstrationes
+        </title>
+        <author
+            xml:id="DrostAbgarjanArmenuhi"
+            ref="https://cobdh.org/persons/DrostAbgarjanArmenuhi"
+        >
+            <forename>Armenuhi</forename>
+            <surname>Drost-Abgarjan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Die Suryoye und ihre Umwelt: 4. deutsches Syrologen-Symposium in Trier 2004.
+            Festgabe Wolfgang Hage zum 70. Geburtstag
+        </title>
+        <editor
+            xml:id="TamckeMartin"
+            ref="https://cobdh.org/persons/TamckeMartin"
+        >
+            <forename>Martin</forename>
+            <surname>Tamcke</surname>
+        </editor>
+        <editor
+            xml:id="HeinzAndreas"
+            ref="https://cobdh.org/persons/HeinzAndreas"
+        >
+            <forename>Andreas</forename>
+            <surname>Heinz</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Münster</pubPlace>
+            <biblScope unit="page">295-312</biblScope>
+            <publisher>LIT</publisher>
+            <date>2005</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Studien zur orientalischen Kirchengeschichte 36
+        </title>
+    </series>
+</biblStruct>

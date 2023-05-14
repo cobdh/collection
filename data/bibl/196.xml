@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/GFVA4NUT"
+    xml:id="Afif2018"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">On Digamma and the Armenian Earth</title>
+        <author
+            xml:id="AfifNaïma"
+            ref="https://cobdh.org/persons/AfifNaïma"
+        >
+            <forename>Naïma</forename>
+            <surname>Afif</surname>
+        </author>
+        <author
+            xml:id="BhayroSiam"
+            ref="https://cobdh.org/persons/BhayroSiam"
+        >
+            <forename>Siam</forename>
+            <surname>Bhayro</surname>
+        </author>
+        <author
+            xml:id="PormannPeterE"
+            ref="https://cobdh.org/persons/PormannPeterE"
+        >
+            <forename>Peter E.</forename>
+            <surname>Pormann</surname>
+        </author>
+        <author
+            xml:id="SellersWilliamI"
+            ref="https://cobdh.org/persons/SellersWilliamI"
+        >
+            <forename>William I.</forename>
+            <surname>Sellers</surname>
+        </author>
+        <author
+            xml:id="SmelovaNatalia"
+            ref="https://cobdh.org/persons/SmelovaNatalia"
+        >
+            <forename>Natalia</forename>
+            <surname>Smelova</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">131:3-4</biblScope>
+            <biblScope unit="page">391-414</biblScope>
+            <date>2018</date>
+        </imprint>
+    </monogr>
+</biblStruct>

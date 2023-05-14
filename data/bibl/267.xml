@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/XVULVY9T"
+    xml:id="Conybeare1897"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Growth of the P
+            <hi rend="sup">e</hi>
+            shiṭtâ Version of the New Testament, Illustrated from the Old Armenian and
+            Georgian Versions
+        </title>
+        <author
+            xml:id="ConybeareFrederickCornwallis"
+            ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+        >
+            <forename>Frederick Cornwallis</forename>
+            <surname>Conybeare</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">American Journal of Theology</title>
+        <imprint>
+            <biblScope unit="volume">1:4</biblScope>
+            <biblScope unit="page">883-912</biblScope>
+            <date>1897</date>
+        </imprint>
+    </monogr>
+</biblStruct>

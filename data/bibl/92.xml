@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ESALS3DU"
+    xml:id="Akinian1956"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Die Sammlung der 51 Madrashe des hl. Ephrem Coelesyrus in altarmenischer
+            Übersetzung
+        </title>
+        <author
+            xml:id="AkinianNerses"
+            ref="https://cobdh.org/persons/AkinianNerses"
+        >
+            <forename>Nerses</forename>
+            <surname>Akinian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Handes Amsorya</title>
+        <imprint>
+            <biblScope unit="volume">70</biblScope>
+            <biblScope unit="page">1-15, 97-122</biblScope>
+            <date>1956</date>
+        </imprint>
+    </monogr>
+</biblStruct>

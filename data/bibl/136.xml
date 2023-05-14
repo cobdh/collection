@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6WD5INXB"
+    xml:id="Sergey"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Jeshu Stylite on the Armenian Revolt against the Sassanians
+        </title>
+        <author
+            xml:id="YuzbashianKN"
+            ref="https://cobdh.org/persons/YuzbashianKN"
+        >
+            <forename>K. N.</forename>
+            <surname>Yuzbashian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Khristianskij Vostok</title>
+        <imprint>
+            <biblScope unit="volume">3 [9]</biblScope>
+            <biblScope unit="page">318-327</biblScope>
+            <date>2002</date>
+        </imprint>
+    </monogr>
+</biblStruct>

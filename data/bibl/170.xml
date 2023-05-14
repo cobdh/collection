@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/REDZHA3L"
+    xml:id="Macler1919"
+    type="book"
+>
+    <monogr>
+        <title level="m">Les Arméniens en Syrie et en Palestine</title>
+        <author
+            xml:id="MaclerFrédéric"
+            ref="https://cobdh.org/persons/MaclerFrédéric"
+        >
+            <forename>Frédéric</forename>
+            <surname>Macler</surname>
+        </author>
+        <imprint>
+            <pubPlace>Marseille</pubPlace>
+            <publisher>Barlatier</publisher>
+            <date>1919</date>
+        </imprint>
+    </monogr>
+</biblStruct>

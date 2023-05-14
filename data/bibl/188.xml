@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JXRMA5VL"
+    xml:id="Southgate1840"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Narrative of a Tour through Armenia, Kurdistan, Persia, and Mesopotamia, with
+            Observations on the Condition of Mohammedanism and Christianity in Those
+            Countries
+        </title>
+        <extent>2</extent>
+        <author
+            xml:id="SouthgateHoratio"
+            ref="https://cobdh.org/persons/SouthgateHoratio"
+        >
+            <forename>Horatio</forename>
+            <surname>Southgate</surname>
+        </author>
+        <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>Tilt and Bogue</publisher>
+            <date>1840</date>
+        </imprint>
+    </monogr>
+</biblStruct>

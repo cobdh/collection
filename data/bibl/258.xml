@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/S627VXUL"
+    xml:id="Gehman1930"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Version of the Book of Daniel and its Affinities
+        </title>
+        <author
+            xml:id="GehmanHenryS"
+            ref="https://cobdh.org/persons/GehmanHenryS"
+        >
+            <forename>Henry S.</forename>
+            <surname>Gehman</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Zeitschrift für die alttestamentliche Wissenschaft
+        </title>
+        <imprint>
+            <biblScope unit="volume">48</biblScope>
+            <biblScope unit="page">82-99</biblScope>
+            <date>1930</date>
+        </imprint>
+    </monogr>
+</biblStruct>

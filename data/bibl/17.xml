@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/CNR7UV6G"
+    xml:id="Thorossian1942"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Aithallae episcopi Edesseni epistola ad christianos in Persarum regione de fide
+        </title>
+        <author
+            xml:id="ThorossianPIoannes"
+            ref="https://cobdh.org/persons/ThorossianPIoannes"
+        >
+            <forename>P. Ioannes</forename>
+            <surname>Thorossian</surname>
+        </author>
+        <imprint>
+            <pubPlace>Venice</pubPlace>
+            <publisher>Typographie arménienne de Saint-Lazare</publisher>
+            <date>1942</date>
+        </imprint>
+    </monogr>
+</biblStruct>

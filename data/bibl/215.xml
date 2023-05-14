@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IBA7M4BA"
+    xml:id="Winkler2014"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Some of the New Findings Concerning the Armenian Anaphoras and Their
+            Significance
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Banber Matenadarani</title>
+        <imprint>
+            <biblScope unit="volume">21</biblScope>
+            <biblScope unit="page">35-48</biblScope>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+</biblStruct>

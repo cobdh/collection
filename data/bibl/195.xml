@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6LK2ZINN"
+    xml:id="Zanolli1927"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Notizie su alcune varianti del testo armeno di Afraate
+        </title>
+        <author
+            xml:id="ZanolliAlmo"
+            ref="https://cobdh.org/persons/ZanolliAlmo"
+        >
+            <forename>Almo</forename>
+            <surname>Zanolli</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Handes Amsorya</title>
+        <imprint>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="page">681-684</biblScope>
+            <date>1927</date>
+        </imprint>
+    </monogr>
+</biblStruct>

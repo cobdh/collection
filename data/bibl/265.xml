@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/K7JU28HB"
+    xml:id="Dadoyan1997"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            The Fatimid Armenians: Cultural and Political Interaction in the Near East
+        </title>
+        <author
+            xml:id="DadoyanSetaB"
+            ref="https://cobdh.org/persons/DadoyanSetaB"
+        >
+            <forename>Seta B.</forename>
+            <surname>Dadoyan</surname>
+        </author>
+        <imprint>
+            <pubPlace>Leiden</pubPlace>
+            <publisher>Brill</publisher>
+            <date>1997</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Islamic History and Civilization 18</title>
+    </series>
+</biblStruct>

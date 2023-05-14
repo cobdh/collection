@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2I2LQ7DX"
+    xml:id="Lichti1912"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Das Sendschreiben des Patriarchen Barschuschan an den Catholicus der Armenier
+        </title>
+        <author
+            xml:id="LichtiOtto"
+            ref="https://cobdh.org/persons/LichtiOtto"
+        >
+            <forename>Otto</forename>
+            <surname>Lichti</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Journal of the American Oriental Society
+        </title>
+        <imprint>
+            <biblScope unit="volume">32:3</biblScope>
+            <biblScope unit="page">268-342</biblScope>
+            <date>1912</date>
+        </imprint>
+    </monogr>
+</biblStruct>

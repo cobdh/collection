@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ELMEDIQJ"
+    xml:id="Petit2011"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Eusèbe d’Émèse. Commentaire de la Genèse: Texte arménien de l’édition de Venise
+            (1980), fragments grecs et syriaques, avec traductions
+        </title>
+        <author
+            xml:id="PetitFrançoise"
+            ref="https://cobdh.org/persons/PetitFrançoise"
+        >
+            <forename>Françoise</forename>
+            <surname>Petit</surname>
+        </author>
+        <author
+            xml:id="vanRompayLucas"
+            ref="https://cobdh.org/persons/vanRompayLucas"
+        >
+            <forename>Lucas</forename>
+            <surname>van Rompay</surname>
+        </author>
+        <author
+            xml:id="WeitenbergJosephJohannesSicco"
+            ref="https://cobdh.org/persons/WeitenbergJosephJohannesSicco"
+        >
+            <forename>Joseph Johannes Sicco</forename>
+            <surname>Weitenberg</surname>
+        </author>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <publisher>Peeters</publisher>
+            <date>2011</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Traditio Exegetica Graeca 15</title>
+    </series>
+</biblStruct>

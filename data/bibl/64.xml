@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6FGB8EXL"
+    xml:id="Davidova2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Comparative Characteristics of Assyrian and Armenian Wedding Rites (the Late
+            19th – Early 20th Centuries)
+        </title>
+        <author
+            xml:id="DavidovaGalya"
+            ref="https://cobdh.org/persons/DavidovaGalya"
+        >
+            <forename>Galya</forename>
+            <surname>Davidova</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Historical-Philological Journal</title>
+        <imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="page">90-103</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

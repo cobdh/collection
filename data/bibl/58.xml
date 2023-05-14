@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/VKGYSDV2"
+    xml:id="Renhart2021"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Cataloguing Syriac Manuscripts: A Glimpse at the Works Carried Out in the
+            Matenadaran of Yerevan (Armenia) and in the Syrian Orthodox Patriarchal Library
+            of Atchaneh (Lebanon)
+        </title>
+        <author
+            xml:id="RenhartErich"
+            ref="https://cobdh.org/persons/RenhartErich"
+        >
+            <forename>Erich</forename>
+            <surname>Renhart</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Tracing Written Heritage in a Digital Age
+        </title>
+        <editor
+            xml:id="IshacEphremAboud"
+            ref="https://cobdh.org/persons/IshacEphremAboud"
+        >
+            <forename>Ephrem Aboud</forename>
+            <surname>Ishac</surname>
+        </editor>
+        <editor
+            xml:id="CsanádyThomas"
+            ref="https://cobdh.org/persons/CsanádyThomas"
+        >
+            <forename>Thomas</forename>
+            <surname>Csanády</surname>
+        </editor>
+        <editor
+            xml:id="ZammitLupiTheresa"
+            ref="https://cobdh.org/persons/ZammitLupiTheresa"
+        >
+            <forename>Theresa</forename>
+            <surname>Zammit Lupi</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Wiesbaden</pubPlace>
+            <biblScope unit="page">195-208</biblScope>
+            <publisher>Harrassowitz Verlag</publisher>
+            <date>2021</date>
+        </imprint>
+    </monogr>
+</biblStruct>

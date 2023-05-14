@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/729ZJH2L"
+    xml:id="Andrews2009"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            The New Age of Prophecy: The Chronicle of Matthew of Edessa and Its Place in
+            Armenian Historiography
+        </title>
+        <author
+            xml:id="AndrewsTaraL"
+            ref="https://cobdh.org/persons/AndrewsTaraL"
+        >
+            <forename>Tara L.</forename>
+            <surname>Andrews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">The Medieval Chronicle VI</title>
+        <editor
+            xml:id="KooperErik"
+            ref="https://cobdh.org/persons/KooperErik"
+        >
+            <forename>Erik</forename>
+            <surname>Kooper</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Amsterdam / New York</pubPlace>
+            <biblScope unit="page">105-123</biblScope>
+            <publisher>Rodopi</publisher>
+            <date>2009</date>
+        </imprint>
+    </monogr>
+</biblStruct>

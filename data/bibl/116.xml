@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/PDW7XTXG"
+    xml:id="Muyldermans1934"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Évagre le Pontique: les
+            <hi rend="italics">Capita cognoscitiua</hi>
+            dans les versions syriaque et arménienne
+        </title>
+        <author
+            xml:id="MuyldermansJoseph"
+            ref="https://cobdh.org/persons/MuyldermansJoseph"
+        >
+            <forename>Joseph</forename>
+            <surname>Muyldermans</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">47</biblScope>
+            <biblScope unit="page">73-106</biblScope>
+            <date>1934</date>
+        </imprint>
+    </monogr>
+</biblStruct>

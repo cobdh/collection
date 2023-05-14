@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6V3NHLAU"
+    xml:id="Nau1909"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Histoire et Sagesse d’Aḥikar l’Assyrien (fils d’Anaël, neveu de Tobie).
+            Traduction des versions syriaques avec les principales différences des versions
+            arabes, arménienne, grecque, néo-syriaque, slave et roumaine
+        </title>
+        <author
+            xml:id="NauFrançois"
+            ref="https://cobdh.org/persons/NauFrançois"
+        >
+            <forename>François</forename>
+            <surname>Nau</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Letouzey et Ané</publisher>
+            <date>1909</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Documents pour l’étude de la Bible</title>
+    </series>
+</biblStruct>

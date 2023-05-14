@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/P6HYAF67"
+    xml:id="Vacca2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Fires of Naxčawan: In Search of Intercultural Transmission in Arabic,
+            Armenian, Greek, and Syriac
+        </title>
+        <author
+            xml:id="VaccaAlison"
+            ref="https://cobdh.org/persons/VaccaAlison"
+        >
+            <forename>Alison</forename>
+            <surname>Vacca</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">129:3-4</biblScope>
+            <biblScope unit="page">323-362</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

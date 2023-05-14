@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/B7SBQXVZ"
+    xml:id="Řoutil2017"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Katastrofa křesťanů: Likvidace Arménů, Asyřanů a Řeků v Osmanské říši v letech
+            1914–1923
+        </title>
+        <author
+            xml:id="ŘoutilMichal"
+            ref="https://cobdh.org/persons/ŘoutilMichal"
+        >
+            <forename>Michal</forename>
+            <surname>Řoutil</surname>
+        </author>
+        <author
+            xml:id="KošťálováPetra"
+            ref="https://cobdh.org/persons/KošťálováPetra"
+        >
+            <forename>Petra</forename>
+            <surname>Košťálová</surname>
+        </author>
+        <author
+            xml:id="NovákPetr"
+            ref="https://cobdh.org/persons/NovákPetr"
+        >
+            <forename>Petr</forename>
+            <surname>Novák</surname>
+        </author>
+        <imprint>
+            <pubPlace>Červený Kostelec / Praha</pubPlace>
+            <publisher>Pavel Mervart</publisher>
+            <date>2017</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Pro Oriente</title>
+    </series>
+</biblStruct>

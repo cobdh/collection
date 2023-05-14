@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/LAEJFLLN"
+    xml:id="Calzolari2010"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            “Je ferai d’eux mon propre peuple.” Les Arméniens, peuple élu selon la
+            littérature apocryphe chrétienne en langue arménienne
+        </title>
+        <author
+            xml:id="CalzolariValentina"
+            ref="https://cobdh.org/persons/CalzolariValentina"
+        >
+            <forename>Valentina</forename>
+            <surname>Calzolari</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Revue d’histoire et de philosophie religieuses
+        </title>
+        <imprint>
+            <biblScope unit="volume">90:2</biblScope>
+            <biblScope unit="page">179-197</biblScope>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+</biblStruct>

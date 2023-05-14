@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ENRVV4M2"
+    xml:id="Lucca2010"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Versioni armene di testi siriaci: breve panoramica sulle traduzioni armene dal
+            siriaco nei secoli V–XIII e loro caratteristiche
+        </title>
+        <author
+            xml:id="LuccaPaolo"
+            ref="https://cobdh.org/persons/LuccaPaolo"
+        >
+            <forename>Paolo</forename>
+            <surname>Lucca</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Annali di Ca’ Foscari, Serie orientale</title>
+        <imprint>
+            <biblScope unit="volume">41 [49:3]</biblScope>
+            <biblScope unit="page">43-62</biblScope>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+</biblStruct>

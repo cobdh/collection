@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ZWGVSBS6"
+    xml:id="Simonet2017"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Les citations des Actes des Apôtres dans la littérature syriaque: la
+            <hi rend="italics">Vetus Syra</hi>
+            et la première version arménienne
+        </title>
+        <author
+            xml:id="SimonetJeanLouis"
+            ref="https://cobdh.org/persons/SimonetJeanLouis"
+        >
+            <forename>Jean-Louis</forename>
+            <surname>Simonet</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">Le Nouveau Testament en syriaque</title>
+        <editor
+            xml:id="HaelewyckJeanClaude"
+            ref="https://cobdh.org/persons/HaelewyckJeanClaude"
+        >
+            <forename>Jean-Claude</forename>
+            <surname>Haelewyck</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <biblScope unit="page">231-267</biblScope>
+            <publisher>Paul Geuthner</publisher>
+            <date>2017</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Études syriaques 14</title>
+    </series>
+</biblStruct>

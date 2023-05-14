@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/QPXRAJWH"
+    xml:id="Hilkens2010"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            The Turks in the 13th-Century Armenian Recensions of the
+            <hi rend="italics">Chronicle</hi>
+            of Michael the Syrian
+        </title>
+        <author
+            xml:id="HilkensAndy"
+            ref="https://cobdh.org/persons/HilkensAndy"
+        >
+            <forename>Andy</forename>
+            <surname>Hilkens</surname>
+        </author>
+        <imprint>
+            <date>2010</date>
+            <note type="thesisType">M.A. thesis</note>
+        </imprint>
+    </monogr>
+</biblStruct>

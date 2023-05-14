@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/C2PLYXZH"
+    xml:id="Tarverdyan2012"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Armenian-Syrian Church Relations at the Beginning of the 7th Century
+        </title>
+        <author
+            xml:id="TarverdyanGor"
+            ref="https://cobdh.org/persons/TarverdyanGor"
+        >
+            <forename>Gor</forename>
+            <surname>Tarverdyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Etchmiadzin</title>
+        <imprint>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="page">16-26</biblScope>
+            <date>2012</date>
+        </imprint>
+    </monogr>
+</biblStruct>

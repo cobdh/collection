@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/N58DMALD"
+    xml:id="Outtier1996"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Une page des relations byzantino-arméniennes: la réception des œuvres de
+            Théodoret de Cyr en Arménie
+        </title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            L’Arménie et Byzance: histoire et culture
+        </title>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Publications de la Sorbonne</publisher>
+            <date>1996</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Série Byzantina Sorbonensia 12</title>
+    </series>
+</biblStruct>

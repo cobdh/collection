@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/FZNMYJVM"
+    xml:id="Hannick2016"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Das Christusbild in der armenischen Überlieferung
+        </title>
+        <author
+            xml:id="HannickChristian"
+            ref="https://cobdh.org/persons/HannickChristian"
+        >
+            <forename>Christian</forename>
+            <surname>Hannick</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Das Christusbild: Zu Herkunft und Entwicklung in Ost und West. Akten der
+            Kongresse in Würzburg, 16.-18. Oktober 2014 und Wien, 17.-18. März 2015
+        </title>
+        <editor
+            xml:id="DietzKarlheinz"
+            ref="https://cobdh.org/persons/DietzKarlheinz"
+        >
+            <forename>Karlheinz</forename>
+            <surname>Dietz</surname>
+        </editor>
+        <editor
+            xml:id="HannickChristian"
+            ref="https://cobdh.org/persons/HannickChristian"
+        >
+            <forename>Christian</forename>
+            <surname>Hannick</surname>
+        </editor>
+        <editor
+            xml:id="LutzkaCarolina"
+            ref="https://cobdh.org/persons/LutzkaCarolina"
+        >
+            <forename>Carolina</forename>
+            <surname>Lutzka</surname>
+        </editor>
+        <editor
+            xml:id="MaierElisabeth"
+            ref="https://cobdh.org/persons/MaierElisabeth"
+        >
+            <forename>Elisabeth</forename>
+            <surname>Maier</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Würzburg</pubPlace>
+            <biblScope unit="page">277-286</biblScope>
+            <publisher>Echter Verlag</publisher>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Das östliche Christentum, Neue Folge 62</title>
+    </series>
+</biblStruct>

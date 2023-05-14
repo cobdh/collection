@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9J8LT8LR"
+    xml:id="Wilder1861"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Mission Schools in India of the American Board of Commissioners for Foreign
+            Missions, with Sketches of the Missions among the North American Indians, the
+            Sandwich Islands, the Armenians of Turkey, and the Nestorians of Persia
+        </title>
+        <author
+            xml:id="WilderRoyalGould"
+            ref="https://cobdh.org/persons/WilderRoyalGould"
+        >
+            <forename>Royal Gould</forename>
+            <surname>Wilder</surname>
+        </author>
+        <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>A.D.F. Randolph / Boston: Crocker</publisher>
+            <date>1861</date>
+        </imprint>
+    </monogr>
+</biblStruct>

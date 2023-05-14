@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/K2YJDR3D"
+    xml:id="Vardanyan1982"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Ancient Armenian Translations of the Works of Syrian Physicians
+        </title>
+        <author
+            xml:id="VardanyanStellaA"
+            ref="https://cobdh.org/persons/VardanyanStellaA"
+        >
+            <forename>Stella A.</forename>
+            <surname>Vardanyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">NS 16</biblScope>
+            <biblScope unit="page">213-219</biblScope>
+            <date>1982</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/EWMGUY42"
+    xml:id="Conybeare1898"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            The Story of Ahikar from the Syriac, Arabic, Armenian, Ethiopic, Greek and
+            Slavonic Versions
+        </title>
+        <author
+            xml:id="ConybeareFrederickCornwallis"
+            ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+        >
+            <forename>Frederick Cornwallis</forename>
+            <surname>Conybeare</surname>
+        </author>
+        <author
+            xml:id="HarrisJamesRendel"
+            ref="https://cobdh.org/persons/HarrisJamesRendel"
+        >
+            <forename>James Rendel</forename>
+            <surname>Harris</surname>
+        </author>
+        <author
+            xml:id="LewisAgnesSmith"
+            ref="https://cobdh.org/persons/LewisAgnesSmith"
+        >
+            <forename>Agnes Smith</forename>
+            <surname>Lewis</surname>
+        </author>
+        <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>C.J. Clay and Sons</publisher>
+            <date>1898</date>
+        </imprint>
+    </monogr>
+</biblStruct>

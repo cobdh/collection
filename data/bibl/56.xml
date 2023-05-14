@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/7IUDQ5QT"
+    xml:id="Macomber1985"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Catalogue des manuscripts syriaques, éthiopiens et arméniens du Centre d’Etudes
+            Orientales Chrétiennes du Mouski, Le Caire
+        </title>
+        <author
+            xml:id="MacomberWilliamF"
+            ref="https://cobdh.org/persons/MacomberWilliamF"
+        >
+            <forename>William F.</forename>
+            <surname>Macomber</surname>
+        </author>
+        <author
+            xml:id="BrockSebastianP"
+            ref="https://cobdh.org/persons/BrockSebastianP"
+        >
+            <forename>Sebastian P.</forename>
+            <surname>Brock</surname>
+        </author>
+        <author
+            xml:id="MistrichV"
+            ref="https://cobdh.org/persons/MistrichV"
+        >
+            <forename>V.</forename>
+            <surname>Mistrich</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Studia Orientalia Christiana, Collectanea
+        </title>
+        <imprint>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="page">211-229</biblScope>
+            <date>1985</date>
+        </imprint>
+    </monogr>
+</biblStruct>

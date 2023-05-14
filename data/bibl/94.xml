@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/LBPBRVCY"
+    xml:id="Tschiftdschjan2014"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Die syrisch-orthodoxen und die armenisch-orthodoxen Christen in Deutschland:
+            Versuch einer Parallelisierung
+        </title>
+        <author
+            xml:id="TschiftdschjanIschchan"
+            ref="https://cobdh.org/persons/TschiftdschjanIschchan"
+        >
+            <forename>Ischchan</forename>
+            <surname>Tschiftdschjan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Geschichte, Theologie und Kultur des syrischen Christentums: Beiträge zum 7.
+            Deutschen Syrologie-Symposium in Göttingen, Dezember 2011
+        </title>
+        <editor
+            xml:id="TamckeMartin"
+            ref="https://cobdh.org/persons/TamckeMartin"
+        >
+            <forename>Martin</forename>
+            <surname>Tamcke</surname>
+        </editor>
+        <editor
+            xml:id="GrebensteinSven"
+            ref="https://cobdh.org/persons/GrebensteinSven"
+        >
+            <forename>Sven</forename>
+            <surname>Grebenstein</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Wiesbaden</pubPlace>
+            <biblScope unit="page">393-403</biblScope>
+            <publisher>Harrassowitz Verlag</publisher>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Göttinger Orientforschungen, I. Reihe: Syriaca 46
+        </title>
+    </series>
+</biblStruct>

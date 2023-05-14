@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/H8WIKU5A"
+    xml:id="Langlois1868"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Chronique de Michel le Grand, patriarche des syriens jacobites, traduite pour la
+            première fois sur la version arménienne du prêtre Ischôk
+        </title>
+        <author
+            xml:id="LangloisVictor"
+            ref="https://cobdh.org/persons/LangloisVictor"
+        >
+            <forename>Victor</forename>
+            <surname>Langlois</surname>
+        </author>
+        <imprint>
+            <pubPlace>Venice</pubPlace>
+            <publisher>
+                Typographie de l’Académie de Saint-Lazare
+            </publisher>
+            <date>1868</date>
+        </imprint>
+    </monogr>
+</biblStruct>

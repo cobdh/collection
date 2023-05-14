@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RW6KZG7G"
+    xml:id="Conybeare1913"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            The Story of Aḥiḳar from the Aramaic, Syriac, Arabic, Armenian, Ethiopic, Old
+            Turkish, Greek and Slavonic Versions
+        </title>
+        <author
+            xml:id="ConybeareFrederickCornwallis"
+            ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+        >
+            <forename>Frederick Cornwallis</forename>
+            <surname>Conybeare</surname>
+        </author>
+        <author
+            xml:id="HarrisJamesRendel"
+            ref="https://cobdh.org/persons/HarrisJamesRendel"
+        >
+            <forename>James Rendel</forename>
+            <surname>Harris</surname>
+        </author>
+        <author
+            xml:id="LewisAgnesSmith"
+            ref="https://cobdh.org/persons/LewisAgnesSmith"
+        >
+            <forename>Agnes Smith</forename>
+            <surname>Lewis</surname>
+        </author>
+        <edition>2nd rev.</edition>
+        <imprint>
+            <pubPlace>Cambridge</pubPlace>
+            <publisher>Cambridge University Press</publisher>
+            <date>1913</date>
+        </imprint>
+    </monogr>
+</biblStruct>

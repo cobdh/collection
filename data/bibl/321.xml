@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/R353YFP7"
+    xml:id="Dum-Tragut2016"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Zwischen den Fronten: Die russisch-orthodoxen Assyrer von Dimitrov (Armenien)
+        </title>
+        <author
+            xml:id="DumTragutJasmine"
+            ref="https://cobdh.org/persons/DumTragutJasmine"
+        >
+            <forename>Jasmine</forename>
+            <surname>Dum-Tragut</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Syrische Studien: Beiträge zum 8. Deutschen Syrologie-Symposium in Salzburg 2014
+        </title>
+        <editor
+            xml:id="WinklerDietmarW"
+            ref="https://cobdh.org/persons/WinklerDietmarW"
+        >
+            <forename>Dietmar W.</forename>
+            <surname>Winkler</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Wien</pubPlace>
+            <biblScope unit="page">143-156</biblScope>
+            <publisher>LIT Verlag</publisher>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Orientalia ‒ Patristica ‒ Oecumenica 10</title>
+    </series>
+</biblStruct>

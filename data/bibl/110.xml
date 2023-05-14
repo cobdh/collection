@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/TX77M9P6"
+    xml:id="Winkler1979"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Eine bemerkenswerte Stelle im armenischen Glaubensbekenntnis:
+            <hi rend="italics">
+                Credimus et in Sanctum Spiritum qui descendit in Jordanem proclamavit missum
+            </hi>
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Oriens Christianus</title>
+        <imprint>
+            <biblScope unit="volume">63</biblScope>
+            <biblScope unit="page">130-162</biblScope>
+            <date>1979</date>
+        </imprint>
+    </monogr>
+</biblStruct>

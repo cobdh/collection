@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WQ2B8V9R"
+    xml:id="Mathews1996"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Literary Corpus Attributed to St. Ephrem the Syrian: Prolegomena to
+            a Project
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">St. Nersess Theological Review</title>
+        <imprint>
+            <biblScope unit="volume">1:2</biblScope>
+            <biblScope unit="page">145-168</biblScope>
+            <date>1996</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/X57PH5EI"
+    xml:id="Lehmann1985"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Bygger det armeniske ny Testamente på syrisk eller græsk forlæg?
+        </title>
+        <author
+            xml:id="LehmannHenningJ"
+            ref="https://cobdh.org/persons/LehmannHenningJ"
+        >
+            <forename>Henning J.</forename>
+            <surname>Lehmann</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Dansk Teologisk Tidsskrift</title>
+        <imprint>
+            <biblScope unit="volume">48</biblScope>
+            <biblScope unit="page">25-50, 153-171</biblScope>
+            <date>1985</date>
+        </imprint>
+    </monogr>
+</biblStruct>

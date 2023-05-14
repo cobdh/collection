@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9YPSGJY6"
+    xml:id="Thomson2000"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Saint Ephrem and an Armenian Homily on the Passion
+        </title>
+        <author
+            xml:id="ThomsonRobertW"
+            ref="https://cobdh.org/persons/ThomsonRobertW"
+        >
+            <forename>Robert W.</forename>
+            <surname>Thomson</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Crossroad of Cultures: Studies in Liturgy and Patristics in Honor of Gabriele
+            Winkler
+        </title>
+        <editor
+            xml:id="FeulnerHansJuergen"
+            ref="https://cobdh.org/persons/FeulnerHansJuergen"
+        >
+            <forename>Hans-Jürgen</forename>
+            <surname>Feulner</surname>
+        </editor>
+        <editor
+            xml:id="VelkovskaElena"
+            ref="https://cobdh.org/persons/VelkovskaElena"
+        >
+            <forename>Elena</forename>
+            <surname>Velkovska</surname>
+        </editor>
+        <editor
+            xml:id="TaftRobertF"
+            ref="https://cobdh.org/persons/TaftRobertF"
+        >
+            <forename>Robert F.</forename>
+            <surname>Taft</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Roma</pubPlace>
+            <biblScope unit="page">693-703</biblScope>
+            <publisher>Pontificio Istituto Orientale</publisher>
+            <date>2000</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Orientalia Christiana Analecta 260</title>
+    </series>
+</biblStruct>

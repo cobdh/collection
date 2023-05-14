@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/FEPW4S2N"
+    xml:id="Pennacchietti1995"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Neoaramaico, curdo e armeno: lingue a contatto
+        </title>
+        <author
+            xml:id="PennacchiettiFabrizioA"
+            ref="https://cobdh.org/persons/PennacchiettiFabrizioA"
+        >
+            <forename>Fabrizio A.</forename>
+            <surname>Pennacchietti</surname>
+        </author>
+        <author
+            xml:id="OrengoAlessandro"
+            ref="https://cobdh.org/persons/OrengoAlessandro"
+        >
+            <forename>Alessandro</forename>
+            <surname>Orengo</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Egitto e Vicino Oriente</title>
+        <imprint>
+            <biblScope unit="volume">18</biblScope>
+            <biblScope unit="page">221-233</biblScope>
+            <date>1995</date>
+        </imprint>
+    </monogr>
+</biblStruct>

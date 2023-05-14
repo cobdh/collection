@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IWZ2KXHJ"
+    xml:id="Karaulashvili2012"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            A Short Overview of the Nationalised Peculiarities of the Abgar Legend in
+            Georgian, Armenian and Slavonic Traditions
+        </title>
+        <author
+            xml:id="KaraulashviliIrma"
+            ref="https://cobdh.org/persons/KaraulashviliIrma"
+        >
+            <forename>Irma</forename>
+            <surname>Karaulashvili</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Scripta & e-Scripta</title>
+        <imprint>
+            <biblScope unit="volume">10-11</biblScope>
+            <biblScope unit="page">171-184</biblScope>
+            <date>2012</date>
+        </imprint>
+    </monogr>
+</biblStruct>

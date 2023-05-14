@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/BJGQHQCE"
+    xml:id="Mathews2006"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            A First Glance at the Armenian “Prayers” Attributed to Surb Eprem Xorin Asorwoy
+        </title>
+        <author
+            xml:id="MathewsEdwardGeorge"
+            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+        >
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Worship Traditions in Armenia and the Neighboring Christian East: An
+            International Symposium in Honor of the 40th Anniversary of St Nersess Armenian
+            Seminary
+        </title>
+        <editor
+            xml:id="ErvineRobertaR"
+            ref="https://cobdh.org/persons/ErvineRobertaR"
+        >
+            <forename>Roberta R.</forename>
+            <surname>Ervine</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Crestwood, New York</pubPlace>
+            <biblScope unit="page">161-173</biblScope>
+            <publisher>
+                St Vladimir’s Seminary Press / St Nersess Armenian Seminary
+            </publisher>
+            <date>2006</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            AVANT: Treasures of the Armenian Christian Tradition 3
+        </title>
+    </series>
+</biblStruct>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2QXVGFEF"
+    xml:id="Outtier1977"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            La version arménienne du
+            <hi rend="italics">Commentaire des Psaumes</hi>
+            de Théodoret. Premier bilan
+        </title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">12</biblScope>
+            <biblScope unit="page">169-180</biblScope>
+            <date>1977</date>
+        </imprint>
+    </monogr>
+</biblStruct>

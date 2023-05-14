@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/7D9YUGJK"
+    xml:id="Diamadis2017"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Controversies around Governmental and Parliamentary Recognition of the Armenian,
+            Hellenic and Assyrian Genocides
+        </title>
+        <author
+            xml:id="DiamadisPanayiotis"
+            ref="https://cobdh.org/persons/DiamadisPanayiotis"
+        >
+            <forename>Panayiotis</forename>
+            <surname>Diamadis</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Controversies in the Field of Genocide Studies
+        </title>
+        <editor
+            xml:id="TottenSamuel"
+            ref="https://cobdh.org/persons/TottenSamuel"
+        >
+            <forename>Samuel</forename>
+            <surname>Totten</surname>
+        </editor>
+        <editor
+            xml:id="TheriaultHenry"
+            ref="https://cobdh.org/persons/TheriaultHenry"
+        >
+            <forename>Henry</forename>
+            <surname>Theriault</surname>
+        </editor>
+        <editor
+            xml:id="vonJoedenForgeyElisa"
+            ref="https://cobdh.org/persons/vonJoedenForgeyElisa"
+        >
+            <forename>Elisa</forename>
+            <surname>von Joeden-Forgey</surname>
+        </editor>
+        <imprint>
+            <pubPlace>New Brunswick</pubPlace>
+            <biblScope unit="page">91-152</biblScope>
+            <publisher>Transaction Publishers</publisher>
+            <date>2017</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Genocide: A Critical Bibliographic Review 11
+        </title>
+    </series>
+</biblStruct>

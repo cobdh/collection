@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/94MNCWGC"
+    xml:id="Yevadian2019"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            L’apôtre Thomas et l’Inde, dans la littérature arménienne, V
+            <hi rend="sup">e</hi>
+            –XI
+            <hi rend="sup">e</hi>
+            siècles
+        </title>
+        <author
+            xml:id="YevadianMaximeK"
+            ref="https://cobdh.org/persons/YevadianMaximeK"
+        >
+            <forename>Maxime K.</forename>
+            <surname>Yevadian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Oriens Christianus</title>
+        <imprint>
+            <biblScope unit="volume">102</biblScope>
+            <biblScope unit="page">180-220</biblScope>
+            <date>2019</date>
+        </imprint>
+    </monogr>
+</biblStruct>

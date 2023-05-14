@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/K4UUCUKU"
+    xml:id="Outtier1978"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Un discours sur les ruses de Satan attribué à Ephrem (texte arménien inédit)
+        </title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">13</biblScope>
+            <biblScope unit="page">165-174</biblScope>
+            <date>1978</date>
+        </imprint>
+    </monogr>
+</biblStruct>

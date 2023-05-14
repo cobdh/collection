@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/HY5HFBQA"
+    xml:id="Büchner1927"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Zu einer Stelle der armenischen Übersetzung von Ephrem Syrus’ Diatessaron-
+            Kommentar
+        </title>
+        <author
+            xml:id="BuechnerVF"
+            ref="https://cobdh.org/persons/BuechnerVF"
+        >
+            <forename>V. F.</forename>
+            <surname>Büchner</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Handes Amsorya</title>
+        <imprint>
+            <biblScope unit="volume">41</biblScope>
+            <biblScope unit="page">685-688</biblScope>
+            <date>1927</date>
+        </imprint>
+    </monogr>
+</biblStruct>

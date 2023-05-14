@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/44CIVPI5"
+    xml:id="Ter-Petrossian1982"
+    type="book"
+>
+    <monogr>
+        <title level="m">Ananun Edesac‘i. Žamanakagrut‘yun</title>
+        <author
+            xml:id="TerPetrossianLevon"
+            ref="https://cobdh.org/persons/TerPetrossianLevon"
+        >
+            <forename>Levon</forename>
+            <surname>Ter-Petrossian</surname>
+        </author>
+        <imprint>
+            <pubPlace>Erevan</pubPlace>
+            <publisher>Matenadaran</publisher>
+            <date>1982</date>
+        </imprint>
+    </monogr>
+</biblStruct>

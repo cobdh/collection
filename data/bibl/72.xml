@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/CZJZXEBE"
+    xml:id="Baumstark1925"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Der armenische Psaltertext. Sein Verhältnis zum syrischen der Pešîttâ und seine
+            Bedeutung für die LXX-Forschung
+        </title>
+        <author
+            xml:id="BaumstarkAnton"
+            ref="https://cobdh.org/persons/BaumstarkAnton"
+        >
+            <forename>Anton</forename>
+            <surname>Baumstark</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Oriens Christianus</title>
+        <imprint>
+            <biblScope unit="volume">II, 12-14</biblScope>
+            <biblScope unit="page">
+                180-213; III, 1 [23] (1926-1927), 158-169, 319-333; III, 2 [24] (1927), 146-159
+            </biblScope>
+            <date>1925</date>
+        </imprint>
+    </monogr>
+</biblStruct>

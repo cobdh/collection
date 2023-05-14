@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/TDFSQLZI"
+    xml:id="Dorfmann-Lazarev2010"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            La transmission de l’apocryphe de l’Enfance de Jésus en Arménie
+        </title>
+        <author
+            xml:id="DorfmannLazarevIgor"
+            ref="https://cobdh.org/persons/DorfmannLazarevIgor"
+        >
+            <forename>Igor</forename>
+            <surname>Dorfmann-Lazarev</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu außerkanonischen
+            Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen
+        </title>
+        <editor
+            xml:id="FreyJoerg"
+            ref="https://cobdh.org/persons/FreyJoerg"
+        >
+            <forename>Jörg</forename>
+            <surname>Frey</surname>
+        </editor>
+        <editor
+            xml:id="SchroeterJens"
+            ref="https://cobdh.org/persons/SchroeterJens"
+        >
+            <forename>Jens</forename>
+            <surname>Schröter</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Tübingen</pubPlace>
+            <biblScope unit="page">557-582</biblScope>
+            <publisher>Mohr Siebeck</publisher>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Wissenschaftliche Untersuchungen zum Neuen Testament 254
+        </title>
+    </series>
+</biblStruct>

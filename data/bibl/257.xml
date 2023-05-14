@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/4IL6XFMW"
+    xml:id="Topchyan2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Version of the
+            <hi rend="italics">Apocalypse of Ps.-Methodius</hi>
+            : Old Armenian Texts with an English Translation, Introduction, and Notes
+        </title>
+        <author
+            xml:id="TopchyanAram"
+            ref="https://cobdh.org/persons/TopchyanAram"
+        >
+            <forename>Aram</forename>
+            <surname>Topchyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Journal of the Society for Armenian Studies
+        </title>
+        <imprint>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="page">3-53</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

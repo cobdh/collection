@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/S8T2VH4H"
+    xml:id="Russell2003"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenians, the Holy Cross, and Dionysius Bar Salibi
+        </title>
+        <author
+            xml:id="RussellJamesR"
+            ref="https://cobdh.org/persons/RussellJamesR"
+        >
+            <forename>James R.</forename>
+            <surname>Russell</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">St. Nersess Theological Review</title>
+        <imprint>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="page">1-12</biblScope>
+            <date>2003</date>
+        </imprint>
+    </monogr>
+</biblStruct>

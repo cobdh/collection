@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6DB3UDA9"
+    xml:id="Dergham2015"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Les reliures syriaques: essai de caractérisation par comparaison avec les
+            reliures byzantines et arméniennes
+        </title>
+        <author
+            xml:id="DerghamYoussef"
+            ref="https://cobdh.org/persons/DerghamYoussef"
+        >
+            <forename>Youssef</forename>
+            <surname>Dergham</surname>
+        </author>
+        <author
+            xml:id="VinourdFrançois"
+            ref="https://cobdh.org/persons/VinourdFrançois"
+        >
+            <forename>François</forename>
+            <surname>Vinourd</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Manuscripta Syriaca. Des sources de première main
+        </title>
+        <editor
+            xml:id="BriquelChatonnetFrançoise"
+            ref="https://cobdh.org/persons/BriquelChatonnetFrançoise"
+        >
+            <forename>Françoise</forename>
+            <surname>Briquel-Chatonnet</surname>
+        </editor>
+        <editor
+            xml:id="DebiéMuriel"
+            ref="https://cobdh.org/persons/DebiéMuriel"
+        >
+            <forename>Muriel</forename>
+            <surname>Debié</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <biblScope unit="page">271-304</biblScope>
+            <publisher>Geuthner</publisher>
+            <date>2015</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Cahiers d’études syriaques 4</title>
+    </series>
+</biblStruct>

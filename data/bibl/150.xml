@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/967887WX"
+    xml:id="Garitte1971"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            La passion arménienne de S. Thomas l’apôtre et son modèle grec
+        </title>
+        <author
+            xml:id="GaritteGérard"
+            ref="https://cobdh.org/persons/GaritteGérard"
+        >
+            <forename>Gérard</forename>
+            <surname>Garitte</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">84:1-2</biblScope>
+            <biblScope unit="page">171-195</biblScope>
+            <date>1971</date>
+        </imprint>
+    </monogr>
+</biblStruct>

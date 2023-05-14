@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2A7FICFZ"
+    xml:id="Winkler2008"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Armenia’s Liturgy at the Crossroads of Neighbouring Traditions
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Orientalia Christiana Periodica</title>
+        <imprint>
+            <biblScope unit="volume">74:2</biblScope>
+            <biblScope unit="page">363-387</biblScope>
+            <date>2008</date>
+        </imprint>
+    </monogr>
+</biblStruct>

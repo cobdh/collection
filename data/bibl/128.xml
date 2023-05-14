@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IZSF2DYI"
+    xml:id="Mariès1961"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Hymnes de saint Éphrem conservées en version arménienne
+        </title>
+        <author
+            xml:id="MarièsLouis"
+            ref="https://cobdh.org/persons/MarièsLouis"
+        >
+            <forename>Louis</forename>
+            <surname>Mariès</surname>
+        </author>
+        <author
+            xml:id="MercierCharles"
+            ref="https://cobdh.org/persons/MercierCharles"
+        >
+            <forename>Charles</forename>
+            <surname>Mercier</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Firmin-Didot</publisher>
+            <date>1961</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Patrologia Orientalis 30.1</title>
+    </series>
+</biblStruct>

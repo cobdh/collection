@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9AMA9X5B"
+    xml:id="Takahashi2014"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Armenian Garshuni: An Overview of the Known Material
+        </title>
+        <author
+            xml:id="TakahashiHidemi"
+            ref="https://cobdh.org/persons/TakahashiHidemi"
+        >
+            <forename>Hidemi</forename>
+            <surname>Takahashi</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Hugoye: Journal of Syriac Studies</title>
+        <imprint>
+            <biblScope unit="volume">17:1</biblScope>
+            <biblScope unit="page">81-117</biblScope>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+</biblStruct>

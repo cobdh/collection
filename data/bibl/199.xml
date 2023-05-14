@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/8F8AME8C"
+    xml:id="Vosté1940"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            “Ordo iudiciorum ecclesiasticorum” collectus, dispositus, ordinatus et
+            compositus a Mar ‘Abdišo‘, metropolita Nisibis et Armeniae, latine interpretatus
+        </title>
+        <author
+            xml:id="VostéJacquesMarie"
+            ref="https://cobdh.org/persons/VostéJacquesMarie"
+        >
+            <forename>Jacques Marie</forename>
+            <surname>Vosté</surname>
+        </author>
+        <imprint>
+            <pubPlace>Città del Vaticano</pubPlace>
+            <publisher>Typis Polyglottis</publisher>
+            <date>1940</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Codificazione canonica orientale: Fonti; Serie II, Fascicolo 15: Caldei –
+            diritto antico 2
+        </title>
+    </series>
+</biblStruct>

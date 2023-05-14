@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/HNIWDZ3U"
+    xml:id="Calzolari1996"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Notes sur la traduction arménienne du texte syriaque des
+            <hi rend="italics">Actes de Thècles</hi>
+        </title>
+        <author
+            xml:id="CalzolariValentina"
+            ref="https://cobdh.org/persons/CalzolariValentina"
+        >
+            <forename>Valentina</forename>
+            <surname>Calzolari</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Proceedings of the Fifth International Conference on Armenian Linguistics
+            (McGill University, Montréal, Québec, Canada, May 1-5, 1995)
+        </title>
+        <editor
+            xml:id="SakayanDora"
+            ref="https://cobdh.org/persons/SakayanDora"
+        >
+            <forename>Dora</forename>
+            <surname>Sakayan</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Delmar, New York</pubPlace>
+            <biblScope unit="page">233-243</biblScope>
+            <publisher>Caravan Books</publisher>
+            <date>1996</date>
+        </imprint>
+    </monogr>
+</biblStruct>

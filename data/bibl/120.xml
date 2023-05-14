@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/4DLCVTRZ"
+    xml:id="Renoux1978"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Fragments arméniens des Recognitiones du Pseudo-Clément
+        </title>
+        <author
+            xml:id="RenouxCharles"
+            ref="https://cobdh.org/persons/RenouxCharles"
+        >
+            <forename>Charles</forename>
+            <surname>Renoux</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Oriens Christianus</title>
+        <imprint>
+            <biblScope unit="volume">62</biblScope>
+            <biblScope unit="page">103-113</biblScope>
+            <date>1978</date>
+        </imprint>
+    </monogr>
+</biblStruct>

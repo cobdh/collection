@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WHZC3Z4X"
+    xml:id="Thomson2006"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">Early Armenian Christianity and Edessa</title>
+        <author
+            xml:id="ThomsonRobertW"
+            ref="https://cobdh.org/persons/ThomsonRobertW"
+        >
+            <forename>Robert W.</forename>
+            <surname>Thomson</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Armenian Tigranakert/Diarbekir and Edessa/Urfa
+        </title>
+        <editor
+            xml:id="HovannisianRichardG"
+            ref="https://cobdh.org/persons/HovannisianRichardG"
+        >
+            <forename>Richard G.</forename>
+            <surname>Hovannisian</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Costa Mesa, California</pubPlace>
+            <biblScope unit="page">97-110</biblScope>
+            <publisher>Mazda Publishers</publisher>
+            <date>2006</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            UCLA Armenian History and Culture Series: Historic Armenian Cities and Provinces
+            6
+        </title>
+    </series>
+</biblStruct>

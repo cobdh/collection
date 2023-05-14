@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/XN85KQZD"
+    xml:id="Hovhanessian2013"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            <hi rend="italics">
+                Questions of the Queen of Sheba and Answers by King Solomon
+            </hi>
+            : Introduction and a New Translation of the Armenian Version
+        </title>
+        <author
+            xml:id="HovhanessianVahan"
+            ref="https://cobdh.org/persons/HovhanessianVahan"
+        >
+            <forename>Vahan</forename>
+            <surname>Hovhanessian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Old Testament Pseudepigrapha: More Noncanonical Scriptures. Volume 1
+        </title>
+        <editor
+            xml:id="BauckhamRichard"
+            ref="https://cobdh.org/persons/BauckhamRichard"
+        >
+            <forename>Richard</forename>
+            <surname>Bauckham</surname>
+        </editor>
+        <editor
+            xml:id="DavilaJamesR"
+            ref="https://cobdh.org/persons/DavilaJamesR"
+        >
+            <forename>James R.</forename>
+            <surname>Davila</surname>
+        </editor>
+        <editor
+            xml:id="PanayotovAlexander"
+            ref="https://cobdh.org/persons/PanayotovAlexander"
+        >
+            <forename>Alexander</forename>
+            <surname>Panayotov</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Grand Rapids, Michigan</pubPlace>
+            <biblScope unit="page">326-345</biblScope>
+            <publisher>William B. Eerdmans</publisher>
+            <date>2013</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/7WAI389E"
+    xml:id="Mosikyan2019"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Medieval Armenian Commentaries on Nemesius of Emessa’s
+            <hi rend="italics">On the Nature of Man</hi>
+        </title>
+        <author
+            xml:id="MosikyanKarine"
+            ref="https://cobdh.org/persons/MosikyanKarine"
+        >
+            <forename>Karine</forename>
+            <surname>Mosikyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Banber Matenadarani</title>
+        <imprint>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="page">244-257</biblScope>
+            <date>2019</date>
+        </imprint>
+    </monogr>
+</biblStruct>

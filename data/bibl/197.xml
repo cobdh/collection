@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/Y7KBGLPQ"
+    xml:id="Poghosyan2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            On the Armenian Dictionary, Gospel and Inscription Written in Syriac Letters
+        </title>
+        <author
+            xml:id="PoghosyanRuzan"
+            ref="https://cobdh.org/persons/PoghosyanRuzan"
+        >
+            <forename>Ruzan</forename>
+            <surname>Poghosyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Etchmiadzin</title>
+        <imprint>
+            <biblScope unit="volume">5</biblScope>
+            <biblScope unit="page">64-72</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

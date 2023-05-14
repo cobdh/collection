@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/NQT2Z3CB"
+    xml:id="Outtier1985"
+    type="book"
+>
+    <monogr>
+        <title level="m">Textes arméniens relatifs à S. Éphrem</title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+        <imprint>
+            <pubPlace>Leuven</pubPlace>
+            <publisher>Peeters</publisher>
+            <date>1985</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">CSCO 474, Arm. 16</title>
+    </series>
+</biblStruct>

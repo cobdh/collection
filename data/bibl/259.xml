@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ZEAPB3S4"
+    xml:id="Schmidt2013"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Versions I and II of Michael the Syrian
+        </title>
+        <author
+            xml:id="SchmidtAndreaB"
+            ref="https://cobdh.org/persons/SchmidtAndreaB"
+        >
+            <forename>Andrea B.</forename>
+            <surname>Schmidt</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Hugoye: Journal of Syriac Studies</title>
+        <imprint>
+            <biblScope unit="volume">16:1</biblScope>
+            <biblScope unit="page">93-128</biblScope>
+            <date>2013</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2HPITVK7"
+    xml:id="Margoliouth1898"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">The Syro-Armenian Dialect</title>
+        <author
+            xml:id="MargoliouthDavidSamuel"
+            ref="https://cobdh.org/persons/MargoliouthDavidSamuel"
+        >
+            <forename>David Samuel</forename>
+            <surname>Margoliouth</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Journal of the Royal Asiatic Society</title>
+        <imprint>
+            <biblScope unit="page">839-861</biblScope>
+            <date>1898</date>
+        </imprint>
+    </monogr>
+</biblStruct>

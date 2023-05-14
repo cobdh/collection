@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/KDLA8MQU"
+    xml:id="Luisetto2007"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Arméniens &amp; autres chrétiens d’Orient sous la domination mongole. L’Ilkhanat
+            de Ghâzân, 1295-1304
+        </title>
+        <author
+            xml:id="LuisettoFrédéric"
+            ref="https://cobdh.org/persons/LuisettoFrédéric"
+        >
+            <forename>Frédéric</forename>
+            <surname>Luisetto</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Geuthner</publisher>
+            <date>2007</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Orient chrétien médiéval 1</title>
+    </series>
+</biblStruct>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6GEE5NDM"
+    xml:id="Gabriel2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Le Vatican face au génocide des Arméniens et des Assyriens (Syriaques)
+        </title>
+        <author
+            xml:id="GabrielFikri"
+            ref="https://cobdh.org/persons/GabrielFikri"
+        >
+            <forename>Fikri</forename>
+            <surname>Gabriel</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue d’histoire ecclésiastique</title>
+        <imprint>
+            <biblScope unit="volume">111:3-4</biblScope>
+            <biblScope unit="page">605-629</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

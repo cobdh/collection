@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/MV3Y4FAJ"
+    xml:id="Winkler2000"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            The Appearance of the Light at the Baptism of Jesus and the Origins of the Feast
+            of Epiphany: An Investigation of Greek, Syriac, Armenian, and Latin Sources
+        </title>
+        <author
+            xml:id="WinklerGabriele"
+            ref="https://cobdh.org/persons/WinklerGabriele"
+        >
+            <forename>Gabriele</forename>
+            <surname>Winkler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Between Memory and Hope: Readings on the Liturgical Year
+        </title>
+        <editor
+            xml:id="JohnsonME"
+            ref="https://cobdh.org/persons/JohnsonME"
+        >
+            <forename>M. E.</forename>
+            <surname>Johnson</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Collegeville, Minnesota</pubPlace>
+            <biblScope unit="page">291-371</biblScope>
+            <date>2000</date>
+        </imprint>
+    </monogr>
+</biblStruct>

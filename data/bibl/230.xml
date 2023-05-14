@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/U3US4I99"
+    xml:id="Baumstark1915"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Syrische und armenische Bucheinbände in getriebenem Silber
+        </title>
+        <author
+            xml:id="BaumstarkAnton"
+            ref="https://cobdh.org/persons/BaumstarkAnton"
+        >
+            <forename>Anton</forename>
+            <surname>Baumstark</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Monatshefte für Kunstwissenschaft</title>
+        <imprint>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="page">443-452</biblScope>
+            <date>1915</date>
+        </imprint>
+    </monogr>
+</biblStruct>

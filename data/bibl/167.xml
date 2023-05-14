@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/XG35IDVN"
+    xml:id="Ter-Petrossian1984"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Le IX
+            <hi rend="sup">e</hi>
+            chapitre du Livre de Daniel, traduit du syriaque en arménien au V
+            <hi rend="sup">e</hi>
+            siècle
+        </title>
+        <author
+            xml:id="TerPetrossianLevon"
+            ref="https://cobdh.org/persons/TerPetrossianLevon"
+        >
+            <forename>Levon</forename>
+            <surname>Ter-Petrossian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Banber Matenadarani</title>
+        <imprint>
+            <biblScope unit="volume">14</biblScope>
+            <biblScope unit="page">187-194</biblScope>
+            <date>1984</date>
+        </imprint>
+    </monogr>
+</biblStruct>

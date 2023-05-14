@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/H5IX2JCB"
+    xml:id="Lehmann1982"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Some Questions concerning the Armenian Version of the Epistle of James
+        </title>
+        <author
+            xml:id="LehmannHenningJ"
+            ref="https://cobdh.org/persons/LehmannHenningJ"
+        >
+            <forename>Henning J.</forename>
+            <surname>Lehmann</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">Aarhus Armeniaca</title>
+        <imprint>
+            <pubPlace>Aarhus</pubPlace>
+            <biblScope unit="page">57-82</biblScope>
+            <publisher>Lærde selskab, Aarhus universitet</publisher>
+            <date>1982</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Acta Jutlandica 57, Humanities Series 56
+        </title>
+    </series>
+</biblStruct>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/3ID6ZUE9"
+    xml:id="Calzolari1993"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            La tradition arménienne des
+            <hi rend="italics">Pseudo-Clémentines</hi>
+            : état de la question
+        </title>
+        <author
+            xml:id="CalzolariValentina"
+            ref="https://cobdh.org/persons/CalzolariValentina"
+        >
+            <forename>Valentina</forename>
+            <surname>Calzolari</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Apocrypha</title>
+        <imprint>
+            <biblScope unit="volume">4</biblScope>
+            <biblScope unit="page">263-293</biblScope>
+            <date>1993</date>
+        </imprint>
+    </monogr>
+</biblStruct>

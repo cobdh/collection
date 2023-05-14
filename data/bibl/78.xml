@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JXQ3GCHU"
+    xml:id="Ter-Minassiantz1904"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Die armenische Kirche in ihren Beziehungen zu den syrischen Kirche bis zum Ende
+            des 13. Jahrhunderts, nach den armenischen und syrischen Quellen
+        </title>
+        <author
+            xml:id="TerMinassiantzErwand"
+            ref="https://cobdh.org/persons/TerMinassiantzErwand"
+        >
+            <forename>Erwand</forename>
+            <surname>Ter-Minassiantz</surname>
+        </author>
+        <imprint>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>J.C. Hinrichs</publisher>
+            <date>1904</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Texte und Untersuchungen zur Geschichte der altchristlichen Literatur NF 11.4
+            [26.4]
+        </title>
+    </series>
+</biblStruct>

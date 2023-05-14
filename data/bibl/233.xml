@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6FTZ86Z4"
+    xml:id="MacEvitt2007"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The
+            <hi rend="italics">Chronicle</hi>
+            of Matthew of Edessa: Apocalypse, the First Crusade and the Armenian Diaspora
+        </title>
+        <author
+            xml:id="MacEvittChristopherHatch"
+            ref="https://cobdh.org/persons/MacEvittChristopherHatch"
+        >
+            <forename>Christopher Hatch</forename>
+            <surname>MacEvitt</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Dumbarton Oaks Papers</title>
+        <imprint>
+            <biblScope unit="volume">61</biblScope>
+            <biblScope unit="page">157-181</biblScope>
+            <date>2007</date>
+        </imprint>
+    </monogr>
+</biblStruct>

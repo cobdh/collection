@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RXEMCRHF"
+    xml:id="Schmidt2005"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Die armenisch-syrischen Beziehungen im Spiegel der kilikischen
+            Übersetzungsliteratur
+        </title>
+        <author
+            xml:id="SchmidtAndreaB"
+            ref="https://cobdh.org/persons/SchmidtAndreaB"
+        >
+            <forename>Andrea B.</forename>
+            <surname>Schmidt</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Armenologie in Deutschland. Beiträge zum Ersten Deutschen Armenologen-Tag
+        </title>
+        <editor
+            xml:id="DrostAbgarjanArmenuhi"
+            ref="https://cobdh.org/persons/DrostAbgarjanArmenuhi"
+        >
+            <forename>Armenuhi</forename>
+            <surname>Drost-Abgarjan</surname>
+        </editor>
+        <editor
+            xml:id="GoltzHermann"
+            ref="https://cobdh.org/persons/GoltzHermann"
+        >
+            <forename>Hermann</forename>
+            <surname>Goltz</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Münster</pubPlace>
+            <biblScope unit="page">119-126</biblScope>
+            <publisher>LIT</publisher>
+            <date>2005</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Studien zur Orientalischen Kirchengeschichte 35
+        </title>
+    </series>
+</biblStruct>

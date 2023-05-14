@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WWJXC6S2"
+    xml:id="Parmentier2018"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Fragments of Gregory of Nyssa’s
+            <hi rend="italics">Contra Eunomium</hi>
+            in Syriac Translation
+        </title>
+        <author
+            xml:id="ParmentierMartienFG"
+            ref="https://cobdh.org/persons/ParmentierMartienFG"
+        >
+            <forename>Martien F. G.</forename>
+            <surname>Parmentier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Gregory of Nyssa:
+            <hi rend="italics">Contra Eunomium</hi>
+            I. An English Translation with Supporting Studies
+        </title>
+        <editor
+            xml:id="BrugarolasMiguel"
+            ref="https://cobdh.org/persons/BrugarolasMiguel"
+        >
+            <forename>Miguel</forename>
+            <surname>Brugarolas</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Leiden</pubPlace>
+            <biblScope unit="page">593-604</biblScope>
+            <publisher>Brill</publisher>
+            <date>2018</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Supplements to Vigiliae Christianae 148</title>
+    </series>
+</biblStruct>

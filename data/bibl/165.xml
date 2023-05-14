@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JZMYL95A"
+    xml:id="Outtier1984"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Le cycle d’Adam à Ałt‘amar et la version arménienne du commentaire de S. Ephrem
+            sur la Genèse
+        </title>
+        <author
+            xml:id="OuttierBernard"
+            ref="https://cobdh.org/persons/OuttierBernard"
+        >
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue des études armeniennes</title>
+        <imprint>
+            <biblScope unit="volume">18:1-2</biblScope>
+            <biblScope unit="page">589-592</biblScope>
+            <date>1984</date>
+        </imprint>
+    </monogr>
+</biblStruct>

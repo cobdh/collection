@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/Z626EAUJ"
+    xml:id="Parmentier1990"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            A Letter from Theodoret of Cyrus to the Exiled Nestorius (CPG 6270) in a Syriac
+            Version
+        </title>
+        <author
+            xml:id="ParmentierMartienFG"
+            ref="https://cobdh.org/persons/ParmentierMartienFG"
+        >
+            <forename>Martien F. G.</forename>
+            <surname>Parmentier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Bijdragen</title>
+        <imprint>
+            <biblScope unit="volume">51:3</biblScope>
+            <biblScope unit="page">234-245</biblScope>
+            <date>1990</date>
+        </imprint>
+    </monogr>
+</biblStruct>

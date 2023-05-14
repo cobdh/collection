@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/PN6AKLQJ"
+    xml:id="Dum-Tragut2013"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Assyrians in Armenia – An Interdisciplinary Survey
+        </title>
+        <author
+            xml:id="DumTragutJasmine"
+            ref="https://cobdh.org/persons/DumTragutJasmine"
+        >
+            <forename>Jasmine</forename>
+            <surname>Dum-Tragut</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            From the Oxus River to the Chinese Shores: Studies on East Syriac Christianity
+            in China and Central Asia
+        </title>
+        <editor
+            xml:id="TangLi"
+            ref="https://cobdh.org/persons/TangLi"
+        >
+            <forename>Li</forename>
+            <surname>Tang</surname>
+        </editor>
+        <editor
+            xml:id="WinklerDietmarW"
+            ref="https://cobdh.org/persons/WinklerDietmarW"
+        >
+            <forename>Dietmar W.</forename>
+            <surname>Winkler</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Zürich / Münster</pubPlace>
+            <biblScope unit="page">341-353</biblScope>
+            <publisher>LIT</publisher>
+            <date>2013</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Orientalia ‒ Patristica ‒ Oecumenica 5</title>
+    </series>
+</biblStruct>

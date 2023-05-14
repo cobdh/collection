@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RWQ47IQW"
+    xml:id="Tournebize1918"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            L’Immaculée Conception dans les anciennes Églises orientales: grecque,
+            arménienne, copte, syrienne
+        </title>
+        <author
+            xml:id="TournebizeFrançois"
+            ref="https://cobdh.org/persons/TournebizeFrançois"
+        >
+            <forename>François</forename>
+            <surname>Tournebize</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue de l’Orient chrétien</title>
+        <imprint>
+            <biblScope unit="volume">III, 1 [21]</biblScope>
+            <biblScope unit="page">173-181</biblScope>
+            <date>1918</date>
+        </imprint>
+    </monogr>
+</biblStruct>

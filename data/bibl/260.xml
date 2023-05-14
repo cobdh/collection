@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/SC69AXCP"
+    xml:id="Karaulashvili1996"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            The Armenian Versions of the Abgar Legend
+        </title>
+        <author
+            xml:id="KaraulashviliIrma"
+            ref="https://cobdh.org/persons/KaraulashviliIrma"
+        >
+            <forename>Irma</forename>
+            <surname>Karaulashvili</surname>
+        </author>
+        <imprint>
+            <date>1996</date>
+            <note type="thesisType">M.A. thesis</note>
+        </imprint>
+    </monogr>
+</biblStruct>

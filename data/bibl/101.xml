@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/LF8MHC2K"
+    xml:id="Essabalian1938"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Dionysius Bar-Salibis Schrift Gegen die Armenier, aus dem Syrischen übersetzt
+        </title>
+        <author
+            xml:id="EssabalianPaul"
+            ref="https://cobdh.org/persons/EssabalianPaul"
+        >
+            <forename>Paul</forename>
+            <surname>Essabalian</surname>
+        </author>
+        <imprint>
+            <pubPlace>Wien</pubPlace>
+            <publisher>Mechitharisten-Buchdruckerei</publisher>
+            <date>1938</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Nationalbibliothek 147</title>
+    </series>
+</biblStruct>

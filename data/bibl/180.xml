@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/QQY7LG53"
+    xml:id="Nau1912"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Lettre du patriarche jacobite Jean X (1064–1073) au catholique arménien Grégoire
+            II (1065–1105)
+        </title>
+        <author
+            xml:id="NauFrançois"
+            ref="https://cobdh.org/persons/NauFrançois"
+        >
+            <forename>François</forename>
+            <surname>Nau</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Revue de l’Orient chrétien</title>
+        <imprint>
+            <biblScope unit="volume">II, 7 [17]</biblScope>
+            <biblScope unit="page">145-198</biblScope>
+            <date>1912</date>
+        </imprint>
+    </monogr>
+</biblStruct>

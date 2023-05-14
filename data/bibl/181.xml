@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9JRJYIST"
+    xml:id="Reynders1954"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Lexique comparé du texte grec et des versions latine, arménienne et syriaque de
+            l’“Adversus Haereses” de saint Irénée
+        </title>
+        <extent>2</extent>
+        <author
+            xml:id="ReyndersBruno"
+            ref="https://cobdh.org/persons/ReyndersBruno"
+        >
+            <forename>Bruno</forename>
+            <surname>Reynders</surname>
+        </author>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <publisher>Secrétariat du CorpusSCO</publisher>
+            <date>1954</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">CSCO 141-142, Subs. 5-6</title>
+    </series>
+</biblStruct>

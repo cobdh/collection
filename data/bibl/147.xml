@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/WDM2GE7T"
+    xml:id="Renoux1996"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            La chaîne arménienne sur le
+            <hi rend="italics">Livre de Job</hi>
+        </title>
+        <author
+            xml:id="RenouxCharles"
+            ref="https://cobdh.org/persons/RenouxCharles"
+        >
+            <forename>Charles</forename>
+            <surname>Renoux</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">Le Livre de Job chez les Pères</title>
+        <editor
+            xml:id="MaravalPierre"
+            ref="https://cobdh.org/persons/MaravalPierre"
+        >
+            <forename>Pierre</forename>
+            <surname>Maraval</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Strasbourg</pubPlace>
+            <biblScope unit="page">141-161</biblScope>
+            <publisher>
+                Centre d’Analyse et de Documentation Patristiques
+            </publisher>
+            <date>1996</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Cahiers de Biblia Patristica 5</title>
+    </series>
+</biblStruct>

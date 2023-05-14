@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/DNU6ASSL"
+    xml:id="Schmidt1999"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Die Nebenüberlieferung des 6. Buches der Geographie des Ptolemaios: Griechische,
+            lateinische, syrische, armenische und arabische Texte
+        </title>
+        <author
+            xml:id="SchmidtMariaGabriela"
+            ref="https://cobdh.org/persons/SchmidtMariaGabriela"
+        >
+            <forename>Maria Gabriela</forename>
+            <surname>Schmidt</surname>
+        </author>
+        <imprint>
+            <pubPlace>Wiesbaden</pubPlace>
+            <publisher>Ludwig Reichert</publisher>
+            <date>1999</date>
+        </imprint>
+    </monogr>
+</biblStruct>

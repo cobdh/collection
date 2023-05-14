@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ZLHXU4AI"
+    xml:id="Peeters1914"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Évangiles Apocryphes II: L’Évangile de l’Enfance. Rédactions syriaques, arabe et
+            arméniennes traduites et annotées
+        </title>
+        <author
+            xml:id="PeetersPaul"
+            ref="https://cobdh.org/persons/PeetersPaul"
+        >
+            <forename>Paul</forename>
+            <surname>Peeters</surname>
+        </author>
+        <imprint>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Auguste Picard</publisher>
+            <date>1914</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Textes et documents pour l’étude historique du christianisme
+        </title>
+    </series>
+</biblStruct>

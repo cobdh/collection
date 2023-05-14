@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ZG262PRP"
+    xml:id="Maggioni2012"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Bringing Together Eastern Catholics under a Common Civil Head: The Agreements
+            between the Syriac and Chaldean Patriarchs and the Civil Head of the Armenian
+            Catholic Church in Constantinople (1833-1871)
+        </title>
+        <author
+            xml:id="MaggioniPaolo"
+            ref="https://cobdh.org/persons/MaggioniPaolo"
+        >
+            <forename>Paolo</forename>
+            <surname>Maggioni</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Journal of Eastern Christian Studies</title>
+        <imprint>
+            <biblScope unit="volume">64:3-4</biblScope>
+            <biblScope unit="page">253-285</biblScope>
+            <date>2012</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/MY8B5V8R"
+    xml:id="???"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            Traders of the Pearl: Persian and Armenian Christians in South-East Asia
+        </title>
+        <author
+            xml:id="CollessBrianEdric"
+            ref="https://cobdh.org/persons/CollessBrianEdric"
+        >
+            <forename>Brian Edric</forename>
+            <surname>Colless</surname>
+        </author>
+        <imprint>
+            <date>1979</date>
+            <note type="thesisType">Th.D. dissertation</note>
+        </imprint>
+    </monogr>
+</biblStruct>

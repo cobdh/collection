@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/89V4BUM2"
+    xml:id="Drost-Abgarjan2010"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Ararat versus Qardu: Noahs Berg in der armenischen und syrischen Überlieferung
+        </title>
+        <author
+            xml:id="DrostAbgarjanArmenuhi"
+            ref="https://cobdh.org/persons/DrostAbgarjanArmenuhi"
+        >
+            <forename>Armenuhi</forename>
+            <surname>Drost-Abgarjan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Akten des 5. Symposiums zur Sprache, Geschichte, Theologie und Gegenwartslage
+            der syrischen Kirchen (V. Deutsche Syrologentagung), Berlin 14.-15. Juli 2006
+        </title>
+        <editor
+            xml:id="VoigtRainerM"
+            ref="https://cobdh.org/persons/VoigtRainerM"
+        >
+            <forename>Rainer M.</forename>
+            <surname>Voigt</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Aachen</pubPlace>
+            <biblScope unit="page">11-24</biblScope>
+            <publisher>Shaker Verlag</publisher>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Semitica et Semitohamitica Berolinensia 9
+        </title>
+    </series>
+</biblStruct>

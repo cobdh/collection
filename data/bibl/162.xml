@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JXMGI993"
+    xml:id="Chevalier2006"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            La vision des ordres religieux-militaires par les chrétiens orientaux (arméniens
+            et syriaques) au Moyen Age (du début du XIIe siècle au début du XIVe siècle)
+        </title>
+        <author
+            xml:id="ChevalierMarieAnna"
+            ref="https://cobdh.org/persons/ChevalierMarieAnna"
+        >
+            <forename>Marie-Anna</forename>
+            <surname>Chevalier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Crusades</title>
+        <imprint>
+            <biblScope unit="volume">5</biblScope>
+            <biblScope unit="page">55-84</biblScope>
+            <date>2006</date>
+        </imprint>
+    </monogr>
+</biblStruct>

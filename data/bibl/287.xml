@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/D7IZ9VP6"
+    xml:id="Cox2010"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Syriac Presence in the Armenian Translation of the Bible, with Special
+            Reference to the Book of Genesis
+        </title>
+        <author
+            xml:id="CoxClaudeE"
+            ref="https://cobdh.org/persons/CoxClaudeE"
+        >
+            <forename>Claude E.</forename>
+            <surname>Cox</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">
+            Journal of the Canadian Society for Syriac Studies
+        </title>
+        <imprint>
+            <biblScope unit="volume">10</biblScope>
+            <biblScope unit="page">45-67</biblScope>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+</biblStruct>

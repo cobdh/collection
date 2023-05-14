@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/JX7FJ96F"
+    xml:id="Stone1996"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Armenian Apocrypha Relating to Adam and Eve
+        </title>
+        <author
+            xml:id="StoneMichaelE"
+            ref="https://cobdh.org/persons/StoneMichaelE"
+        >
+            <forename>Michael E.</forename>
+            <surname>Stone</surname>
+        </author>
+        <imprint>
+            <pubPlace>Leiden</pubPlace>
+            <publisher>Brill</publisher>
+            <date>1996</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Studia in Veteris Testamenti Pseudepigrapha 14
+        </title>
+    </series>
+</biblStruct>

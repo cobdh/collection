@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ISS5ZJ28"
+    xml:id="Takahashi2011"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Shorter Syriac-Armenian Glossary in Ms. Yale Syriac 9. Part 2: Glossary in
+            Transcription/Translation
+        </title>
+        <author
+            xml:id="TakahashiHidemi"
+            ref="https://cobdh.org/persons/TakahashiHidemi"
+        >
+            <forename>Hidemi</forename>
+            <surname>Takahashi</surname>
+        </author>
+        <author
+            xml:id="WeitenbergJosephJohannesSicco"
+            ref="https://cobdh.org/persons/WeitenbergJosephJohannesSicco"
+        >
+            <forename>Joseph Johannes Sicco</forename>
+            <surname>Weitenberg</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Hugoye: Journal of Syriac Studies</title>
+        <imprint>
+            <biblScope unit="volume">14:1</biblScope>
+            <biblScope unit="page">87-144</biblScope>
+            <date>2011</date>
+        </imprint>
+    </monogr>
+</biblStruct>

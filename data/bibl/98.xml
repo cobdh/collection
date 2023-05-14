@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/9GDBYINH"
+    xml:id="Müller1934"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Die unbefleckte Empfängnis Marias in der syrischen und armenischen Überlieferung
+        </title>
+        <author
+            xml:id="MuellerFS"
+            ref="https://cobdh.org/persons/MuellerFS"
+        >
+            <forename>F. S.</forename>
+            <surname>Müller</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Scholastik</title>
+        <imprint>
+            <biblScope unit="volume">9</biblScope>
+            <biblScope unit="page">161-201</biblScope>
+            <date>1934</date>
+        </imprint>
+    </monogr>
+</biblStruct>

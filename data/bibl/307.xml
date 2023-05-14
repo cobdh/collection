@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/KEAHBPHM"
+    xml:id="Conybeare1924"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">Varia Armenia</title>
+        <author
+            xml:id="ConybeareFrederickCornwallis"
+            ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+        >
+            <forename>Frederick Cornwallis</forename>
+            <surname>Conybeare</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Harvard Theological Review</title>
+        <imprint>
+            <biblScope unit="volume">17:2</biblScope>
+            <biblScope unit="page">185-189</biblScope>
+            <date>1924</date>
+        </imprint>
+    </monogr>
+</biblStruct>

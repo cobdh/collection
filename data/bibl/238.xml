@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/G24FIXC9"
+    xml:id="Brock1966"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian and Syriac Versions of the Ps-Nonnus Mythological Scholia
+        </title>
+        <author
+            xml:id="BrockSebastianP"
+            ref="https://cobdh.org/persons/BrockSebastianP"
+        >
+            <forename>Sebastian P.</forename>
+            <surname>Brock</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">79:3-4</biblScope>
+            <biblScope unit="page">401-428</biblScope>
+            <date>1966</date>
+        </imprint>
+    </monogr>
+</biblStruct>

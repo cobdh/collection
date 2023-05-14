@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/M8R92IIV"
+    xml:id="Mamyan2016"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Translation of the
+            <hi rend="italics">Gospel of the Infancy</hi>
+            and the
+            <hi rend="italics">Protoevangelium of James</hi>
+            : A Comparative Analysis
+        </title>
+        <author
+            xml:id="MamyanMari"
+            ref="https://cobdh.org/persons/MamyanMari"
+        >
+            <forename>Mari</forename>
+            <surname>Mamyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Banber Matenadarani</title>
+        <imprint>
+            <biblScope unit="volume">23</biblScope>
+            <biblScope unit="page">231-244</biblScope>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

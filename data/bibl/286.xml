@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/67EKHJLC"
+    xml:id="Thomson1993"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            The Syriac and Armenian Versions of the Hexaemeron by Basil of Caesarea
+        </title>
+        <author
+            xml:id="ThomsonRobertW"
+            ref="https://cobdh.org/persons/ThomsonRobertW"
+        >
+            <forename>Robert W.</forename>
+            <surname>Thomson</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Studia Patristica</title>
+        <imprint>
+            <biblScope unit="volume">27</biblScope>
+            <biblScope unit="page">113-117</biblScope>
+            <date>1993</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/6Z25HMHA"
+    xml:id="Leloir1964"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Divergences entre l’original syriaque et la version arménienne du commentaire
+            d’Éphrem sur le Diatessaron
+        </title>
+        <author
+            xml:id="LeloirLouis"
+            ref="https://cobdh.org/persons/LeloirLouis"
+        >
+            <forename>Louis</forename>
+            <surname>Leloir</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Mélanges Eugène Tisserant. Vol. 2: Orient chrétien (Première partie)
+        </title>
+        <imprint>
+            <pubPlace>Città del Vaticano</pubPlace>
+            <biblScope unit="page">303-331</biblScope>
+            <publisher>Biblioteca Apostolica Vaticana</publisher>
+            <date>1964</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Studi e Testi 232</title>
+    </series>
+</biblStruct>

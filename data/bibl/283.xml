@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/2ZEL3QMC"
+    xml:id="Edris2016"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            The Story of Ahikar from the Aramaic, Syriac, Arabic, Ethiopic, Hebrew, Greek,
+            and Old Armenian. Vol. 1: Aramaic, Syriac and Arabic Texts
+        </title>
+        <author
+            xml:id="EdrisSalahMahgoub"
+            ref="https://cobdh.org/persons/EdrisSalahMahgoub"
+        >
+            <forename>Salah Mahgoub</forename>
+            <surname>Edris</surname>
+        </author>
+        <imprint>
+            <pubPlace>Cairo</pubPlace>
+            <publisher>
+                Center of Armenian Studies at the Cairo University
+            </publisher>
+            <date>2016</date>
+        </imprint>
+    </monogr>
+</biblStruct>

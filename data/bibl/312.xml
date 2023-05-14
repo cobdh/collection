@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/C4FWKGJS"
+    xml:id="Hainthaler2014"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Wer ist Abdisho? Einige Bemerkungen zum Einfluss syrischer Theologen in Armenien
+            im 6. Jahrhundert
+        </title>
+        <author
+            xml:id="HainthalerTheresia"
+            ref="https://cobdh.org/persons/HainthalerTheresia"
+        >
+            <forename>Theresia</forename>
+            <surname>Hainthaler</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Geschichte, Theologie und Kultur des syrischen Christentums: Beiträge zum 7.
+            Deutschen Syrologie-Symposium in Göttingen, Dezember 2011
+        </title>
+        <editor
+            xml:id="TamckeMartin"
+            ref="https://cobdh.org/persons/TamckeMartin"
+        >
+            <forename>Martin</forename>
+            <surname>Tamcke</surname>
+        </editor>
+        <editor
+            xml:id="GrebensteinSven"
+            ref="https://cobdh.org/persons/GrebensteinSven"
+        >
+            <forename>Sven</forename>
+            <surname>Grebenstein</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Wiesbaden</pubPlace>
+            <biblScope unit="page">81-91</biblScope>
+            <publisher>Harrassowitz Verlag</publisher>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Göttinger Orientforschungen, I. Reihe: Syriaca 46
+        </title>
+    </series>
+</biblStruct>

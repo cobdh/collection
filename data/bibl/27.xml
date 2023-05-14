@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/22L6LY8D"
+    xml:id="Sergey"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">Aramaeo-Judaeo-Armeniaca</title>
+        <author
+            xml:id="ShapiraDanDY"
+            ref="https://cobdh.org/persons/ShapiraDanDY"
+        >
+            <forename>Dan D. Y.</forename>
+            <surname>Shapira</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Христианский Восток</title>
+        <imprint>
+            <biblScope unit="volume">4 [10]</biblScope>
+            <biblScope unit="page">340-346</biblScope>
+            <date>2006</date>
+        </imprint>
+    </monogr>
+</biblStruct>

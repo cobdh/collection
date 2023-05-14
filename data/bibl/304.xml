@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/D8HMW3LX"
+    xml:id="Draguet1951"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Une lettre de Sérapion de Thmuis aux disciples d’Antoine (A.D. 356) en versions
+            syriaque et arménienne
+        </title>
+        <author
+            xml:id="DraguetRené"
+            ref="https://cobdh.org/persons/DraguetRené"
+        >
+            <forename>René</forename>
+            <surname>Draguet</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">64</biblScope>
+            <biblScope unit="page">1-25</biblScope>
+            <date>1951</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/SJ74G48R"
+    xml:id="Martirosyan1969"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Patmut‘iwn ew xratk‘ Xikaray imastnoy: haykakan xmbagrut‘yun [The Story and
+            Proverbs of Khikar the Wise: Armenian Recension]
+        </title>
+        <extent>2</extent>
+        <author
+            xml:id="MartirosyanArtashesA"
+            ref="https://cobdh.org/persons/MartirosyanArtashesA"
+        >
+            <forename>Artashes A.</forename>
+            <surname>Martirosyan</surname>
+        </author>
+        <imprint>
+            <pubPlace>Erevan</pubPlace>
+            <publisher>Academy of Sciences</publisher>
+            <date>1969</date>
+        </imprint>
+    </monogr>
+</biblStruct>

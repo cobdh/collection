@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/YWDYYCU7"
+    xml:id="van_Rompay2011"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Armenian Christianity, Syriac Contacts with
+        </title>
+        <author
+            xml:id="vanRompayLucas"
+            ref="https://cobdh.org/persons/vanRompayLucas"
+        >
+            <forename>Lucas</forename>
+            <surname>van Rompay</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Gorgias Encyclopedic Dictionary of the Syriac Heritage
+        </title>
+        <editor
+            xml:id="BrockSebastianP"
+            ref="https://cobdh.org/persons/BrockSebastianP"
+        >
+            <forename>Sebastian P.</forename>
+            <surname>Brock</surname>
+        </editor>
+        <editor
+            xml:id="ButtsAaronMichael"
+            ref="https://cobdh.org/persons/ButtsAaronMichael"
+        >
+            <forename>Aaron Michael</forename>
+            <surname>Butts</surname>
+        </editor>
+        <editor
+            xml:id="KirazGeorgeAnton"
+            ref="https://cobdh.org/persons/KirazGeorgeAnton"
+        >
+            <forename>George Anton</forename>
+            <surname>Kiraz</surname>
+        </editor>
+        <editor
+            xml:id="vanRompayLucas"
+            ref="https://cobdh.org/persons/vanRompayLucas"
+        >
+            <forename>Lucas</forename>
+            <surname>van Rompay</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Piscataway, New Jersey</pubPlace>
+            <biblScope unit="page">33-37</biblScope>
+            <publisher>Gorgias Press</publisher>
+            <date>2011</date>
+        </imprint>
+    </monogr>
+</biblStruct>

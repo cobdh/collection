@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/RWAEWLCH"
+    xml:id="Topchyan2014"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            The Armenian Version of the
+            <hi rend="italics">Apocalypse of Ps.-Methodius</hi>
+        </title>
+        <author
+            xml:id="TopchyanAram"
+            ref="https://cobdh.org/persons/TopchyanAram"
+        >
+            <forename>Aram</forename>
+            <surname>Topchyan</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            The Armenian Apocalyptic Tradition: A Comparative Perspective. Essays Presented
+            in Honor of Professor Robert W. Thomson on the Occasion of His Eightieth
+            Birthday
+        </title>
+        <editor
+            xml:id="LaPortaSergio"
+            ref="https://cobdh.org/persons/LaPortaSergio"
+        >
+            <forename>Sergio</forename>
+            <surname>La Porta</surname>
+        </editor>
+        <editor
+            xml:id="BardakjianKevorkB"
+            ref="https://cobdh.org/persons/BardakjianKevorkB"
+        >
+            <forename>Kevork B.</forename>
+            <surname>Bardakjian</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Leiden</pubPlace>
+            <biblScope unit="page">362-378</biblScope>
+            <publisher>Brill</publisher>
+            <date>2014</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Studia in Veteris Testamenti Pseudepigrapha 25
+        </title>
+    </series>
+</biblStruct>

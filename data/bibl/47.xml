@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/7A8S52Y6"
+    xml:id="Weitenberg2010"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Armeno-Syrian Cultural Relations in the Cilician Period (12th‒14th c.)
+        </title>
+        <author
+            xml:id="WeitenbergJosephJohannesSicco"
+            ref="https://cobdh.org/persons/WeitenbergJosephJohannesSicco"
+        >
+            <forename>Joseph Johannes Sicco</forename>
+            <surname>Weitenberg</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">The Syriac Renaissance</title>
+        <editor
+            xml:id="TeuleHermanGB"
+            ref="https://cobdh.org/persons/TeuleHermanGB"
+        >
+            <forename>Herman G. B.</forename>
+            <surname>Teule</surname>
+        </editor>
+        <editor
+            xml:id="TauwinklCarmenFotescu"
+            ref="https://cobdh.org/persons/TauwinklCarmenFotescu"
+        >
+            <forename>Carmen Fotescu</forename>
+            <surname>Tauwinkl</surname>
+        </editor>
+        <editor
+            xml:id="terHaarRomenyRobertBas"
+            ref="https://cobdh.org/persons/terHaarRomenyRobertBas"
+        >
+            <forename>Robert Bas</forename>
+            <surname>ter Haar Romeny</surname>
+        </editor>
+        <editor
+            xml:id="vanGinkelJan"
+            ref="https://cobdh.org/persons/vanGinkelJan"
+        >
+            <forename>Jan</forename>
+            <surname>van Ginkel</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Leuven</pubPlace>
+            <biblScope unit="page">341-352</biblScope>
+            <publisher>Peeters</publisher>
+            <date>2010</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Eastern Christian Studies 9</title>
+    </series>
+</biblStruct>

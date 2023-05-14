@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/5P4KW3XX"
+    xml:id="van_Rompay2019"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Two Armenian Hymns on Abraham and Sarah Attributed to Ephrem the Syrian
+        </title>
+        <author
+            xml:id="vanRompayLucas"
+            ref="https://cobdh.org/persons/vanRompayLucas"
+        >
+            <forename>Lucas</forename>
+            <surname>van Rompay</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Armenian, Hittite, and Indo-European Studies: A Commemoration Volume for Jos
+            J.S. Weitenberg
+        </title>
+        <editor
+            xml:id="BlaesingUwe"
+            ref="https://cobdh.org/persons/BlaesingUwe"
+        >
+            <forename>Uwe</forename>
+            <surname>Bläsing</surname>
+        </editor>
+        <editor
+            xml:id="DumTragutJasmine"
+            ref="https://cobdh.org/persons/DumTragutJasmine"
+        >
+            <forename>Jasmine</forename>
+            <surname>Dum-Tragut</surname>
+        </editor>
+        <editor
+            xml:id="vanLintTheoM"
+            ref="https://cobdh.org/persons/vanLintTheoM"
+        >
+            <forename>Theo M.</forename>
+            <surname>van Lint</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Leuven</pubPlace>
+            <biblScope unit="page">423-438</biblScope>
+            <publisher>Peeters</publisher>
+            <date>2019</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Hebrew University Armenian Studies 15</title>
+    </series>
+</biblStruct>

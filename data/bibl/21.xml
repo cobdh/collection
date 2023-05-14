@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IT3Y9TJL"
+    xml:id="Der_Nersessian1954"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            An Armenian Version of the Homilies on the Harrowing of Hell
+        </title>
+        <author
+            xml:id="DerNersessianSirarpie"
+            ref="https://cobdh.org/persons/DerNersessianSirarpie"
+        >
+            <forename>Sirarpie</forename>
+            <surname>Der Nersessian</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Dumbarton Oaks Papers</title>
+        <imprint>
+            <biblScope unit="volume">8</biblScope>
+            <biblScope unit="page">203-224</biblScope>
+            <date>1954</date>
+        </imprint>
+    </monogr>
+</biblStruct>

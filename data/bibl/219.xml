@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/QLCY6E6U"
+    xml:id="Calzolari2019"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Stefano il protomartire e i Padri della Chiesa: su alcune omelie greche e
+            siriache tradotte in armeno e un inedito
+            <hi rend="italics">Encomio di santo Stefano</hi>
+            di Basilio di Cesarea
+        </title>
+        <author
+            xml:id="CalzolariValentina"
+            ref="https://cobdh.org/persons/CalzolariValentina"
+        >
+            <forename>Valentina</forename>
+            <surname>Calzolari</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Adamantius</title>
+        <imprint>
+            <biblScope unit="volume">25</biblScope>
+            <biblScope unit="page">229-254</biblScope>
+            <date>2019</date>
+        </imprint>
+    </monogr>
+</biblStruct>

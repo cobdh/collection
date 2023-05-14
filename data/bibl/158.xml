@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/ELHCSY8P"
+    xml:id="Lafontaine1977"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            La version arménienne des œuvres d’Aphraate le Syrien
+        </title>
+        <extent>6</extent>
+        <author
+            xml:id="LafontaineGuy"
+            ref="https://cobdh.org/persons/LafontaineGuy"
+        >
+            <forename>Guy</forename>
+            <surname>Lafontaine</surname>
+        </author>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <publisher>Secrétariat du CorpusSCO</publisher>
+            <date>1977</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            CSCO 382-383, 405-406, 432-424; Arm. 7-12
+        </title>
+    </series>
+</biblStruct>

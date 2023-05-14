@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/IT9TJMC6"
+    xml:id="Karadeniz1991"
+    type="thesis"
+>
+    <monogr>
+        <title level="m">
+            Die Vita Jakobs, des Bischofs von Nisibis, in armenischer Überlieferung
+        </title>
+        <author
+            xml:id="KaradenizNural"
+            ref="https://cobdh.org/persons/KaradenizNural"
+        >
+            <forename>Nural</forename>
+            <surname>Karadeniz</surname>
+        </author>
+        <imprint>
+            <date>1991</date>
+            <note type="thesisType">Magisterarbeit</note>
+        </imprint>
+    </monogr>
+</biblStruct>

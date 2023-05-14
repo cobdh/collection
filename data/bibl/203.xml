@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/YQRI73T3"
+    xml:id="Lafontaine1975"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">
+            Pour une nouvelle édition de la version arménienne des “Démonstrations”
+            d’Aphraate
+        </title>
+        <author
+            xml:id="LafontaineGuy"
+            ref="https://cobdh.org/persons/LafontaineGuy"
+        >
+            <forename>Guy</forename>
+            <surname>Lafontaine</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Bazmavep</title>
+        <imprint>
+            <biblScope unit="volume">133</biblScope>
+            <biblScope unit="page">365-375</biblScope>
+            <date>1975</date>
+        </imprint>
+    </monogr>
+</biblStruct>

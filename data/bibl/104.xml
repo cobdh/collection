@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/KJTVKRNP"
+    xml:id="Leloir1961"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Doctrines et méthodes de S. Éphrem d’après son commentaire de l’Évangile
+            concordant (original syriaque et version arménienne)
+        </title>
+        <author
+            xml:id="LeloirLouis"
+            ref="https://cobdh.org/persons/LeloirLouis"
+        >
+            <forename>Louis</forename>
+            <surname>Leloir</surname>
+        </author>
+        <imprint>
+            <pubPlace>Louvain</pubPlace>
+            <publisher>Secrétariat du CorpusSCO</publisher>
+            <date>1961</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">CSCO 220, Subs. 18</title>
+    </series>
+</biblStruct>

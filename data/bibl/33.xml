@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/DMD7V6ZN"
+    xml:id="Takahashi2017"
+    type="bookSection"
+>
+    <analytic>
+        <title level="a">
+            Armenian Garshuni (Armenian in Syriac Characters) and Its Users
+        </title>
+        <author
+            xml:id="TakahashiHidemi"
+            ref="https://cobdh.org/persons/TakahashiHidemi"
+        >
+            <forename>Hidemi</forename>
+            <surname>Takahashi</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Syriac in Its Multi-Cultural Context: First International Syriac Studies
+            Symposium, Mardin Artuklu University, Institute of Living Languages, 20-22 April
+            2012, Mardin
+        </title>
+        <editor
+            xml:id="TeuleHermanGB"
+            ref="https://cobdh.org/persons/TeuleHermanGB"
+        >
+            <forename>Herman G. B.</forename>
+            <surname>Teule</surname>
+        </editor>
+        <editor
+            xml:id="KeserKayaalpElif"
+            ref="https://cobdh.org/persons/KeserKayaalpElif"
+        >
+            <forename>Elif</forename>
+            <surname>Keser-Kayaalp</surname>
+        </editor>
+        <editor
+            xml:id="AkalinKutlu"
+            ref="https://cobdh.org/persons/AkalinKutlu"
+        >
+            <forename>Kutlu</forename>
+            <surname>Akalin</surname>
+        </editor>
+        <editor
+            xml:id="DoruNesim"
+            ref="https://cobdh.org/persons/DoruNesim"
+        >
+            <forename>Nesim</forename>
+            <surname>Doru</surname>
+        </editor>
+        <editor
+            xml:id="ToprakMehmetSait"
+            ref="https://cobdh.org/persons/ToprakMehmetSait"
+        >
+            <forename>Mehmet Sait</forename>
+            <surname>Toprak</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Leuven</pubPlace>
+            <biblScope unit="page">243-264</biblScope>
+            <publisher>Peeters</publisher>
+            <date>2017</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">Eastern Christian Studies 23</title>
+    </series>
+</biblStruct>

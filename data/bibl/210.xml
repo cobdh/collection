@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/G4J52QU2"
+    xml:id="Muyldermans1943"
+    type="journalArticle"
+>
+    <analytic>
+        <title level="a">S. Nil en version arménienne</title>
+        <author
+            xml:id="MuyldermansJoseph"
+            ref="https://cobdh.org/persons/MuyldermansJoseph"
+        >
+            <forename>Joseph</forename>
+            <surname>Muyldermans</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Le Muséon</title>
+        <imprint>
+            <biblScope unit="volume">56</biblScope>
+            <biblScope unit="page">77-113</biblScope>
+            <date>1943</date>
+        </imprint>
+    </monogr>
+</biblStruct>

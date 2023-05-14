@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    corresp="http://zotero.org/groups/4545590/items/TYSMMQZ7"
+    xml:id="Hübschmann1897"
+    type="book"
+>
+    <monogr>
+        <title level="m">
+            Armenische Grammatik, I. Theil: Armenische Etymologie
+        </title>
+        <author
+            xml:id="HuebschmannHeinrich"
+            ref="https://cobdh.org/persons/HuebschmannHeinrich"
+        >
+            <forename>Heinrich</forename>
+            <surname>Hübschmann</surname>
+        </author>
+        <imprint>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>Breitkopf & Härtel</publisher>
+            <date>1897</date>
+        </imprint>
+    </monogr>
+    <series>
+        <title level="s">
+            Bibliothek indogermanischer Grammatiken 6
+        </title>
+    </series>
+</biblStruct>
