@@ -1,0 +1,45 @@
+#!/bin/sh
+
+: "${CLEANUP}:=0"
+
+BUILDER="cobdh/builder:v0.1.0-4-gbd8584e"
+ROOT=$(pwd)
+
+rm -r "${ROOT}/build"
+
+CURRENT=$(git describe --tags)
+TAG="cobdh/collection:${CURRENT}"
+
+NAME="tmp_cobdh_${CURRENT}"
+docker rm $NAME
+
+# build
+docker run -it\
+    -v "${ROOT}/../../":/var/src \
+    -e VERSION="$CURRENT" \
+    --name ${NAME}\
+    ${BUILDER}
+
+if [ $? -ne 0 ]
+then
+    echo "could not copy and build"
+    exit 1
+fi
+
+docker cp ${NAME}:/var/dst/ ${ROOT}/build
+
+echo "git:   ${CURRENT}"
+echo "tag:   ${TAG}"
+
+docker build -f DOCKERFILE -t ${TAG} .
+
+if [ $? -ne 0 ]
+then
+    echo "could not build release"
+    exit 1
+fi
+
+echo "docker run ${TAG}"
+docker run --rm -it -p 8091:8080 ${TAG}
+
+exit 0

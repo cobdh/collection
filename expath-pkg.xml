@@ -2,7 +2,7 @@
 <package
     xmlns="http://expath.org/ns/pkg"
     abbrev="cobdh"
-    name="https://cobdh.org/cobdh"
+    name="https://collection.cobdh.org"
     spec="1.0"
     version="XXX"
 >

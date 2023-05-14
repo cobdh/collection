@@ -5,6 +5,6 @@
     <website>https://cobdh.org</website>
     <copyright>true</copyright>
     <type>library</type>
-    <target>collection-resources</target>
+    <target>collection</target>
     <prepare>pre-install.xql</prepare>
 </meta>

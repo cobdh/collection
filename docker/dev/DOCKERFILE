@@ -1,0 +1,3 @@
+FROM cobdh/view:v0.2.0-32-g1539fdf
+
+COPY build/*.xar /exist/autodeploy
