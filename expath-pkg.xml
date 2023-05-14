@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package
+    xmlns="http://expath.org/ns/pkg"
+    abbrev="cobdh"
+    name="https://cobdh.org/cobdh"
+    spec="1.0"
+    version="XXX"
+>
+    <title>data.cobdh.org</title>
+</package>
