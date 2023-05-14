@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
+>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <person xml:id="OstrovskyAlexey">
+            <persName>
+                <surname>Ostrovsky</surname>
+                <forename>Alexey</forename>
+            </persName>
+        </person>
+    </body>
+</TEI>
