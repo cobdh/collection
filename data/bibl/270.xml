@@ -1,26 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/N8MSUUXR"
-    xml:id="Frivold1981"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            The Incarnation: A Study of the Doctrine of the Incarnation in the Armenian
-            Church in the 5th and 6th Centuries according to the
-            <hi rend="italics">Book of Letters</hi>
-        </title>
-        <author
-            xml:id="FrivoldLeif"
-            ref="https://cobdh.org/persons/FrivoldLeif"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/N8MSUUXR"
+            xml:id="Frivold1981"
+            type="book"
         >
-            <forename>Leif</forename>
-            <surname>Frivold</surname>
-        </author>
-        <imprint>
-            <pubPlace>Oslo</pubPlace>
-            <publisher>Universitetsforlaget</publisher>
-            <date>1981</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    The Incarnation: A Study of the Doctrine of the Incarnation in the Armenian
+                    Church in the 5th and 6th Centuries according to the
+                    <hi rend="italics">Book of Letters</hi>
+                </title>
+                <author
+                    xml:id="FrivoldLeif"
+                    ref="https://cobdh.org/persons/FrivoldLeif"
+                >
+                    <forename>Leif</forename>
+                    <surname>Frivold</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Oslo</pubPlace>
+                    <publisher>Universitetsforlaget</publisher>
+                    <date>1981</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

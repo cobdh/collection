@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/AW72H6ZD"
-    xml:id="Lüders1964"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Die Kreuzzüge im Urteil syrischer und armenischer Quellen
-        </title>
-        <author
-            xml:id="LuedersAnneliese"
-            ref="https://cobdh.org/persons/LuedersAnneliese"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/AW72H6ZD"
+            xml:id="Lüders1964"
+            type="book"
         >
-            <forename>Anneliese</forename>
-            <surname>Lüders</surname>
-        </author>
-        <imprint>
-            <pubPlace>Berlin</pubPlace>
-            <publisher>Akademie-Verlag</publisher>
-            <date>1964</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Berliner byzantinistische Arbeiten 29</title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Die Kreuzzüge im Urteil syrischer und armenischer Quellen
+                </title>
+                <author
+                    xml:id="LuedersAnneliese"
+                    ref="https://cobdh.org/persons/LuedersAnneliese"
+                >
+                    <forename>Anneliese</forename>
+                    <surname>Lüders</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Berlin</pubPlace>
+                    <publisher>Akademie-Verlag</publisher>
+                    <date>1964</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Berliner byzantinistische Arbeiten 29</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

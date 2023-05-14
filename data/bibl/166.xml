@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/R9HC7E3M"
-    xml:id="Essabalian1937"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Le Diatessaron de Tatien et la première traduction des Évangiles arméniens
-        </title>
-        <author
-            xml:id="EssabalianPaul"
-            ref="https://cobdh.org/persons/EssabalianPaul"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/R9HC7E3M"
+            xml:id="Essabalian1937"
+            type="book"
         >
-            <forename>Paul</forename>
-            <surname>Essabalian</surname>
-        </author>
-        <imprint>
-            <pubPlace>Wien</pubPlace>
-            <publisher>Imprimerie des PP. Mekhitharistes</publisher>
-            <date>1937</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Nationalbibliothek 142</title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Le Diatessaron de Tatien et la première traduction des Évangiles arméniens
+                </title>
+                <author
+                    xml:id="EssabalianPaul"
+                    ref="https://cobdh.org/persons/EssabalianPaul"
+                >
+                    <forename>Paul</forename>
+                    <surname>Essabalian</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Wien</pubPlace>
+                    <publisher>Imprimerie des PP. Mekhitharistes</publisher>
+                    <date>1937</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Nationalbibliothek 142</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

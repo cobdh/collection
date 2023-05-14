@@ -1,42 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/G28D6BHE"
-    xml:id="Mathews2010"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Jacob of Serugh,
-            <hi rend="italics">Homily on Good Friday</hi>
-            and Other Armenian Treasures: First Glances
-        </title>
-        <author
-            xml:id="MathewsEdwardGeorge"
-            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/G28D6BHE"
+            xml:id="Mathews2010"
+            type="bookSection"
         >
-            <forename>Edward George</forename>
-            <surname>Mathews</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Jacob of Serugh and His Times: Studies in Sixth-Century Syriac Christianity
-        </title>
-        <editor
-            xml:id="KirazGeorgeAnton"
-            ref="https://cobdh.org/persons/KirazGeorgeAnton"
-        >
-            <forename>George Anton</forename>
-            <surname>Kiraz</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Piscataway, New Jersey</pubPlace>
-            <biblScope unit="page">125-153</biblScope>
-            <publisher>Gorgias Press</publisher>
-            <date>2010</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Gorgias Eastern Christian Studies 8</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Jacob of Serugh,
+                    <hi rend="italics">Homily on Good Friday</hi>
+                    and Other Armenian Treasures: First Glances
+                </title>
+                <author
+                    xml:id="MathewsEdwardGeorge"
+                    ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+                >
+                    <forename>Edward George</forename>
+                    <surname>Mathews</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Jacob of Serugh and His Times: Studies in Sixth-Century Syriac Christianity
+                </title>
+                <editor
+                    xml:id="KirazGeorgeAnton"
+                    ref="https://cobdh.org/persons/KirazGeorgeAnton"
+                >
+                    <forename>George Anton</forename>
+                    <surname>Kiraz</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Piscataway, New Jersey</pubPlace>
+                    <biblScope unit="page">125-153</biblScope>
+                    <publisher>Gorgias Press</publisher>
+                    <date>2010</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Gorgias Eastern Christian Studies 8</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

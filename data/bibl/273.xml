@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/3KFKXFYH"
-    xml:id="Grant1841"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            The Nestorians, or the Lost Tribes: Containing Evidence of Their Identity; an
-            Account of Their Manners, Customs, and Ceremonies; together with Sketches of
-            Travel in Ancient Assyria, Armenia, Media, and Mesopotamia; and Illustration of
-            Scripture Prophecy
-        </title>
-        <author
-            xml:id="GrantAsahel"
-            ref="https://cobdh.org/persons/GrantAsahel"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/3KFKXFYH"
+            xml:id="Grant1841"
+            type="book"
         >
-            <forename>Asahel</forename>
-            <surname>Grant</surname>
-        </author>
-        <imprint>
-            <pubPlace>London</pubPlace>
-            <publisher>John Murray</publisher>
-            <date>1841</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    The Nestorians, or the Lost Tribes: Containing Evidence of Their Identity; an
+                    Account of Their Manners, Customs, and Ceremonies; together with Sketches of
+                    Travel in Ancient Assyria, Armenia, Media, and Mesopotamia; and Illustration of
+                    Scripture Prophecy
+                </title>
+                <author
+                    xml:id="GrantAsahel"
+                    ref="https://cobdh.org/persons/GrantAsahel"
+                >
+                    <forename>Asahel</forename>
+                    <surname>Grant</surname>
+                </author>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <publisher>John Murray</publisher>
+                    <date>1841</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

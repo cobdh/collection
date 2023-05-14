@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2I2LQ7DX"
-    xml:id="Lichti1912"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Das Sendschreiben des Patriarchen Barschuschan an den Catholicus der Armenier
-        </title>
-        <author
-            xml:id="LichtiOtto"
-            ref="https://cobdh.org/persons/LichtiOtto"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2I2LQ7DX"
+            xml:id="Lichti1912"
+            type="journalArticle"
         >
-            <forename>Otto</forename>
-            <surname>Lichti</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Journal of the American Oriental Society
-        </title>
-        <imprint>
-            <biblScope unit="volume">32:3</biblScope>
-            <biblScope unit="page">268-342</biblScope>
-            <date>1912</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Das Sendschreiben des Patriarchen Barschuschan an den Catholicus der Armenier
+                </title>
+                <author
+                    xml:id="LichtiOtto"
+                    ref="https://cobdh.org/persons/LichtiOtto"
+                >
+                    <forename>Otto</forename>
+                    <surname>Lichti</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Journal of the American Oriental Society
+                </title>
+                <imprint>
+                    <biblScope unit="volume">32:3</biblScope>
+                    <biblScope unit="page">268-342</biblScope>
+                    <date>1912</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

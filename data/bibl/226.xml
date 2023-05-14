@@ -1,30 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/7ZMZB8GB"
-    xml:id="Lourié2018"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Syrian and Armenian Christianity in Northern Macedonia from the Middle of the
-            Eighth to the Middle of the Ninth Century
-        </title>
-        <author
-            xml:id="LouriéBasil"
-            ref="https://cobdh.org/persons/LouriéBasil"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/7ZMZB8GB"
+            xml:id="Lourié2018"
+            type="journalArticle"
         >
-            <forename>Basil</forename>
-            <surname>Lourié</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Materials in Archaeology and History of Ancient and Medieval Crimea
-        </title>
-        <imprint>
-            <biblScope unit="volume">10</biblScope>
-            <biblScope unit="page">461-476</biblScope>
-            <date>2018</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Syrian and Armenian Christianity in Northern Macedonia from the Middle of the
+                    Eighth to the Middle of the Ninth Century
+                </title>
+                <author
+                    xml:id="LouriéBasil"
+                    ref="https://cobdh.org/persons/LouriéBasil"
+                >
+                    <forename>Basil</forename>
+                    <surname>Lourié</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Materials in Archaeology and History of Ancient and Medieval Crimea
+                </title>
+                <imprint>
+                    <biblScope unit="volume">10</biblScope>
+                    <biblScope unit="page">461-476</biblScope>
+                    <date>2018</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

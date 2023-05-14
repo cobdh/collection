@@ -1,42 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/KCALU9A9"
-    xml:id="Bundy1996"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            The Syriac and Armenian Christian Responses to the Islamification of the Mongols
-        </title>
-        <author
-            xml:id="BundyDavid"
-            ref="https://cobdh.org/persons/BundyDavid"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/KCALU9A9"
+            xml:id="Bundy1996"
+            type="bookSection"
         >
-            <forename>David</forename>
-            <surname>Bundy</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Medieval Christian Perceptions of Islam: A Book of Essays
-        </title>
-        <editor
-            xml:id="TolanJohnVictor"
-            ref="https://cobdh.org/persons/TolanJohnVictor"
-        >
-            <forename>John Victor</forename>
-            <surname>Tolan</surname>
-        </editor>
-        <imprint>
-            <pubPlace>New York</pubPlace>
-            <biblScope unit="page">33-53</biblScope>
-            <publisher>Garland Publishing</publisher>
-            <date>1996</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Garland Reference Library of the Humanities 1768, Garland Medieval Casebooks 10
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    The Syriac and Armenian Christian Responses to the Islamification of the Mongols
+                </title>
+                <author
+                    xml:id="BundyDavid"
+                    ref="https://cobdh.org/persons/BundyDavid"
+                >
+                    <forename>David</forename>
+                    <surname>Bundy</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Medieval Christian Perceptions of Islam: A Book of Essays
+                </title>
+                <editor
+                    xml:id="TolanJohnVictor"
+                    ref="https://cobdh.org/persons/TolanJohnVictor"
+                >
+                    <forename>John Victor</forename>
+                    <surname>Tolan</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>New York</pubPlace>
+                    <biblScope unit="page">33-53</biblScope>
+                    <publisher>Garland Publishing</publisher>
+                    <date>1996</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Garland Reference Library of the Humanities 1768, Garland Medieval Casebooks 10
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

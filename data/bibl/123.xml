@@ -1,57 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/NEXL7H5X"
-    xml:id="Renoux2017"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Glanes apocryphales chrétiennes dans des textes arméniens et géorgiens
-        </title>
-        <author
-            xml:id="RenouxCharles"
-            ref="https://cobdh.org/persons/RenouxCharles"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/NEXL7H5X"
+            xml:id="Renoux2017"
+            type="bookSection"
         >
-            <forename>Charles</forename>
-            <surname>Renoux</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Philologie, herméneutique et histoire des textes entre Orient et Occident.
-            Mélanges en hommage à Sever J. Voicu
-        </title>
-        <editor
-            xml:id="BaroneFrancescaP"
-            ref="https://cobdh.org/persons/BaroneFrancescaP"
-        >
-            <forename>Francesca P.</forename>
-            <surname>Barone</surname>
-        </editor>
-        <editor
-            xml:id="MacéCaroline"
-            ref="https://cobdh.org/persons/MacéCaroline"
-        >
-            <forename>Caroline</forename>
-            <surname>Macé</surname>
-        </editor>
-        <editor
-            xml:id="UbiernaPablo"
-            ref="https://cobdh.org/persons/UbiernaPablo"
-        >
-            <forename>Pablo</forename>
-            <surname>Ubierna</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Turnhout</pubPlace>
-            <biblScope unit="page">671-684</biblScope>
-            <publisher>Brepols</publisher>
-            <date>2017</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Instrumenta Patristica et Mediaevalia 73
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Glanes apocryphales chrétiennes dans des textes arméniens et géorgiens
+                </title>
+                <author
+                    xml:id="RenouxCharles"
+                    ref="https://cobdh.org/persons/RenouxCharles"
+                >
+                    <forename>Charles</forename>
+                    <surname>Renoux</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Philologie, herméneutique et histoire des textes entre Orient et Occident.
+                    Mélanges en hommage à Sever J. Voicu
+                </title>
+                <editor
+                    xml:id="BaroneFrancescaP"
+                    ref="https://cobdh.org/persons/BaroneFrancescaP"
+                >
+                    <forename>Francesca P.</forename>
+                    <surname>Barone</surname>
+                </editor>
+                <editor
+                    xml:id="MacéCaroline"
+                    ref="https://cobdh.org/persons/MacéCaroline"
+                >
+                    <forename>Caroline</forename>
+                    <surname>Macé</surname>
+                </editor>
+                <editor
+                    xml:id="UbiernaPablo"
+                    ref="https://cobdh.org/persons/UbiernaPablo"
+                >
+                    <forename>Pablo</forename>
+                    <surname>Ubierna</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Turnhout</pubPlace>
+                    <biblScope unit="page">671-684</biblScope>
+                    <publisher>Brepols</publisher>
+                    <date>2017</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Instrumenta Patristica et Mediaevalia 73
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

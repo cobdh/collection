@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/JXRMA5VL"
-    xml:id="Southgate1840"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Narrative of a Tour through Armenia, Kurdistan, Persia, and Mesopotamia, with
-            Observations on the Condition of Mohammedanism and Christianity in Those
-            Countries
-        </title>
-        <extent>2</extent>
-        <author
-            xml:id="SouthgateHoratio"
-            ref="https://cobdh.org/persons/SouthgateHoratio"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/JXRMA5VL"
+            xml:id="Southgate1840"
+            type="book"
         >
-            <forename>Horatio</forename>
-            <surname>Southgate</surname>
-        </author>
-        <imprint>
-            <pubPlace>London</pubPlace>
-            <publisher>Tilt and Bogue</publisher>
-            <date>1840</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Narrative of a Tour through Armenia, Kurdistan, Persia, and Mesopotamia, with
+                    Observations on the Condition of Mohammedanism and Christianity in Those
+                    Countries
+                </title>
+                <extent>2</extent>
+                <author
+                    xml:id="SouthgateHoratio"
+                    ref="https://cobdh.org/persons/SouthgateHoratio"
+                >
+                    <forename>Horatio</forename>
+                    <surname>Southgate</surname>
+                </author>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <publisher>Tilt and Bogue</publisher>
+                    <date>1840</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

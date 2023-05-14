@@ -1,58 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/A7A5IDPA"
-    xml:id="Hilkens2015"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            ‘Sons of Magog’ or ‘Thorgomians’? The Description of the Turks (Book XIV) in
-            Michael’s
-            <hi rend="italics">Chronicle</hi>
-            and its Armenian Adaptations
-        </title>
-        <author
-            xml:id="HilkensAndy"
-            ref="https://cobdh.org/persons/HilkensAndy"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/A7A5IDPA"
+            xml:id="Hilkens2015"
+            type="bookSection"
         >
-            <forename>Andy</forename>
-            <surname>Hilkens</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Syriac Encounters: Papers from the Sixth North American Syriac Symposium, Duke
-            University, 26-29 June 2011
-        </title>
-        <editor
-            xml:id="DoerflerMariaE"
-            ref="https://cobdh.org/persons/DoerflerMariaE"
-        >
-            <forename>Maria E.</forename>
-            <surname>Doerfler</surname>
-        </editor>
-        <editor
-            xml:id="FianoEmanuel"
-            ref="https://cobdh.org/persons/FianoEmanuel"
-        >
-            <forename>Emanuel</forename>
-            <surname>Fiano</surname>
-        </editor>
-        <editor
-            xml:id="SmithKyleRichard"
-            ref="https://cobdh.org/persons/SmithKyleRichard"
-        >
-            <forename>Kyle Richard</forename>
-            <surname>Smith</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Leuven</pubPlace>
-            <biblScope unit="page">367-379</biblScope>
-            <publisher>Peeters</publisher>
-            <date>2015</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Eastern Christian Studies 20</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    ‘Sons of Magog’ or ‘Thorgomians’? The Description of the Turks (Book XIV) in
+                    Michael’s
+                    <hi rend="italics">Chronicle</hi>
+                    and its Armenian Adaptations
+                </title>
+                <author
+                    xml:id="HilkensAndy"
+                    ref="https://cobdh.org/persons/HilkensAndy"
+                >
+                    <forename>Andy</forename>
+                    <surname>Hilkens</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Syriac Encounters: Papers from the Sixth North American Syriac Symposium, Duke
+                    University, 26-29 June 2011
+                </title>
+                <editor
+                    xml:id="DoerflerMariaE"
+                    ref="https://cobdh.org/persons/DoerflerMariaE"
+                >
+                    <forename>Maria E.</forename>
+                    <surname>Doerfler</surname>
+                </editor>
+                <editor
+                    xml:id="FianoEmanuel"
+                    ref="https://cobdh.org/persons/FianoEmanuel"
+                >
+                    <forename>Emanuel</forename>
+                    <surname>Fiano</surname>
+                </editor>
+                <editor
+                    xml:id="SmithKyleRichard"
+                    ref="https://cobdh.org/persons/SmithKyleRichard"
+                >
+                    <forename>Kyle Richard</forename>
+                    <surname>Smith</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Leuven</pubPlace>
+                    <biblScope unit="page">367-379</biblScope>
+                    <publisher>Peeters</publisher>
+                    <date>2015</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Eastern Christian Studies 20</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

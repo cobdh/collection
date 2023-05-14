@@ -1,43 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/7PETW6QK"
-    xml:id="Kohlbacher2004"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Rabbula in Edessa. Das Weiterwirken eines Schismas in der armenischen
-            Bekenntnistradition
-        </title>
-        <author
-            xml:id="KohlbacherMichael"
-            ref="https://cobdh.org/persons/KohlbacherMichael"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/7PETW6QK"
+            xml:id="Kohlbacher2004"
+            type="bookSection"
         >
-            <forename>Michael</forename>
-            <surname>Kohlbacher</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Blicke gen Osten: Festschrift für Friedrich Heyer zum 95. Geburtstag
-        </title>
-        <editor
-            xml:id="TamckeMartin"
-            ref="https://cobdh.org/persons/TamckeMartin"
-        >
-            <forename>Martin</forename>
-            <surname>Tamcke</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Münster</pubPlace>
-            <biblScope unit="page">233-274</biblScope>
-            <publisher>LIT</publisher>
-            <date>2004</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Studien zur orientalischen Kirchengeschichte 30
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Rabbula in Edessa. Das Weiterwirken eines Schismas in der armenischen
+                    Bekenntnistradition
+                </title>
+                <author
+                    xml:id="KohlbacherMichael"
+                    ref="https://cobdh.org/persons/KohlbacherMichael"
+                >
+                    <forename>Michael</forename>
+                    <surname>Kohlbacher</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Blicke gen Osten: Festschrift für Friedrich Heyer zum 95. Geburtstag
+                </title>
+                <editor
+                    xml:id="TamckeMartin"
+                    ref="https://cobdh.org/persons/TamckeMartin"
+                >
+                    <forename>Martin</forename>
+                    <surname>Tamcke</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Münster</pubPlace>
+                    <biblScope unit="page">233-274</biblScope>
+                    <publisher>LIT</publisher>
+                    <date>2004</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Studien zur orientalischen Kirchengeschichte 30
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

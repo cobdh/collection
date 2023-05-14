@@ -1,60 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/YFGDG39R"
-    xml:id="Calzolari2005"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            La transmission et la réception des apocryphes syriaques dans la tradition
-            arménienne
-        </title>
-        <author
-            xml:id="CalzolariValentina"
-            ref="https://cobdh.org/persons/CalzolariValentina"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/YFGDG39R"
+            xml:id="Calzolari2005"
+            type="bookSection"
         >
-            <forename>Valentina</forename>
-            <surname>Calzolari</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">Les apocryphes syriaques</title>
-        <editor
-            xml:id="DebiéMuriel"
-            ref="https://cobdh.org/persons/DebiéMuriel"
-        >
-            <forename>Muriel</forename>
-            <surname>Debié</surname>
-        </editor>
-        <editor
-            xml:id="JullienChristelle"
-            ref="https://cobdh.org/persons/JullienChristelle"
-        >
-            <forename>Christelle</forename>
-            <surname>Jullien</surname>
-        </editor>
-        <editor
-            xml:id="JullienFlorence"
-            ref="https://cobdh.org/persons/JullienFlorence"
-        >
-            <forename>Florence</forename>
-            <surname>Jullien</surname>
-        </editor>
-        <editor
-            xml:id="DesreumauxAlain"
-            ref="https://cobdh.org/persons/DesreumauxAlain"
-        >
-            <forename>Alain</forename>
-            <surname>Desreumaux</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Paris</pubPlace>
-            <biblScope unit="page">169-195</biblScope>
-            <publisher>Geuthner</publisher>
-            <date>2005</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Études syriaques 2</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    La transmission et la réception des apocryphes syriaques dans la tradition
+                    arménienne
+                </title>
+                <author
+                    xml:id="CalzolariValentina"
+                    ref="https://cobdh.org/persons/CalzolariValentina"
+                >
+                    <forename>Valentina</forename>
+                    <surname>Calzolari</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">Les apocryphes syriaques</title>
+                <editor
+                    xml:id="DebiéMuriel"
+                    ref="https://cobdh.org/persons/DebiéMuriel"
+                >
+                    <forename>Muriel</forename>
+                    <surname>Debié</surname>
+                </editor>
+                <editor
+                    xml:id="JullienChristelle"
+                    ref="https://cobdh.org/persons/JullienChristelle"
+                >
+                    <forename>Christelle</forename>
+                    <surname>Jullien</surname>
+                </editor>
+                <editor
+                    xml:id="JullienFlorence"
+                    ref="https://cobdh.org/persons/JullienFlorence"
+                >
+                    <forename>Florence</forename>
+                    <surname>Jullien</surname>
+                </editor>
+                <editor
+                    xml:id="DesreumauxAlain"
+                    ref="https://cobdh.org/persons/DesreumauxAlain"
+                >
+                    <forename>Alain</forename>
+                    <surname>Desreumaux</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <biblScope unit="page">169-195</biblScope>
+                    <publisher>Geuthner</publisher>
+                    <date>2005</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Études syriaques 2</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

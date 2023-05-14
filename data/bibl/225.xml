@@ -1,43 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/DPJML58Q"
-    xml:id="Greppin1997"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">Syriac Loanwords in Classical Armenian</title>
-        <author
-            xml:id="GreppinJohnAC"
-            ref="https://cobdh.org/persons/GreppinJohnAC"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/DPJML58Q"
+            xml:id="Greppin1997"
+            type="bookSection"
         >
-            <forename>John A. C.</forename>
-            <surname>Greppin</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Humanism, Culture, and Language in the Near East: Studies in Honor of Georg
-            Krotkoff
-        </title>
-        <editor
-            xml:id="AfsaruddinAsma"
-            ref="https://cobdh.org/persons/AfsaruddinAsma"
-        >
-            <forename>Asma</forename>
-            <surname>Afsaruddin</surname>
-        </editor>
-        <editor
-            xml:id="MathiasZahniserAH"
-            ref="https://cobdh.org/persons/MathiasZahniserAH"
-        >
-            <forename>A. H.</forename>
-            <surname>Mathias Zahniser</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Winona Lake, Indiana</pubPlace>
-            <biblScope unit="page">247-251</biblScope>
-            <publisher>Eisenbrauns</publisher>
-            <date>1997</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">Syriac Loanwords in Classical Armenian</title>
+                <author
+                    xml:id="GreppinJohnAC"
+                    ref="https://cobdh.org/persons/GreppinJohnAC"
+                >
+                    <forename>John A. C.</forename>
+                    <surname>Greppin</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Humanism, Culture, and Language in the Near East: Studies in Honor of Georg
+                    Krotkoff
+                </title>
+                <editor
+                    xml:id="AfsaruddinAsma"
+                    ref="https://cobdh.org/persons/AfsaruddinAsma"
+                >
+                    <forename>Asma</forename>
+                    <surname>Afsaruddin</surname>
+                </editor>
+                <editor
+                    xml:id="MathiasZahniserAH"
+                    ref="https://cobdh.org/persons/MathiasZahniserAH"
+                >
+                    <forename>A. H.</forename>
+                    <surname>Mathias Zahniser</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Winona Lake, Indiana</pubPlace>
+                    <biblScope unit="page">247-251</biblScope>
+                    <publisher>Eisenbrauns</publisher>
+                    <date>1997</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

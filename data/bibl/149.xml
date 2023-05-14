@@ -1,24 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/EJFEPISZ"
-    xml:id="Carrière1895"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            La Légende d’Abgar dans I’“Histoire d’Arménie” de Moïse de Khoren
-        </title>
-        <author
-            xml:id="CarrièreAuguste"
-            ref="https://cobdh.org/persons/CarrièreAuguste"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/EJFEPISZ"
+            xml:id="Carrière1895"
+            type="book"
         >
-            <forename>Auguste</forename>
-            <surname>Carrière</surname>
-        </author>
-        <imprint>
-            <pubPlace>Paris</pubPlace>
-            <publisher>Imprimerie nationale</publisher>
-            <date>1895</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    La Légende d’Abgar dans I’“Histoire d’Arménie” de Moïse de Khoren
+                </title>
+                <author
+                    xml:id="CarrièreAuguste"
+                    ref="https://cobdh.org/persons/CarrièreAuguste"
+                >
+                    <forename>Auguste</forename>
+                    <surname>Carrière</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Imprimerie nationale</publisher>
+                    <date>1895</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

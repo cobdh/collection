@@ -1,54 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/WPZBZYZB"
-    xml:id="Karaulashvili2012"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Les caractéristiques de l’identité du premier roi chrétien dans les narrations
-            syriaques, grecques, arméniennes et géorgiennes de l’Antiquité tardive et du
-            début du Moyen Age
-        </title>
-        <author
-            xml:id="KaraulashviliIrma"
-            ref="https://cobdh.org/persons/KaraulashviliIrma"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/WPZBZYZB"
+            xml:id="Karaulashvili2012"
+            type="bookSection"
         >
-            <forename>Irma</forename>
-            <surname>Karaulashvili</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            L’Europe et le Caucase: les relations interrégionales et la question de
-            l’identité. Actes du colloque
-        </title>
-        <editor
-            xml:id="DokhtourichviliMzaro"
-            ref="https://cobdh.org/persons/DokhtourichviliMzaro"
-        >
-            <forename>Mzaro</forename>
-            <surname>Dokhtourichvili</surname>
-        </editor>
-        <editor
-            xml:id="DédéyanGérard"
-            ref="https://cobdh.org/persons/DédéyanGérard"
-        >
-            <forename>Gérard</forename>
-            <surname>Dédéyan</surname>
-        </editor>
-        <editor
-            xml:id="AugéIsabelle"
-            ref="https://cobdh.org/persons/AugéIsabelle"
-        >
-            <forename>Isabelle</forename>
-            <surname>Augé</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Tbilissi</pubPlace>
-            <biblScope unit="page">56-109</biblScope>
-            <publisher>Edition Université d’Etat Ilia</publisher>
-            <date>2012</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Les caractéristiques de l’identité du premier roi chrétien dans les narrations
+                    syriaques, grecques, arméniennes et géorgiennes de l’Antiquité tardive et du
+                    début du Moyen Age
+                </title>
+                <author
+                    xml:id="KaraulashviliIrma"
+                    ref="https://cobdh.org/persons/KaraulashviliIrma"
+                >
+                    <forename>Irma</forename>
+                    <surname>Karaulashvili</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    L’Europe et le Caucase: les relations interrégionales et la question de
+                    l’identité. Actes du colloque
+                </title>
+                <editor
+                    xml:id="DokhtourichviliMzaro"
+                    ref="https://cobdh.org/persons/DokhtourichviliMzaro"
+                >
+                    <forename>Mzaro</forename>
+                    <surname>Dokhtourichvili</surname>
+                </editor>
+                <editor
+                    xml:id="DédéyanGérard"
+                    ref="https://cobdh.org/persons/DédéyanGérard"
+                >
+                    <forename>Gérard</forename>
+                    <surname>Dédéyan</surname>
+                </editor>
+                <editor
+                    xml:id="AugéIsabelle"
+                    ref="https://cobdh.org/persons/AugéIsabelle"
+                >
+                    <forename>Isabelle</forename>
+                    <surname>Augé</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Tbilissi</pubPlace>
+                    <biblScope unit="page">56-109</biblScope>
+                    <publisher>Edition Université d’Etat Ilia</publisher>
+                    <date>2012</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

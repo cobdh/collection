@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/QAJ9NNZD"
-    xml:id="Leloir1953"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Saint Éphrem. Commentaire de l’Évangile concordant: version arménienne
-        </title>
-        <author
-            xml:id="LeloirLouis"
-            ref="https://cobdh.org/persons/LeloirLouis"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/QAJ9NNZD"
+            xml:id="Leloir1953"
+            type="book"
         >
-            <forename>Louis</forename>
-            <surname>Leloir</surname>
-        </author>
-        <imprint>
-            <pubPlace>Louvain</pubPlace>
-            <publisher>L. Durbecq</publisher>
-            <date>1953</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">CSCO 137, 145, Arm. 1-2</title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Saint Éphrem. Commentaire de l’Évangile concordant: version arménienne
+                </title>
+                <author
+                    xml:id="LeloirLouis"
+                    ref="https://cobdh.org/persons/LeloirLouis"
+                >
+                    <forename>Louis</forename>
+                    <surname>Leloir</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Louvain</pubPlace>
+                    <publisher>L. Durbecq</publisher>
+                    <date>1953</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">CSCO 137, 145, Arm. 1-2</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

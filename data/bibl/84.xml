@@ -1,39 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/LIFIHDLR"
-    xml:id="Müller1984"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Die Geburt einer einheimischen Literatur und Kultur im spätantiken Ägypten,
-            Syrien und Armenien
-        </title>
-        <author
-            xml:id="MuellerCasparDetlefGustav"
-            ref="https://cobdh.org/persons/MuellerCasparDetlefGustav"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/LIFIHDLR"
+            xml:id="Müller1984"
+            type="bookSection"
         >
-            <forename>Caspar Detlef Gustav</forename>
-            <surname>Müller</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Proceedings of the VIIth Congress of the International Federation of the
-            Societies of Classical Studies
-        </title>
-        <editor
-            xml:id="HarmattaJanos"
-            ref="https://cobdh.org/persons/HarmattaJanos"
-        >
-            <forename>Janos</forename>
-            <surname>Harmatta</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Budapest</pubPlace>
-            <biblScope unit="page">283-295</biblScope>
-            <publisher>Akadémiai Kiadó</publisher>
-            <date>1984</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Die Geburt einer einheimischen Literatur und Kultur im spätantiken Ägypten,
+                    Syrien und Armenien
+                </title>
+                <author
+                    xml:id="MuellerCasparDetlefGustav"
+                    ref="https://cobdh.org/persons/MuellerCasparDetlefGustav"
+                >
+                    <forename>Caspar Detlef Gustav</forename>
+                    <surname>Müller</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Proceedings of the VIIth Congress of the International Federation of the
+                    Societies of Classical Studies
+                </title>
+                <editor
+                    xml:id="HarmattaJanos"
+                    ref="https://cobdh.org/persons/HarmattaJanos"
+                >
+                    <forename>Janos</forename>
+                    <surname>Harmatta</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Budapest</pubPlace>
+                    <biblScope unit="page">283-295</biblScope>
+                    <publisher>Akadémiai Kiadó</publisher>
+                    <date>1984</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

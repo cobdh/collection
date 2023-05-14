@@ -1,47 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2K2VRU7E"
-    xml:id="Schmitt1980"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Die Ostgrenze von Armenien über Mesopotamien, Syrien bis Arabien
-        </title>
-        <author
-            xml:id="SchmittRuediger"
-            ref="https://cobdh.org/persons/SchmittRuediger"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2K2VRU7E"
+            xml:id="Schmitt1980"
+            type="bookSection"
         >
-            <forename>Rüdiger</forename>
-            <surname>Schmitt</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Die Sprachen im römischen Reich der Kaiserzeit
-        </title>
-        <editor
-            xml:id="NeumannGuenter"
-            ref="https://cobdh.org/persons/NeumannGuenter"
-        >
-            <forename>Günter</forename>
-            <surname>Neumann</surname>
-        </editor>
-        <editor
-            xml:id="UntermannJuergen"
-            ref="https://cobdh.org/persons/UntermannJuergen"
-        >
-            <forename>Jürgen</forename>
-            <surname>Untermann</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Köln / Bonn</pubPlace>
-            <biblScope unit="page">187-214</biblScope>
-            <publisher>Rheinland-Verlag</publisher>
-            <date>1980</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Beihefte der Bonner Jahrbücher 40</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Die Ostgrenze von Armenien über Mesopotamien, Syrien bis Arabien
+                </title>
+                <author
+                    xml:id="SchmittRuediger"
+                    ref="https://cobdh.org/persons/SchmittRuediger"
+                >
+                    <forename>Rüdiger</forename>
+                    <surname>Schmitt</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Die Sprachen im römischen Reich der Kaiserzeit
+                </title>
+                <editor
+                    xml:id="NeumannGuenter"
+                    ref="https://cobdh.org/persons/NeumannGuenter"
+                >
+                    <forename>Günter</forename>
+                    <surname>Neumann</surname>
+                </editor>
+                <editor
+                    xml:id="UntermannJuergen"
+                    ref="https://cobdh.org/persons/UntermannJuergen"
+                >
+                    <forename>Jürgen</forename>
+                    <surname>Untermann</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Köln / Bonn</pubPlace>
+                    <biblScope unit="page">187-214</biblScope>
+                    <publisher>Rheinland-Verlag</publisher>
+                    <date>1980</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Beihefte der Bonner Jahrbücher 40</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

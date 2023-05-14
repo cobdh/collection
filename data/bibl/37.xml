@@ -1,37 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/KBQZIPAL"
-    xml:id="Sargsyan2015"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Armenian Inscriptions and Graffiti at the Monastery of Mar Behnam and in
-            Qaraqosh
-        </title>
-        <author
-            xml:id="SargsyanGagikG"
-            ref="https://cobdh.org/persons/SargsyanGagikG"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/KBQZIPAL"
+            xml:id="Sargsyan2015"
+            type="journalArticle"
         >
-            <forename>Gagik G.</forename>
-            <surname>Sargsyan</surname>
-        </author>
-        <author
-            xml:id="HarrakAmir"
-            ref="https://cobdh.org/persons/HarrakAmir"
-        >
-            <forename>Amir</forename>
-            <surname>Harrak</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Journal of the Canadian Society for Syriac Studies
-        </title>
-        <imprint>
-            <biblScope unit="volume">15</biblScope>
-            <biblScope unit="page">17-32</biblScope>
-            <date>2015</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Armenian Inscriptions and Graffiti at the Monastery of Mar Behnam and in
+                    Qaraqosh
+                </title>
+                <author
+                    xml:id="SargsyanGagikG"
+                    ref="https://cobdh.org/persons/SargsyanGagikG"
+                >
+                    <forename>Gagik G.</forename>
+                    <surname>Sargsyan</surname>
+                </author>
+                <author
+                    xml:id="HarrakAmir"
+                    ref="https://cobdh.org/persons/HarrakAmir"
+                >
+                    <forename>Amir</forename>
+                    <surname>Harrak</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Journal of the Canadian Society for Syriac Studies
+                </title>
+                <imprint>
+                    <biblScope unit="volume">15</biblScope>
+                    <biblScope unit="page">17-32</biblScope>
+                    <date>2015</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

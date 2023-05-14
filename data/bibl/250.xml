@@ -1,49 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/USEYNYWM"
-    xml:id="Hilkens2020"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            The Armenian Reception of the Homilies of Jacob of Serugh: New Findings
-        </title>
-        <author
-            xml:id="HilkensAndy"
-            ref="https://cobdh.org/persons/HilkensAndy"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/USEYNYWM"
+            xml:id="Hilkens2020"
+            type="bookSection"
         >
-            <forename>Andy</forename>
-            <surname>Hilkens</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Caught in Translation: Studies on Versions of Late Antique Christian Literature
-        </title>
-        <editor
-            xml:id="TocaMadalina"
-            ref="https://cobdh.org/persons/TocaMadalina"
-        >
-            <forename>Madalina</forename>
-            <surname>Toca</surname>
-        </editor>
-        <editor
-            xml:id="BatoviciDan"
-            ref="https://cobdh.org/persons/BatoviciDan"
-        >
-            <forename>Dan</forename>
-            <surname>Batovici</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Leiden</pubPlace>
-            <biblScope unit="page">64-84</biblScope>
-            <publisher>Brill</publisher>
-            <date>2020</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Texts and Studies in Eastern Christianity 17
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    The Armenian Reception of the Homilies of Jacob of Serugh: New Findings
+                </title>
+                <author
+                    xml:id="HilkensAndy"
+                    ref="https://cobdh.org/persons/HilkensAndy"
+                >
+                    <forename>Andy</forename>
+                    <surname>Hilkens</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Caught in Translation: Studies on Versions of Late Antique Christian Literature
+                </title>
+                <editor
+                    xml:id="TocaMadalina"
+                    ref="https://cobdh.org/persons/TocaMadalina"
+                >
+                    <forename>Madalina</forename>
+                    <surname>Toca</surname>
+                </editor>
+                <editor
+                    xml:id="BatoviciDan"
+                    ref="https://cobdh.org/persons/BatoviciDan"
+                >
+                    <forename>Dan</forename>
+                    <surname>Batovici</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Leiden</pubPlace>
+                    <biblScope unit="page">64-84</biblScope>
+                    <publisher>Brill</publisher>
+                    <date>2020</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Texts and Studies in Eastern Christianity 17
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

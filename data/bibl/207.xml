@@ -1,28 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/BUB56T4F"
-    xml:id="Calzolari1997"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Réécriture des textes apocryphes en arménien: l’exemple de la légende de
-            l’apostolat de Thaddée en Arménie
-        </title>
-        <author
-            xml:id="CalzolariValentina"
-            ref="https://cobdh.org/persons/CalzolariValentina"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/BUB56T4F"
+            xml:id="Calzolari1997"
+            type="journalArticle"
         >
-            <forename>Valentina</forename>
-            <surname>Calzolari</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Apocrypha</title>
-        <imprint>
-            <biblScope unit="volume">8</biblScope>
-            <biblScope unit="page">97-110</biblScope>
-            <date>1997</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Réécriture des textes apocryphes en arménien: l’exemple de la légende de
+                    l’apostolat de Thaddée en Arménie
+                </title>
+                <author
+                    xml:id="CalzolariValentina"
+                    ref="https://cobdh.org/persons/CalzolariValentina"
+                >
+                    <forename>Valentina</forename>
+                    <surname>Calzolari</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Apocrypha</title>
+                <imprint>
+                    <biblScope unit="volume">8</biblScope>
+                    <biblScope unit="page">97-110</biblScope>
+                    <date>1997</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/64BIQK92"
-    xml:id="Grigoryan2019"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Khosrovik Targmanich. Dogmatic Writings: Armenian Original Text with English
-            Translation
-        </title>
-        <author
-            xml:id="GrigoryanKhachik"
-            ref="https://cobdh.org/persons/GrigoryanKhachik"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/64BIQK92"
+            xml:id="Grigoryan2019"
+            type="book"
         >
-            <forename>Khachik</forename>
-            <surname>Grigoryan</surname>
-        </author>
-        <imprint>
-            <pubPlace>Yerevan</pubPlace>
-            <publisher>Vestigia / Ankyunacar</publisher>
-            <date>2019</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Khosrovik Targmanich. Dogmatic Writings: Armenian Original Text with English
+                    Translation
+                </title>
+                <author
+                    xml:id="GrigoryanKhachik"
+                    ref="https://cobdh.org/persons/GrigoryanKhachik"
+                >
+                    <forename>Khachik</forename>
+                    <surname>Grigoryan</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Yerevan</pubPlace>
+                    <publisher>Vestigia / Ankyunacar</publisher>
+                    <date>2019</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

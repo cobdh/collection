@@ -1,28 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/SNEX86XN"
-    xml:id="Kominko2010"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Byzantine, Syriac, Armenian and Latin: A Note on Artistic Interaction in Eastern
-            Mediterranean Manuscripts
-        </title>
-        <author
-            xml:id="KominkoMaja"
-            ref="https://cobdh.org/persons/KominkoMaja"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/SNEX86XN"
+            xml:id="Kominko2010"
+            type="journalArticle"
         >
-            <forename>Maja</forename>
-            <surname>Kominko</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Eastern Christian Art</title>
-        <imprint>
-            <biblScope unit="volume">7</biblScope>
-            <biblScope unit="page">59-70</biblScope>
-            <date>2010</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Byzantine, Syriac, Armenian and Latin: A Note on Artistic Interaction in Eastern
+                    Mediterranean Manuscripts
+                </title>
+                <author
+                    xml:id="KominkoMaja"
+                    ref="https://cobdh.org/persons/KominkoMaja"
+                >
+                    <forename>Maja</forename>
+                    <surname>Kominko</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Eastern Christian Art</title>
+                <imprint>
+                    <biblScope unit="volume">7</biblScope>
+                    <biblScope unit="page">59-70</biblScope>
+                    <date>2010</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

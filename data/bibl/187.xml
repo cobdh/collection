@@ -1,49 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/3289IDML"
-    xml:id="Daccache2021"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Missionary Movements in Nisibis, Armenia, and the Silk Road
-        </title>
-        <author
-            xml:id="DaccacheSalim"
-            ref="https://cobdh.org/persons/DaccacheSalim"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/3289IDML"
+            xml:id="Daccache2021"
+            type="bookSection"
         >
-            <forename>Salim</forename>
-            <surname>Daccache</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            The Rowman &amp; Littlefield Handbook of Christianity in the Middle East
-        </title>
-        <editor
-            xml:id="RahebMitri"
-            ref="https://cobdh.org/persons/RahebMitri"
-        >
-            <forename>Mitri</forename>
-            <surname>Raheb</surname>
-        </editor>
-        <editor
-            xml:id="LamportMarkA"
-            ref="https://cobdh.org/persons/LamportMarkA"
-        >
-            <forename>Mark A.</forename>
-            <surname>Lamport</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Lanham, MD</pubPlace>
-            <biblScope unit="page">44-55</biblScope>
-            <publisher>Rowman & Littlefield</publisher>
-            <date>2021</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            The Rowman &amp; Littlefield Handbook Series
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Missionary Movements in Nisibis, Armenia, and the Silk Road
+                </title>
+                <author
+                    xml:id="DaccacheSalim"
+                    ref="https://cobdh.org/persons/DaccacheSalim"
+                >
+                    <forename>Salim</forename>
+                    <surname>Daccache</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    The Rowman &amp; Littlefield Handbook of Christianity in the Middle East
+                </title>
+                <editor
+                    xml:id="RahebMitri"
+                    ref="https://cobdh.org/persons/RahebMitri"
+                >
+                    <forename>Mitri</forename>
+                    <surname>Raheb</surname>
+                </editor>
+                <editor
+                    xml:id="LamportMarkA"
+                    ref="https://cobdh.org/persons/LamportMarkA"
+                >
+                    <forename>Mark A.</forename>
+                    <surname>Lamport</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Lanham, MD</pubPlace>
+                    <biblScope unit="page">44-55</biblScope>
+                    <publisher>Rowman & Littlefield</publisher>
+                    <date>2021</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    The Rowman &amp; Littlefield Handbook Series
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

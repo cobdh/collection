@@ -1,48 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/3WDJBF42"
-    xml:id="Winkler1983"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Die Tauf-Hymnen der Armenier. Ihre Affinität mit syrischem Gedankengut
-        </title>
-        <author
-            xml:id="WinklerGabriele"
-            ref="https://cobdh.org/persons/WinklerGabriele"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/3WDJBF42"
+            xml:id="Winkler1983"
+            type="bookSection"
         >
-            <forename>Gabriele</forename>
-            <surname>Winkler</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Liturgie und Dichtung. Ein interdisziplinäres Kompendium
-        </title>
-        <editor
-            xml:id="BeckerHansjakob"
-            ref="https://cobdh.org/persons/BeckerHansjakob"
-        >
-            <forename>Hansjakob</forename>
-            <surname>Becker</surname>
-        </editor>
-        <editor
-            xml:id="KaczynskiReiner"
-            ref="https://cobdh.org/persons/KaczynskiReiner"
-        >
-            <forename>Reiner</forename>
-            <surname>Kaczynski</surname>
-        </editor>
-        <imprint>
-            <pubPlace>St. Ottilien</pubPlace>
-            <biblScope unit="volume">1</biblScope>
-            <biblScope unit="page">381-419</biblScope>
-            <publisher>EOS-Verlag</publisher>
-            <date>1983</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Pietas liturgica 1-2</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Die Tauf-Hymnen der Armenier. Ihre Affinität mit syrischem Gedankengut
+                </title>
+                <author
+                    xml:id="WinklerGabriele"
+                    ref="https://cobdh.org/persons/WinklerGabriele"
+                >
+                    <forename>Gabriele</forename>
+                    <surname>Winkler</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Liturgie und Dichtung. Ein interdisziplinäres Kompendium
+                </title>
+                <editor
+                    xml:id="BeckerHansjakob"
+                    ref="https://cobdh.org/persons/BeckerHansjakob"
+                >
+                    <forename>Hansjakob</forename>
+                    <surname>Becker</surname>
+                </editor>
+                <editor
+                    xml:id="KaczynskiReiner"
+                    ref="https://cobdh.org/persons/KaczynskiReiner"
+                >
+                    <forename>Reiner</forename>
+                    <surname>Kaczynski</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>St. Ottilien</pubPlace>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="page">381-419</biblScope>
+                    <publisher>EOS-Verlag</publisher>
+                    <date>1983</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Pietas liturgica 1-2</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

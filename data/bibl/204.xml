@@ -1,56 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/3UT58UPP"
-    xml:id="van_Rompay1985"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Proclus of Constantinople’s “Tomus ad Armenios” in the Post-Chalcedonian
-            Tradition
-        </title>
-        <author
-            xml:id="vanRompayLucas"
-            ref="https://cobdh.org/persons/vanRompayLucas"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/3UT58UPP"
+            xml:id="van_Rompay1985"
+            type="bookSection"
         >
-            <forename>Lucas</forename>
-            <surname>van Rompay</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            After Chalcedon: Studies in Theology and Church History Offered to Professor
-            Albert Van Roey for His Seventieth Birthday
-        </title>
-        <editor
-            xml:id="LagaCarl"
-            ref="https://cobdh.org/persons/LagaCarl"
-        >
-            <forename>Carl</forename>
-            <surname>Laga</surname>
-        </editor>
-        <editor
-            xml:id="MunitizJosephA"
-            ref="https://cobdh.org/persons/MunitizJosephA"
-        >
-            <forename>Joseph A.</forename>
-            <surname>Munitiz</surname>
-        </editor>
-        <editor
-            xml:id="vanRompayLucas"
-            ref="https://cobdh.org/persons/vanRompayLucas"
-        >
-            <forename>Lucas</forename>
-            <surname>van Rompay</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Leuven</pubPlace>
-            <biblScope unit="page">425-449</biblScope>
-            <publisher>Peeters</publisher>
-            <date>1985</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Orientalia Lovaniensia Analecta 18</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Proclus of Constantinople’s “Tomus ad Armenios” in the Post-Chalcedonian
+                    Tradition
+                </title>
+                <author
+                    xml:id="vanRompayLucas"
+                    ref="https://cobdh.org/persons/vanRompayLucas"
+                >
+                    <forename>Lucas</forename>
+                    <surname>van Rompay</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    After Chalcedon: Studies in Theology and Church History Offered to Professor
+                    Albert Van Roey for His Seventieth Birthday
+                </title>
+                <editor
+                    xml:id="LagaCarl"
+                    ref="https://cobdh.org/persons/LagaCarl"
+                >
+                    <forename>Carl</forename>
+                    <surname>Laga</surname>
+                </editor>
+                <editor
+                    xml:id="MunitizJosephA"
+                    ref="https://cobdh.org/persons/MunitizJosephA"
+                >
+                    <forename>Joseph A.</forename>
+                    <surname>Munitiz</surname>
+                </editor>
+                <editor
+                    xml:id="vanRompayLucas"
+                    ref="https://cobdh.org/persons/vanRompayLucas"
+                >
+                    <forename>Lucas</forename>
+                    <surname>van Rompay</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Leuven</pubPlace>
+                    <biblScope unit="page">425-449</biblScope>
+                    <publisher>Peeters</publisher>
+                    <date>1985</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Orientalia Lovaniensia Analecta 18</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

@@ -1,68 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/FVS4KZRN"
-    xml:id="Horn2020"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Jesus and the Alphabet in the Caucasus: A View of the Relationship of the
-            Georgian
-            <hi rend="italics">Infancy Gospel of Thomas</hi>
-            to Armenian Infancy Gospel Traditions via Cross-Cultural Intersections with the
-            Syriac, Greek, and Ethiopic Evidence
-        </title>
-        <author
-            xml:id="HornCorneliaB"
-            ref="https://cobdh.org/persons/HornCorneliaB"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/FVS4KZRN"
+            xml:id="Horn2020"
+            type="bookSection"
         >
-            <forename>Cornelia B.</forename>
-            <surname>Horn</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Armenia between Byzantium and the Orient: Celebrating the Memory of Karen
-            Yuzbashian (1927–2009)
-        </title>
-        <editor
-            xml:id="OuttierBernard"
-            ref="https://cobdh.org/persons/OuttierBernard"
-        >
-            <forename>Bernard</forename>
-            <surname>Outtier</surname>
-        </editor>
-        <editor
-            xml:id="HornCorneliaB"
-            ref="https://cobdh.org/persons/HornCorneliaB"
-        >
-            <forename>Cornelia B.</forename>
-            <surname>Horn</surname>
-        </editor>
-        <editor
-            xml:id="LouriéBasil"
-            ref="https://cobdh.org/persons/LouriéBasil"
-        >
-            <forename>Basil</forename>
-            <surname>Lourié</surname>
-        </editor>
-        <editor
-            xml:id="OstrovskyAlexey"
-            ref="https://cobdh.org/persons/OstrovskyAlexey"
-        >
-            <forename>Alexey</forename>
-            <surname>Ostrovsky</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Leiden</pubPlace>
-            <biblScope unit="page">60-96</biblScope>
-            <publisher>Brill</publisher>
-            <date>2020</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Texts and Studies in Eastern Christianity 16
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Jesus and the Alphabet in the Caucasus: A View of the Relationship of the
+                    Georgian
+                    <hi rend="italics">Infancy Gospel of Thomas</hi>
+                    to Armenian Infancy Gospel Traditions via Cross-Cultural Intersections with the
+                    Syriac, Greek, and Ethiopic Evidence
+                </title>
+                <author
+                    xml:id="HornCorneliaB"
+                    ref="https://cobdh.org/persons/HornCorneliaB"
+                >
+                    <forename>Cornelia B.</forename>
+                    <surname>Horn</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Armenia between Byzantium and the Orient: Celebrating the Memory of Karen
+                    Yuzbashian (1927–2009)
+                </title>
+                <editor
+                    xml:id="OuttierBernard"
+                    ref="https://cobdh.org/persons/OuttierBernard"
+                >
+                    <forename>Bernard</forename>
+                    <surname>Outtier</surname>
+                </editor>
+                <editor
+                    xml:id="HornCorneliaB"
+                    ref="https://cobdh.org/persons/HornCorneliaB"
+                >
+                    <forename>Cornelia B.</forename>
+                    <surname>Horn</surname>
+                </editor>
+                <editor
+                    xml:id="LouriéBasil"
+                    ref="https://cobdh.org/persons/LouriéBasil"
+                >
+                    <forename>Basil</forename>
+                    <surname>Lourié</surname>
+                </editor>
+                <editor
+                    xml:id="OstrovskyAlexey"
+                    ref="https://cobdh.org/persons/OstrovskyAlexey"
+                >
+                    <forename>Alexey</forename>
+                    <surname>Ostrovsky</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Leiden</pubPlace>
+                    <biblScope unit="page">60-96</biblScope>
+                    <publisher>Brill</publisher>
+                    <date>2020</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Texts and Studies in Eastern Christianity 16
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

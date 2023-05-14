@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/4FC6PX32"
-    xml:id="Kelaita1918"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            The Nomocanon or the Collection of Synodical Canons, of Mar Abdisho bar Brikha,
-            Metropolitan of Nisibis and Armenia, 1290 A.D.
-        </title>
-        <author
-            xml:id="KelaitaJoseph"
-            ref="https://cobdh.org/persons/KelaitaJoseph"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/4FC6PX32"
+            xml:id="Kelaita1918"
+            type="book"
         >
-            <forename>Joseph</forename>
-            <surname>Kelaita</surname>
-        </author>
-        <imprint>
-            <pubPlace>Urmia</pubPlace>
-            <publisher>[s.n.]</publisher>
-            <date>1918</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    The Nomocanon or the Collection of Synodical Canons, of Mar Abdisho bar Brikha,
+                    Metropolitan of Nisibis and Armenia, 1290 A.D.
+                </title>
+                <author
+                    xml:id="KelaitaJoseph"
+                    ref="https://cobdh.org/persons/KelaitaJoseph"
+                >
+                    <forename>Joseph</forename>
+                    <surname>Kelaita</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Urmia</pubPlace>
+                    <publisher>[s.n.]</publisher>
+                    <date>1918</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

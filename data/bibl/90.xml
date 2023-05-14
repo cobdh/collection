@@ -1,32 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/5NDHZYY2"
-    xml:id="Honigmann1935"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Die Ostgrenze des byzantinischen Reiches, von 363 bis 1071 nach griechischen,
-            arabischen, syrischen und armenischen Quellen
-        </title>
-        <author
-            xml:id="HonigmannErnest"
-            ref="https://cobdh.org/persons/HonigmannErnest"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/5NDHZYY2"
+            xml:id="Honigmann1935"
+            type="book"
         >
-            <forename>Ernest</forename>
-            <surname>Honigmann</surname>
-        </author>
-        <imprint>
-            <pubPlace>Bruxelles</pubPlace>
-            <publisher>
-                Institut de Philologie et d’Histoire Orientales
-            </publisher>
-            <date>1935</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Corpus Bruxellense historiae Byzantinae 3
-        </title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Die Ostgrenze des byzantinischen Reiches, von 363 bis 1071 nach griechischen,
+                    arabischen, syrischen und armenischen Quellen
+                </title>
+                <author
+                    xml:id="HonigmannErnest"
+                    ref="https://cobdh.org/persons/HonigmannErnest"
+                >
+                    <forename>Ernest</forename>
+                    <surname>Honigmann</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Bruxelles</pubPlace>
+                    <publisher>
+                        Institut de Philologie et d’Histoire Orientales
+                    </publisher>
+                    <date>1935</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Corpus Bruxellense historiae Byzantinae 3
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

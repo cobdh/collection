@@ -1,47 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/KHZFRY3D"
-    xml:id="Thomson2002"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Syrian Christianity and the Conversion of Armenia
-        </title>
-        <author
-            xml:id="ThomsonRobertW"
-            ref="https://cobdh.org/persons/ThomsonRobertW"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/KHZFRY3D"
+            xml:id="Thomson2002"
+            type="bookSection"
         >
-            <forename>Robert W.</forename>
-            <surname>Thomson</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Die Christianisierung des Kaukasus / The Christianization of Caucasus (Armenia,
-            Georgia, Albania). Referate des Internationalen Symposions (Wien, 9.-12.
-            Dezember 1999)
-        </title>
-        <editor
-            xml:id="SeibtWerner"
-            ref="https://cobdh.org/persons/SeibtWerner"
-        >
-            <forename>Werner</forename>
-            <surname>Seibt</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Wien</pubPlace>
-            <biblScope unit="page">159-169</biblScope>
-            <publisher>
-                Verlag der Österreichischen Akademie der Wissenschaften
-            </publisher>
-            <date>2002</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse,
-            Denkschriften 296 = Veröffentlichungen der Kommission für Byzantinistik 9
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Syrian Christianity and the Conversion of Armenia
+                </title>
+                <author
+                    xml:id="ThomsonRobertW"
+                    ref="https://cobdh.org/persons/ThomsonRobertW"
+                >
+                    <forename>Robert W.</forename>
+                    <surname>Thomson</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Die Christianisierung des Kaukasus / The Christianization of Caucasus (Armenia,
+                    Georgia, Albania). Referate des Internationalen Symposions (Wien, 9.-12.
+                    Dezember 1999)
+                </title>
+                <editor
+                    xml:id="SeibtWerner"
+                    ref="https://cobdh.org/persons/SeibtWerner"
+                >
+                    <forename>Werner</forename>
+                    <surname>Seibt</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Wien</pubPlace>
+                    <biblScope unit="page">159-169</biblScope>
+                    <publisher>
+                        Verlag der Österreichischen Akademie der Wissenschaften
+                    </publisher>
+                    <date>2002</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse,
+                    Denkschriften 296 = Veröffentlichungen der Kommission für Byzantinistik 9
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

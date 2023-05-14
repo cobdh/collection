@@ -1,51 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/DFJ8BWEN"
-    xml:id="Winkler1978"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            The History of the Syriac Prebaptismal Anointing in the Light of the Earliest
-            Armenian Sources
-        </title>
-        <author
-            xml:id="WinklerGabriele"
-            ref="https://cobdh.org/persons/WinklerGabriele"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/DFJ8BWEN"
+            xml:id="Winkler1978"
+            type="bookSection"
         >
-            <forename>Gabriele</forename>
-            <surname>Winkler</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Symposium Syriacum, 1976: célebré du 13 au 17 septembre 1976 au Centre Culturel
-            “Les Fontaines” de Chantilly (France)
-        </title>
-        <editor
-            xml:id="GraffinFrançois"
-            ref="https://cobdh.org/persons/GraffinFrançois"
-        >
-            <forename>François</forename>
-            <surname>Graffin</surname>
-        </editor>
-        <editor
-            xml:id="GuillaumontAntoine"
-            ref="https://cobdh.org/persons/GuillaumontAntoine"
-        >
-            <forename>Antoine</forename>
-            <surname>Guillaumont</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Roma</pubPlace>
-            <biblScope unit="page">317-324</biblScope>
-            <publisher>
-                Pontificium Institutum Orientalium Studiorum
-            </publisher>
-            <date>1978</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Orientalia Christiana Analecta 205</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    The History of the Syriac Prebaptismal Anointing in the Light of the Earliest
+                    Armenian Sources
+                </title>
+                <author
+                    xml:id="WinklerGabriele"
+                    ref="https://cobdh.org/persons/WinklerGabriele"
+                >
+                    <forename>Gabriele</forename>
+                    <surname>Winkler</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Symposium Syriacum, 1976: célebré du 13 au 17 septembre 1976 au Centre Culturel
+                    “Les Fontaines” de Chantilly (France)
+                </title>
+                <editor
+                    xml:id="GraffinFrançois"
+                    ref="https://cobdh.org/persons/GraffinFrançois"
+                >
+                    <forename>François</forename>
+                    <surname>Graffin</surname>
+                </editor>
+                <editor
+                    xml:id="GuillaumontAntoine"
+                    ref="https://cobdh.org/persons/GuillaumontAntoine"
+                >
+                    <forename>Antoine</forename>
+                    <surname>Guillaumont</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Roma</pubPlace>
+                    <biblScope unit="page">317-324</biblScope>
+                    <publisher>
+                        Pontificium Institutum Orientalium Studiorum
+                    </publisher>
+                    <date>1978</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Orientalia Christiana Analecta 205</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

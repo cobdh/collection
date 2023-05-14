@@ -1,30 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/BX7ABBFC"
-    xml:id="Kaufhold1997"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Die armenischen Übersetzungen byzantinischer Rechtsbücher. Erster Teil:
-            Allgemeines; Zweiter Teil: Die “Kurze Sammlung” (“Sententiae Syriacae”)
-        </title>
-        <author
-            xml:id="KaufholdHubert"
-            ref="https://cobdh.org/persons/KaufholdHubert"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/BX7ABBFC"
+            xml:id="Kaufhold1997"
+            type="book"
         >
-            <forename>Hubert</forename>
-            <surname>Kaufhold</surname>
-        </author>
-        <imprint>
-            <pubPlace>Frankfurt am Main</pubPlace>
-            <publisher>Löwenklau-Gesellschaft e. V.</publisher>
-            <date>1997</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Forschungen zur byzantinischen Rechtsgeschichte 21
-        </title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Die armenischen Übersetzungen byzantinischer Rechtsbücher. Erster Teil:
+                    Allgemeines; Zweiter Teil: Die “Kurze Sammlung” (“Sententiae Syriacae”)
+                </title>
+                <author
+                    xml:id="KaufholdHubert"
+                    ref="https://cobdh.org/persons/KaufholdHubert"
+                >
+                    <forename>Hubert</forename>
+                    <surname>Kaufhold</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Frankfurt am Main</pubPlace>
+                    <publisher>Löwenklau-Gesellschaft e. V.</publisher>
+                    <date>1997</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Forschungen zur byzantinischen Rechtsgeschichte 21
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

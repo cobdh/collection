@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/IT9TJMC6"
-    xml:id="Karadeniz1991"
-    type="thesis"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Die Vita Jakobs, des Bischofs von Nisibis, in armenischer Überlieferung
-        </title>
-        <author
-            xml:id="KaradenizNural"
-            ref="https://cobdh.org/persons/KaradenizNural"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/IT9TJMC6"
+            xml:id="Karadeniz1991"
+            type="thesis"
         >
-            <forename>Nural</forename>
-            <surname>Karadeniz</surname>
-        </author>
-        <imprint>
-            <date>1991</date>
-            <note type="thesisType">Magisterarbeit</note>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Die Vita Jakobs, des Bischofs von Nisibis, in armenischer Überlieferung
+                </title>
+                <author
+                    xml:id="KaradenizNural"
+                    ref="https://cobdh.org/persons/KaradenizNural"
+                >
+                    <forename>Nural</forename>
+                    <surname>Karadeniz</surname>
+                </author>
+                <imprint>
+                    <date>1991</date>
+                    <note type="thesisType">Magisterarbeit</note>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

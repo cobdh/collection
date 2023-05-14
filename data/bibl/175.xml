@@ -1,61 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/KJB5V427"
-    xml:id="Günzburg1891"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Les manuscrits arabes (non compris dans le № 1), Karchounis, Grecs, Coptes,
-            Éthopiens, Arméniens, Géorgiens et Bâbys de l’Institut des Langues Orientales
-        </title>
-        <author
-            xml:id="GuenzburgDavid"
-            ref="https://cobdh.org/persons/GuenzburgDavid"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/KJB5V427"
+            xml:id="Günzburg1891"
+            type="book"
         >
-            <forename>David</forename>
-            <surname>Günzburg</surname>
-        </author>
-        <author
-            xml:id="RosenViktor"
-            ref="https://cobdh.org/persons/RosenViktor"
-        >
-            <forename>Viktor</forename>
-            <surname>Rosen</surname>
-        </author>
-        <author
-            xml:id="DornBernhard"
-            ref="https://cobdh.org/persons/DornBernhard"
-        >
-            <forename>Bernhard</forename>
-            <surname>Dorn</surname>
-        </author>
-        <author
-            xml:id="PatkanofKerope"
-            ref="https://cobdh.org/persons/PatkanofKerope"
-        >
-            <forename>Kerope</forename>
-            <surname>Patkanof</surname>
-        </author>
-        <author
-            xml:id="TchoubinofJ"
-            ref="https://cobdh.org/persons/TchoubinofJ"
-        >
-            <forename>J.</forename>
-            <surname>Tchoubinof</surname>
-        </author>
-        <imprint>
-            <pubPlace>Saint-Pétersbourg</pubPlace>
-            <publisher>
-                Imprimerie de l’Academie Impériale des Sciences
-            </publisher>
-            <date>1891</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Collections scientifiques de l’Institut des Langues Orientales du Ministère des
-            Affaires Etrangères 6
-        </title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Les manuscrits arabes (non compris dans le № 1), Karchounis, Grecs, Coptes,
+                    Éthopiens, Arméniens, Géorgiens et Bâbys de l’Institut des Langues Orientales
+                </title>
+                <author
+                    xml:id="GuenzburgDavid"
+                    ref="https://cobdh.org/persons/GuenzburgDavid"
+                >
+                    <forename>David</forename>
+                    <surname>Günzburg</surname>
+                </author>
+                <author
+                    xml:id="RosenViktor"
+                    ref="https://cobdh.org/persons/RosenViktor"
+                >
+                    <forename>Viktor</forename>
+                    <surname>Rosen</surname>
+                </author>
+                <author
+                    xml:id="DornBernhard"
+                    ref="https://cobdh.org/persons/DornBernhard"
+                >
+                    <forename>Bernhard</forename>
+                    <surname>Dorn</surname>
+                </author>
+                <author
+                    xml:id="PatkanofKerope"
+                    ref="https://cobdh.org/persons/PatkanofKerope"
+                >
+                    <forename>Kerope</forename>
+                    <surname>Patkanof</surname>
+                </author>
+                <author
+                    xml:id="TchoubinofJ"
+                    ref="https://cobdh.org/persons/TchoubinofJ"
+                >
+                    <forename>J.</forename>
+                    <surname>Tchoubinof</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Saint-Pétersbourg</pubPlace>
+                    <publisher>
+                        Imprimerie de l’Academie Impériale des Sciences
+                    </publisher>
+                    <date>1891</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Collections scientifiques de l’Institut des Langues Orientales du Ministère des
+                    Affaires Etrangères 6
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

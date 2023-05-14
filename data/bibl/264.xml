@@ -1,38 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/JEQ49GYC"
-    xml:id="Panteleev2015"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            The Epistle of St Serapion of Thmuis to the Disciples of St Antonius the Great:
-            Translation from Syriac and Armenian
-        </title>
-        <author
-            xml:id="PanteleevSergey"
-            ref="https://cobdh.org/persons/PanteleevSergey"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/JEQ49GYC"
+            xml:id="Panteleev2015"
+            type="journalArticle"
         >
-            <forename>Sergey</forename>
-            <surname>Panteleev</surname>
-        </author>
-        <author
-            xml:id="KalininMaksimG"
-            ref="https://cobdh.org/persons/KalininMaksimG"
-        >
-            <forename>Maksim G.</forename>
-            <surname>Kalinin</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Вестник Православного Свято-Тихоновского гуманитарного университета. Серия III:
-            Филология
-        </title>
-        <imprint>
-            <biblScope unit="volume">5 [45]</biblScope>
-            <biblScope unit="page">127-134</biblScope>
-            <date>2015</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    The Epistle of St Serapion of Thmuis to the Disciples of St Antonius the Great:
+                    Translation from Syriac and Armenian
+                </title>
+                <author
+                    xml:id="PanteleevSergey"
+                    ref="https://cobdh.org/persons/PanteleevSergey"
+                >
+                    <forename>Sergey</forename>
+                    <surname>Panteleev</surname>
+                </author>
+                <author
+                    xml:id="KalininMaksimG"
+                    ref="https://cobdh.org/persons/KalininMaksimG"
+                >
+                    <forename>Maksim G.</forename>
+                    <surname>Kalinin</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Вестник Православного Свято-Тихоновского гуманитарного университета. Серия III:
+                    Филология
+                </title>
+                <imprint>
+                    <biblScope unit="volume">5 [45]</biblScope>
+                    <biblScope unit="page">127-134</biblScope>
+                    <date>2015</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

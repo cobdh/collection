@@ -1,37 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2KBQSI8X"
-    xml:id="Dowsett1971"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            A Twelfth-Century Armenian Inscription at Edessa
-        </title>
-        <author
-            xml:id="DowsettCharlesJamesFrank"
-            ref="https://cobdh.org/persons/DowsettCharlesJamesFrank"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2KBQSI8X"
+            xml:id="Dowsett1971"
+            type="bookSection"
         >
-            <forename>Charles James Frank</forename>
-            <surname>Dowsett</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Iran and Islam: In Memory of the Late Vladimir Minorsky
-        </title>
-        <editor
-            xml:id="BosworthCliffordEdmund"
-            ref="https://cobdh.org/persons/BosworthCliffordEdmund"
-        >
-            <forename>Clifford Edmund</forename>
-            <surname>Bosworth</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Edinburgh</pubPlace>
-            <biblScope unit="page">197-227</biblScope>
-            <publisher>Edinburgh University Press</publisher>
-            <date>1971</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    A Twelfth-Century Armenian Inscription at Edessa
+                </title>
+                <author
+                    xml:id="DowsettCharlesJamesFrank"
+                    ref="https://cobdh.org/persons/DowsettCharlesJamesFrank"
+                >
+                    <forename>Charles James Frank</forename>
+                    <surname>Dowsett</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Iran and Islam: In Memory of the Late Vladimir Minorsky
+                </title>
+                <editor
+                    xml:id="BosworthCliffordEdmund"
+                    ref="https://cobdh.org/persons/BosworthCliffordEdmund"
+                >
+                    <forename>Clifford Edmund</forename>
+                    <surname>Bosworth</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Edinburgh</pubPlace>
+                    <biblScope unit="page">197-227</biblScope>
+                    <publisher>Edinburgh University Press</publisher>
+                    <date>1971</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

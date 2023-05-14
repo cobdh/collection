@@ -1,34 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/LT74L8UB"
-    xml:id="Borbone2010"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            The Church at the Court of Arghun in Syriac and Armenian Sources
-        </title>
-        <author
-            xml:id="BorbonePierGiorgio"
-            ref="https://cobdh.org/persons/BorbonePierGiorgio"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/LT74L8UB"
+            xml:id="Borbone2010"
+            type="journalArticle"
         >
-            <forename>Pier Giorgio</forename>
-            <surname>Borbone</surname>
-        </author>
-        <author
-            xml:id="OrengoAlessandro"
-            ref="https://cobdh.org/persons/OrengoAlessandro"
-        >
-            <forename>Alessandro</forename>
-            <surname>Orengo</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Bazmavep</title>
-        <imprint>
-            <biblScope unit="volume">168:3-4</biblScope>
-            <biblScope unit="page">551-580</biblScope>
-            <date>2010</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    The Church at the Court of Arghun in Syriac and Armenian Sources
+                </title>
+                <author
+                    xml:id="BorbonePierGiorgio"
+                    ref="https://cobdh.org/persons/BorbonePierGiorgio"
+                >
+                    <forename>Pier Giorgio</forename>
+                    <surname>Borbone</surname>
+                </author>
+                <author
+                    xml:id="OrengoAlessandro"
+                    ref="https://cobdh.org/persons/OrengoAlessandro"
+                >
+                    <forename>Alessandro</forename>
+                    <surname>Orengo</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Bazmavep</title>
+                <imprint>
+                    <biblScope unit="volume">168:3-4</biblScope>
+                    <biblScope unit="page">551-580</biblScope>
+                    <date>2010</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

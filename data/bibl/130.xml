@@ -1,34 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/BWEEJXJ6"
-    xml:id="Tsuji1964"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Illustrations des Tables des Canons dans les Evangiles syriaques, arméniens,
-            éthiopien et grecs du VI
-            <hi rend="sup">e</hi>
-            au X
-            <hi rend="sup">e</hi>
-            siècle
-        </title>
-        <author
-            xml:id="TsujiSahoko"
-            ref="https://cobdh.org/persons/TsujiSahoko"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/BWEEJXJ6"
+            xml:id="Tsuji1964"
+            type="journalArticle"
         >
-            <forename>Sahoko</forename>
-            <surname>Tsuji</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Bulletin of the Society for Near Eastern Studies in Japan
-        </title>
-        <imprint>
-            <biblScope unit="volume">7:1</biblScope>
-            <biblScope unit="page">19-50</biblScope>
-            <date>1964</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Illustrations des Tables des Canons dans les Evangiles syriaques, arméniens,
+                    éthiopien et grecs du VI
+                    <hi rend="sup">e</hi>
+                    au X
+                    <hi rend="sup">e</hi>
+                    siècle
+                </title>
+                <author
+                    xml:id="TsujiSahoko"
+                    ref="https://cobdh.org/persons/TsujiSahoko"
+                >
+                    <forename>Sahoko</forename>
+                    <surname>Tsuji</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Bulletin of the Society for Near Eastern Studies in Japan
+                </title>
+                <imprint>
+                    <biblScope unit="volume">7:1</biblScope>
+                    <biblScope unit="page">19-50</biblScope>
+                    <date>1964</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

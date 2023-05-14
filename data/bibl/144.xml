@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/CEQVF57H"
-    xml:id="Garsoïan1999"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            L’Église arménienne et le grand schisme d’Orient
-        </title>
-        <author
-            xml:id="GarsoïanNinaG"
-            ref="https://cobdh.org/persons/GarsoïanNinaG"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/CEQVF57H"
+            xml:id="Garsoïan1999"
+            type="book"
         >
-            <forename>Nina G.</forename>
-            <surname>Garsoïan</surname>
-        </author>
-        <imprint>
-            <pubPlace>Leuven</pubPlace>
-            <publisher>Peeters</publisher>
-            <date>1999</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">CSCO 574, Subs. 100</title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    L’Église arménienne et le grand schisme d’Orient
+                </title>
+                <author
+                    xml:id="GarsoïanNinaG"
+                    ref="https://cobdh.org/persons/GarsoïanNinaG"
+                >
+                    <forename>Nina G.</forename>
+                    <surname>Garsoïan</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Leuven</pubPlace>
+                    <publisher>Peeters</publisher>
+                    <date>1999</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">CSCO 574, Subs. 100</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

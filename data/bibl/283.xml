@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2ZEL3QMC"
-    xml:id="Edris2016"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            The Story of Ahikar from the Aramaic, Syriac, Arabic, Ethiopic, Hebrew, Greek,
-            and Old Armenian. Vol. 1: Aramaic, Syriac and Arabic Texts
-        </title>
-        <author
-            xml:id="EdrisSalahMahgoub"
-            ref="https://cobdh.org/persons/EdrisSalahMahgoub"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2ZEL3QMC"
+            xml:id="Edris2016"
+            type="book"
         >
-            <forename>Salah Mahgoub</forename>
-            <surname>Edris</surname>
-        </author>
-        <imprint>
-            <pubPlace>Cairo</pubPlace>
-            <publisher>
-                Center of Armenian Studies at the Cairo University
-            </publisher>
-            <date>2016</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    The Story of Ahikar from the Aramaic, Syriac, Arabic, Ethiopic, Hebrew, Greek,
+                    and Old Armenian. Vol. 1: Aramaic, Syriac and Arabic Texts
+                </title>
+                <author
+                    xml:id="EdrisSalahMahgoub"
+                    ref="https://cobdh.org/persons/EdrisSalahMahgoub"
+                >
+                    <forename>Salah Mahgoub</forename>
+                    <surname>Edris</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Cairo</pubPlace>
+                    <publisher>
+                        Center of Armenian Studies at the Cairo University
+                    </publisher>
+                    <date>2016</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

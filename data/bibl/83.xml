@@ -1,43 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/697FJJVR"
-    xml:id="Winkler1989"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Die Fälschung armenischer Quellen zur Kirchengeschichte des 5. Jhs.
-        </title>
-        <author
-            xml:id="WinklerGabriele"
-            ref="https://cobdh.org/persons/WinklerGabriele"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/697FJJVR"
+            xml:id="Winkler1989"
+            type="bookSection"
         >
-            <forename>Gabriele</forename>
-            <surname>Winkler</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            XXIII. Deutscher Orientalistentag vom 16. bis 20. September 1985 in Würzburg:
-            Ausgewählte Vorträge
-        </title>
-        <editor
-            xml:id="vonSchulerEinar"
-            ref="https://cobdh.org/persons/vonSchulerEinar"
-        >
-            <forename>Einar</forename>
-            <surname>von Schuler</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Stuttgart</pubPlace>
-            <biblScope unit="page">76-94</biblScope>
-            <publisher>Franz Steiner</publisher>
-            <date>1989</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Zeitschrift der Deutschen Morgenländischen Gesellschaft, Supplement 7
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Die Fälschung armenischer Quellen zur Kirchengeschichte des 5. Jhs.
+                </title>
+                <author
+                    xml:id="WinklerGabriele"
+                    ref="https://cobdh.org/persons/WinklerGabriele"
+                >
+                    <forename>Gabriele</forename>
+                    <surname>Winkler</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    XXIII. Deutscher Orientalistentag vom 16. bis 20. September 1985 in Würzburg:
+                    Ausgewählte Vorträge
+                </title>
+                <editor
+                    xml:id="vonSchulerEinar"
+                    ref="https://cobdh.org/persons/vonSchulerEinar"
+                >
+                    <forename>Einar</forename>
+                    <surname>von Schuler</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Stuttgart</pubPlace>
+                    <biblScope unit="page">76-94</biblScope>
+                    <publisher>Franz Steiner</publisher>
+                    <date>1989</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Zeitschrift der Deutschen Morgenländischen Gesellschaft, Supplement 7
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/44CIVPI5"
-    xml:id="Ter-Petrossian1982"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">Ananun Edesac‘i. Žamanakagrut‘yun</title>
-        <author
-            xml:id="TerPetrossianLevon"
-            ref="https://cobdh.org/persons/TerPetrossianLevon"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/44CIVPI5"
+            xml:id="Ter-Petrossian1982"
+            type="book"
         >
-            <forename>Levon</forename>
-            <surname>Ter-Petrossian</surname>
-        </author>
-        <imprint>
-            <pubPlace>Erevan</pubPlace>
-            <publisher>Matenadaran</publisher>
-            <date>1982</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">Ananun Edesac‘i. Žamanakagrut‘yun</title>
+                <author
+                    xml:id="TerPetrossianLevon"
+                    ref="https://cobdh.org/persons/TerPetrossianLevon"
+                >
+                    <forename>Levon</forename>
+                    <surname>Ter-Petrossian</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Erevan</pubPlace>
+                    <publisher>Matenadaran</publisher>
+                    <date>1982</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

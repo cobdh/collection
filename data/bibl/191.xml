@@ -1,64 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/XWMHFGUS"
-    xml:id="Heal2018"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            New Sources for the Armenian Commentary on Genesis Attributed to Ephrem
-        </title>
-        <author
-            xml:id="HealKristianS"
-            ref="https://cobdh.org/persons/HealKristianS"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/XWMHFGUS"
+            xml:id="Heal2018"
+            type="bookSection"
         >
-            <forename>Kristian S.</forename>
-            <surname>Heal</surname>
-        </author>
-        <author
-            xml:id="ManisJohnR"
-            ref="https://cobdh.org/persons/ManisJohnR"
-        >
-            <forename>John R.</forename>
-            <surname>Manis</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in
-            Honour of Michael E. Stone
-        </title>
-        <editor
-            xml:id="DiTommasoLorenzo"
-            ref="https://cobdh.org/persons/DiTommasoLorenzo"
-        >
-            <forename>Lorenzo</forename>
-            <surname>DiTommaso</surname>
-        </editor>
-        <editor
-            xml:id="HenzeMatthias"
-            ref="https://cobdh.org/persons/HenzeMatthias"
-        >
-            <forename>Matthias</forename>
-            <surname>Henze</surname>
-        </editor>
-        <editor
-            xml:id="AdlerWilliam"
-            ref="https://cobdh.org/persons/AdlerWilliam"
-        >
-            <forename>William</forename>
-            <surname>Adler</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Leiden</pubPlace>
-            <biblScope unit="page">522-532</biblScope>
-            <publisher>Brill</publisher>
-            <date>2018</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Studia in Veteris Testamenti Pseudepigrapha 26
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    New Sources for the Armenian Commentary on Genesis Attributed to Ephrem
+                </title>
+                <author
+                    xml:id="HealKristianS"
+                    ref="https://cobdh.org/persons/HealKristianS"
+                >
+                    <forename>Kristian S.</forename>
+                    <surname>Heal</surname>
+                </author>
+                <author
+                    xml:id="ManisJohnR"
+                    ref="https://cobdh.org/persons/ManisJohnR"
+                >
+                    <forename>John R.</forename>
+                    <surname>Manis</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in
+                    Honour of Michael E. Stone
+                </title>
+                <editor
+                    xml:id="DiTommasoLorenzo"
+                    ref="https://cobdh.org/persons/DiTommasoLorenzo"
+                >
+                    <forename>Lorenzo</forename>
+                    <surname>DiTommaso</surname>
+                </editor>
+                <editor
+                    xml:id="HenzeMatthias"
+                    ref="https://cobdh.org/persons/HenzeMatthias"
+                >
+                    <forename>Matthias</forename>
+                    <surname>Henze</surname>
+                </editor>
+                <editor
+                    xml:id="AdlerWilliam"
+                    ref="https://cobdh.org/persons/AdlerWilliam"
+                >
+                    <forename>William</forename>
+                    <surname>Adler</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Leiden</pubPlace>
+                    <biblScope unit="page">522-532</biblScope>
+                    <publisher>Brill</publisher>
+                    <date>2018</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Studia in Veteris Testamenti Pseudepigrapha 26
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

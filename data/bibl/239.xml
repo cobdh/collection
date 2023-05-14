@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/BJ5YR684"
-    xml:id="Conybeare1894"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            The Armenian Apology and Acts of Apollonius and Other Monuments of Early
-            Christianity
-        </title>
-        <author
-            xml:id="ConybeareFrederickCornwallis"
-            ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/BJ5YR684"
+            xml:id="Conybeare1894"
+            type="book"
         >
-            <forename>Frederick Cornwallis</forename>
-            <surname>Conybeare</surname>
-        </author>
-        <imprint>
-            <pubPlace>London</pubPlace>
-            <publisher>Swan Sonnenschein & Co.</publisher>
-            <date>1894</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    The Armenian Apology and Acts of Apollonius and Other Monuments of Early
+                    Christianity
+                </title>
+                <author
+                    xml:id="ConybeareFrederickCornwallis"
+                    ref="https://cobdh.org/persons/ConybeareFrederickCornwallis"
+                >
+                    <forename>Frederick Cornwallis</forename>
+                    <surname>Conybeare</surname>
+                </author>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <publisher>Swan Sonnenschein & Co.</publisher>
+                    <date>1894</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

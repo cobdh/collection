@@ -1,32 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/5YTVNMJH"
-    xml:id="Merx1880"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            De Eusebianæ historiæ ecclesiasticæ versionibus, Syriaca et Armeniaca
-        </title>
-        <author
-            xml:id="MerxAdalbert"
-            ref="https://cobdh.org/persons/MerxAdalbert"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/5YTVNMJH"
+            xml:id="Merx1880"
+            type="bookSection"
         >
-            <forename>Adalbert</forename>
-            <surname>Merx</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Atti del IV Congresso Internazionale degli Orientalisti tenuto in Firenze nel
-            settembre 1878
-        </title>
-        <imprint>
-            <pubPlace>Firenze</pubPlace>
-            <biblScope unit="volume">1</biblScope>
-            <biblScope unit="page">199-214</biblScope>
-            <publisher>Coi tipi dei successori le Monnier</publisher>
-            <date>1880</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    De Eusebianæ historiæ ecclesiasticæ versionibus, Syriaca et Armeniaca
+                </title>
+                <author
+                    xml:id="MerxAdalbert"
+                    ref="https://cobdh.org/persons/MerxAdalbert"
+                >
+                    <forename>Adalbert</forename>
+                    <surname>Merx</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Atti del IV Congresso Internazionale degli Orientalisti tenuto in Firenze nel
+                    settembre 1878
+                </title>
+                <imprint>
+                    <pubPlace>Firenze</pubPlace>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="page">199-214</biblScope>
+                    <publisher>Coi tipi dei successori le Monnier</publisher>
+                    <date>1880</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

@@ -1,31 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/6M4Y4FDR"
-    xml:id="Mathews1996"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Armenian Hymn IX,
-            <hi rend="italics">On Marriage</hi>
-            , by Saint Ephrem the Syrian
-        </title>
-        <author
-            xml:id="MathewsEdwardGeorge"
-            ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/6M4Y4FDR"
+            xml:id="Mathews1996"
+            type="journalArticle"
         >
-            <forename>Edward George</forename>
-            <surname>Mathews</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">
-            Journal of the Society for Armenian Studies
-        </title>
-        <imprint>
-            <biblScope unit="volume">9</biblScope>
-            <biblScope unit="page">55-63</biblScope>
-            <date>1996</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Armenian Hymn IX,
+                    <hi rend="italics">On Marriage</hi>
+                    , by Saint Ephrem the Syrian
+                </title>
+                <author
+                    xml:id="MathewsEdwardGeorge"
+                    ref="https://cobdh.org/persons/MathewsEdwardGeorge"
+                >
+                    <forename>Edward George</forename>
+                    <surname>Mathews</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">
+                    Journal of the Society for Armenian Studies
+                </title>
+                <imprint>
+                    <biblScope unit="volume">9</biblScope>
+                    <biblScope unit="page">55-63</biblScope>
+                    <date>1996</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

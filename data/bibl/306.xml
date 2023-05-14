@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2PY6D9KG"
-    xml:id="Peeters1909"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Une passion arménienne des SS. Abdas, Hormisdas, Sahin (Suenes) et Benjamin
-        </title>
-        <author
-            xml:id="PeetersPaul"
-            ref="https://cobdh.org/persons/PeetersPaul"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2PY6D9KG"
+            xml:id="Peeters1909"
+            type="journalArticle"
         >
-            <forename>Paul</forename>
-            <surname>Peeters</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Analecta Bollandiana</title>
-        <imprint>
-            <biblScope unit="volume">28</biblScope>
-            <biblScope unit="page">399-415</biblScope>
-            <date>1909</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Une passion arménienne des SS. Abdas, Hormisdas, Sahin (Suenes) et Benjamin
+                </title>
+                <author
+                    xml:id="PeetersPaul"
+                    ref="https://cobdh.org/persons/PeetersPaul"
+                >
+                    <forename>Paul</forename>
+                    <surname>Peeters</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Analecta Bollandiana</title>
+                <imprint>
+                    <biblScope unit="volume">28</biblScope>
+                    <biblScope unit="page">399-415</biblScope>
+                    <date>1909</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

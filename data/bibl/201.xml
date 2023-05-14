@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/SV2WJS5L"
-    xml:id="Lehmann1975"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Per Piscatores: Studies in the Armenian Version of a Collection of Homilies by
-            Eusebius of Emesa and Severian of Gabala
-        </title>
-        <author
-            xml:id="LehmannHenningJ"
-            ref="https://cobdh.org/persons/LehmannHenningJ"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/SV2WJS5L"
+            xml:id="Lehmann1975"
+            type="book"
         >
-            <forename>Henning J.</forename>
-            <surname>Lehmann</surname>
-        </author>
-        <imprint>
-            <pubPlace>Aarhus</pubPlace>
-            <publisher>Aarhus Universitetsforlag</publisher>
-            <date>1975</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Per Piscatores: Studies in the Armenian Version of a Collection of Homilies by
+                    Eusebius of Emesa and Severian of Gabala
+                </title>
+                <author
+                    xml:id="LehmannHenningJ"
+                    ref="https://cobdh.org/persons/LehmannHenningJ"
+                >
+                    <forename>Henning J.</forename>
+                    <surname>Lehmann</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Aarhus</pubPlace>
+                    <publisher>Aarhus Universitetsforlag</publisher>
+                    <date>1975</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

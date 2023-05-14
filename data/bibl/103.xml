@@ -1,47 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/3K2XRY2K"
-    xml:id="Cowe2017"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Doctrinal Union or Agreement to Disagree? Armenians and Syrians at the Synod of
-            Manazkert (726 CE)
-        </title>
-        <author
-            xml:id="CoweSPeter"
-            ref="https://cobdh.org/persons/CoweSPeter"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/3K2XRY2K"
+            xml:id="Cowe2017"
+            type="bookSection"
         >
-            <forename>S. Peter</forename>
-            <surname>Cowe</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Bridging Times and Spaces: Papers in Ancient Near Eastern, Mediterranean and
-            Armenian Studies Honouring Gregory E. Areshian on the Occasion of His Sixty-
-            Fifth Birthday
-        </title>
-        <editor
-            xml:id="AvetisyanPavelS"
-            ref="https://cobdh.org/persons/AvetisyanPavelS"
-        >
-            <forename>Pavel S.</forename>
-            <surname>Avetisyan</surname>
-        </editor>
-        <editor
-            xml:id="GrekyanYervandH"
-            ref="https://cobdh.org/persons/GrekyanYervandH"
-        >
-            <forename>Yervand H.</forename>
-            <surname>Grekyan</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Oxford</pubPlace>
-            <biblScope unit="page">61-84</biblScope>
-            <publisher>Archaeopress</publisher>
-            <date>2017</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Doctrinal Union or Agreement to Disagree? Armenians and Syrians at the Synod of
+                    Manazkert (726 CE)
+                </title>
+                <author
+                    xml:id="CoweSPeter"
+                    ref="https://cobdh.org/persons/CoweSPeter"
+                >
+                    <forename>S. Peter</forename>
+                    <surname>Cowe</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Bridging Times and Spaces: Papers in Ancient Near Eastern, Mediterranean and
+                    Armenian Studies Honouring Gregory E. Areshian on the Occasion of His Sixty-
+                    Fifth Birthday
+                </title>
+                <editor
+                    xml:id="AvetisyanPavelS"
+                    ref="https://cobdh.org/persons/AvetisyanPavelS"
+                >
+                    <forename>Pavel S.</forename>
+                    <surname>Avetisyan</surname>
+                </editor>
+                <editor
+                    xml:id="GrekyanYervandH"
+                    ref="https://cobdh.org/persons/GrekyanYervandH"
+                >
+                    <forename>Yervand H.</forename>
+                    <surname>Grekyan</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Oxford</pubPlace>
+                    <biblScope unit="page">61-84</biblScope>
+                    <publisher>Archaeopress</publisher>
+                    <date>2017</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

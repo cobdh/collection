@@ -1,28 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/WRD8RZFR"
-    xml:id="Mariès1920"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Un commentaire sur l’Évangile de saint Jean, rédige en arabe (circa 840) par
-            Nonnos (Nana) de Nisibe, conservé dans une traduction arménienne (circa 856)
-        </title>
-        <author
-            xml:id="MarièsLouis"
-            ref="https://cobdh.org/persons/MarièsLouis"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/WRD8RZFR"
+            xml:id="Mariès1920"
+            type="journalArticle"
         >
-            <forename>Louis</forename>
-            <surname>Mariès</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Revue des études armeniennes</title>
-        <imprint>
-            <biblScope unit="volume">1</biblScope>
-            <biblScope unit="page">273-296</biblScope>
-            <date>1920</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Un commentaire sur l’Évangile de saint Jean, rédige en arabe (circa 840) par
+                    Nonnos (Nana) de Nisibe, conservé dans une traduction arménienne (circa 856)
+                </title>
+                <author
+                    xml:id="MarièsLouis"
+                    ref="https://cobdh.org/persons/MarièsLouis"
+                >
+                    <forename>Louis</forename>
+                    <surname>Mariès</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Revue des études armeniennes</title>
+                <imprint>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="page">273-296</biblScope>
+                    <date>1920</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

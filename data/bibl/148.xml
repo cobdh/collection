@@ -1,50 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/RGHFL8GE"
-    xml:id="Bais2015"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            La corona di Costantino nella tradizione armena
-        </title>
-        <author
-            xml:id="BaisMarco"
-            ref="https://cobdh.org/persons/BaisMarco"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/RGHFL8GE"
+            xml:id="Bais2015"
+            type="bookSection"
         >
-            <forename>Marco</forename>
-            <surname>Bais</surname>
-        </author>
-        <author
-            xml:id="VerganiEmidio"
-            ref="https://cobdh.org/persons/VerganiEmidio"
-        >
-            <forename>Emidio</forename>
-            <surname>Vergani</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Aethiopia fortitudo ejus: Studi in onore di monsignor Osvaldo Raineri in
-            occasione del suo 80
-            <hi rend="sup">o</hi>
-            compleanno
-        </title>
-        <editor
-            xml:id="ZarzecznyRafal"
-            ref="https://cobdh.org/persons/ZarzecznyRafal"
-        >
-            <forename>Rafal</forename>
-            <surname>Zarzeczny</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Roma</pubPlace>
-            <biblScope unit="page">59-92</biblScope>
-            <publisher>Pontificio Istituto Orientale</publisher>
-            <date>2015</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Orientalia Christiana Analecta 298</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    La corona di Costantino nella tradizione armena
+                </title>
+                <author
+                    xml:id="BaisMarco"
+                    ref="https://cobdh.org/persons/BaisMarco"
+                >
+                    <forename>Marco</forename>
+                    <surname>Bais</surname>
+                </author>
+                <author
+                    xml:id="VerganiEmidio"
+                    ref="https://cobdh.org/persons/VerganiEmidio"
+                >
+                    <forename>Emidio</forename>
+                    <surname>Vergani</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Aethiopia fortitudo ejus: Studi in onore di monsignor Osvaldo Raineri in
+                    occasione del suo 80
+                    <hi rend="sup">o</hi>
+                    compleanno
+                </title>
+                <editor
+                    xml:id="ZarzecznyRafal"
+                    ref="https://cobdh.org/persons/ZarzecznyRafal"
+                >
+                    <forename>Rafal</forename>
+                    <surname>Zarzeczny</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Roma</pubPlace>
+                    <biblScope unit="page">59-92</biblScope>
+                    <publisher>Pontificio Istituto Orientale</publisher>
+                    <date>2015</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Orientalia Christiana Analecta 298</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

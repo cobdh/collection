@@ -1,45 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/84KSF3G4"
-    xml:id="Outtier2008"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            L’Ancien Testament a-t-il été traduit en arménien et en géorgien du syriaque?
-        </title>
-        <author
-            xml:id="OuttierBernard"
-            ref="https://cobdh.org/persons/OuttierBernard"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/84KSF3G4"
+            xml:id="Outtier2008"
+            type="bookSection"
         >
-            <forename>Bernard</forename>
-            <surname>Outtier</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">L’Ancien Testament en syriaque</title>
-        <editor
-            xml:id="BriquelChatonnetFrançoise"
-            ref="https://cobdh.org/persons/BriquelChatonnetFrançoise"
-        >
-            <forename>Françoise</forename>
-            <surname>Briquel-Chatonnet</surname>
-        </editor>
-        <editor
-            xml:id="LeMoignePhilippe"
-            ref="https://cobdh.org/persons/LeMoignePhilippe"
-        >
-            <forename>Philippe</forename>
-            <surname>Le Moigne</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Paris</pubPlace>
-            <biblScope unit="page">215-220</biblScope>
-            <publisher>Geuthner</publisher>
-            <date>2008</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Études syriaques 5</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    L’Ancien Testament a-t-il été traduit en arménien et en géorgien du syriaque?
+                </title>
+                <author
+                    xml:id="OuttierBernard"
+                    ref="https://cobdh.org/persons/OuttierBernard"
+                >
+                    <forename>Bernard</forename>
+                    <surname>Outtier</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">L’Ancien Testament en syriaque</title>
+                <editor
+                    xml:id="BriquelChatonnetFrançoise"
+                    ref="https://cobdh.org/persons/BriquelChatonnetFrançoise"
+                >
+                    <forename>Françoise</forename>
+                    <surname>Briquel-Chatonnet</surname>
+                </editor>
+                <editor
+                    xml:id="LeMoignePhilippe"
+                    ref="https://cobdh.org/persons/LeMoignePhilippe"
+                >
+                    <forename>Philippe</forename>
+                    <surname>Le Moigne</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <biblScope unit="page">215-220</biblScope>
+                    <publisher>Geuthner</publisher>
+                    <date>2008</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Études syriaques 5</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

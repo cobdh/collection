@@ -1,48 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/H27BKBHZ"
-    xml:id="Weitenberg1997"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Eusebius of Emesa and Armenian Translation
-        </title>
-        <author
-            xml:id="WeitenbergJosephJohannesSicco"
-            ref="https://cobdh.org/persons/WeitenbergJosephJohannesSicco"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/H27BKBHZ"
+            xml:id="Weitenberg1997"
+            type="bookSection"
         >
-            <forename>Joseph Johannes Sicco</forename>
-            <surname>Weitenberg</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            The Book of Genesis in Jewish and Oriental Christian Interpretation: A
-            Collection of Essays
-        </title>
-        <editor
-            xml:id="FrishmanJudith"
-            ref="https://cobdh.org/persons/FrishmanJudith"
-        >
-            <forename>Judith</forename>
-            <surname>Frishman</surname>
-        </editor>
-        <editor
-            xml:id="vanRompayLucas"
-            ref="https://cobdh.org/persons/vanRompayLucas"
-        >
-            <forename>Lucas</forename>
-            <surname>van Rompay</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Louvain</pubPlace>
-            <biblScope unit="page">163-170</biblScope>
-            <publisher>Peeters</publisher>
-            <date>1997</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">Traditio Exegetica Graeca 5</title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Eusebius of Emesa and Armenian Translation
+                </title>
+                <author
+                    xml:id="WeitenbergJosephJohannesSicco"
+                    ref="https://cobdh.org/persons/WeitenbergJosephJohannesSicco"
+                >
+                    <forename>Joseph Johannes Sicco</forename>
+                    <surname>Weitenberg</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    The Book of Genesis in Jewish and Oriental Christian Interpretation: A
+                    Collection of Essays
+                </title>
+                <editor
+                    xml:id="FrishmanJudith"
+                    ref="https://cobdh.org/persons/FrishmanJudith"
+                >
+                    <forename>Judith</forename>
+                    <surname>Frishman</surname>
+                </editor>
+                <editor
+                    xml:id="vanRompayLucas"
+                    ref="https://cobdh.org/persons/vanRompayLucas"
+                >
+                    <forename>Lucas</forename>
+                    <surname>van Rompay</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Louvain</pubPlace>
+                    <biblScope unit="page">163-170</biblScope>
+                    <publisher>Peeters</publisher>
+                    <date>1997</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">Traditio Exegetica Graeca 5</title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

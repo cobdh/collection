@@ -1,58 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/8495RR66"
-    xml:id="Outtier1999"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Une forme enrichie de la Légende d’Abgar en arménien
-        </title>
-        <author
-            xml:id="OuttierBernard"
-            ref="https://cobdh.org/persons/OuttierBernard"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/8495RR66"
+            xml:id="Outtier1999"
+            type="bookSection"
         >
-            <forename>Bernard</forename>
-            <surname>Outtier</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Apocryphes arméniens: transmission – traduction – création – iconographie. Actes
-            du colloque international sur la littérature apocryphe en langue arménienne
-            (Genève, 18-20 septembre 1997)
-        </title>
-        <editor
-            xml:id="CalzolariBouvierValentina"
-            ref="https://cobdh.org/persons/CalzolariBouvierValentina"
-        >
-            <forename>Valentina</forename>
-            <surname>Calzolari Bouvier</surname>
-        </editor>
-        <editor
-            xml:id="KaestliJeanDaniel"
-            ref="https://cobdh.org/persons/KaestliJeanDaniel"
-        >
-            <forename>Jean-Daniel</forename>
-            <surname>Kaestli</surname>
-        </editor>
-        <editor
-            xml:id="OuttierBernard"
-            ref="https://cobdh.org/persons/OuttierBernard"
-        >
-            <forename>Bernard</forename>
-            <surname>Outtier</surname>
-        </editor>
-        <imprint>
-            <pubPlace>Lausanne</pubPlace>
-            <biblScope unit="page">129-145</biblScope>
-            <publisher>Zèbre</publisher>
-            <date>1999</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Publications de l’Institut romand des sciences bibliques 1
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Une forme enrichie de la Légende d’Abgar en arménien
+                </title>
+                <author
+                    xml:id="OuttierBernard"
+                    ref="https://cobdh.org/persons/OuttierBernard"
+                >
+                    <forename>Bernard</forename>
+                    <surname>Outtier</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Apocryphes arméniens: transmission – traduction – création – iconographie. Actes
+                    du colloque international sur la littérature apocryphe en langue arménienne
+                    (Genève, 18-20 septembre 1997)
+                </title>
+                <editor
+                    xml:id="CalzolariBouvierValentina"
+                    ref="https://cobdh.org/persons/CalzolariBouvierValentina"
+                >
+                    <forename>Valentina</forename>
+                    <surname>Calzolari Bouvier</surname>
+                </editor>
+                <editor
+                    xml:id="KaestliJeanDaniel"
+                    ref="https://cobdh.org/persons/KaestliJeanDaniel"
+                >
+                    <forename>Jean-Daniel</forename>
+                    <surname>Kaestli</surname>
+                </editor>
+                <editor
+                    xml:id="OuttierBernard"
+                    ref="https://cobdh.org/persons/OuttierBernard"
+                >
+                    <forename>Bernard</forename>
+                    <surname>Outtier</surname>
+                </editor>
+                <imprint>
+                    <pubPlace>Lausanne</pubPlace>
+                    <biblScope unit="page">129-145</biblScope>
+                    <publisher>Zèbre</publisher>
+                    <date>1999</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Publications de l’Institut romand des sciences bibliques 1
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

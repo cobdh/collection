@@ -1,36 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/IIIWHYNP"
-    xml:id="Macler1907"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Notice syriaque d’un manuscrit arménien (1584)
-        </title>
-        <author
-            xml:id="MaclerFrédéric"
-            ref="https://cobdh.org/persons/MaclerFrédéric"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/IIIWHYNP"
+            xml:id="Macler1907"
+            type="bookSection"
         >
-            <forename>Frédéric</forename>
-            <surname>Macler</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">
-            Mosaïque orientale: I. Epigraphica, II. Historica
-        </title>
-        <editor
-            xml:id="Idem"
-            ref="https://cobdh.org/persons/Idem"
-        >
-            <name>Idem</name>
-        </editor>
-        <imprint>
-            <pubPlace>Paris</pubPlace>
-            <biblScope unit="page">33-38</biblScope>
-            <publisher>Paul Geuthner</publisher>
-            <date>1907</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Notice syriaque d’un manuscrit arménien (1584)
+                </title>
+                <author
+                    xml:id="MaclerFrédéric"
+                    ref="https://cobdh.org/persons/MaclerFrédéric"
+                >
+                    <forename>Frédéric</forename>
+                    <surname>Macler</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">
+                    Mosaïque orientale: I. Epigraphica, II. Historica
+                </title>
+                <editor
+                    xml:id="Idem"
+                    ref="https://cobdh.org/persons/Idem"
+                >
+                    <name>Idem</name>
+                </editor>
+                <imprint>
+                    <pubPlace>Paris</pubPlace>
+                    <biblScope unit="page">33-38</biblScope>
+                    <publisher>Paul Geuthner</publisher>
+                    <date>1907</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

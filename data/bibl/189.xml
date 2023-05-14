@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/H9REQR5I"
-    xml:id="Mosikyan2018"
-    type="journalArticle"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            Nemesius of Emessa’s
-            <hi rend="italics">On the Nature of Man</hi>
-            in Medieval Armenian Literature
-        </title>
-        <author
-            xml:id="MosikyanKarine"
-            ref="https://cobdh.org/persons/MosikyanKarine"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/H9REQR5I"
+            xml:id="Mosikyan2018"
+            type="journalArticle"
         >
-            <forename>Karine</forename>
-            <surname>Mosikyan</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="j">Banber Matenadarani</title>
-        <imprint>
-            <biblScope unit="volume">26</biblScope>
-            <biblScope unit="page">177-206</biblScope>
-            <date>2018</date>
-        </imprint>
-    </monogr>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    Nemesius of Emessa’s
+                    <hi rend="italics">On the Nature of Man</hi>
+                    in Medieval Armenian Literature
+                </title>
+                <author
+                    xml:id="MosikyanKarine"
+                    ref="https://cobdh.org/persons/MosikyanKarine"
+                >
+                    <forename>Karine</forename>
+                    <surname>Mosikyan</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="j">Banber Matenadarani</title>
+                <imprint>
+                    <biblScope unit="volume">26</biblScope>
+                    <biblScope unit="page">177-206</biblScope>
+                    <date>2018</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </body>
+</TEI>

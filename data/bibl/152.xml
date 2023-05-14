@@ -1,37 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/PKQ6E9F9"
-    xml:id="Outtier2007"
-    type="bookSection"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <analytic>
-        <title level="a">
-            La réception des œuvres de saint Éphrem le Syrien chez les chrétiens d’Arménie
-            et de Géorgie
-        </title>
-        <author
-            xml:id="OuttierBernard"
-            ref="https://cobdh.org/persons/OuttierBernard"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/PKQ6E9F9"
+            xml:id="Outtier2007"
+            type="bookSection"
         >
-            <forename>Bernard</forename>
-            <surname>Outtier</surname>
-        </author>
-    </analytic>
-    <monogr>
-        <title level="m">Saint Éphrem, un poète pour notre temps</title>
-        <imprint>
-            <pubPlace>Antélias, Liban</pubPlace>
-            <biblScope unit="volume">1</biblScope>
-            <biblScope unit="page">227-230</biblScope>
-            <publisher>
-                Centre d’Études et de Recherches Orientales
-            </publisher>
-            <date>2007</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Patrimoine Syriaque, Actes du Colloque XI
-        </title>
-    </series>
-</biblStruct>
+            <analytic>
+                <title level="a">
+                    La réception des œuvres de saint Éphrem le Syrien chez les chrétiens d’Arménie
+                    et de Géorgie
+                </title>
+                <author
+                    xml:id="OuttierBernard"
+                    ref="https://cobdh.org/persons/OuttierBernard"
+                >
+                    <forename>Bernard</forename>
+                    <surname>Outtier</surname>
+                </author>
+            </analytic>
+            <monogr>
+                <title level="m">Saint Éphrem, un poète pour notre temps</title>
+                <imprint>
+                    <pubPlace>Antélias, Liban</pubPlace>
+                    <biblScope unit="volume">1</biblScope>
+                    <biblScope unit="page">227-230</biblScope>
+                    <publisher>
+                        Centre d’Études et de Recherches Orientales
+                    </publisher>
+                    <date>2007</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Patrimoine Syriaque, Actes du Colloque XI
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>

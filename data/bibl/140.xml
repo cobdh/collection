@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<biblStruct
-    corresp="http://zotero.org/groups/4545590/items/2NL44AWA"
-    xml:id="Bachmann1913"
-    type="book"
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
 >
-    <monogr>
-        <title level="m">
-            Kirchen und Moscheen in Armenien und Kurdistan
-        </title>
-        <author
-            xml:id="BachmannWalter"
-            ref="https://cobdh.org/persons/BachmannWalter"
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="horn_cornelia"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="general"
+                />
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            corresp="http://zotero.org/groups/4545590/items/2NL44AWA"
+            xml:id="Bachmann1913"
+            type="book"
         >
-            <forename>Walter</forename>
-            <surname>Bachmann</surname>
-        </author>
-        <imprint>
-            <pubPlace>Leipzig</pubPlace>
-            <publisher>J.C. Hinrichs</publisher>
-            <date>1913</date>
-        </imprint>
-    </monogr>
-    <series>
-        <title level="s">
-            Wissenschaftliche Veröffentlichung der Deutschen Orient-Gesellschaft 25
-        </title>
-    </series>
-</biblStruct>
+            <monogr>
+                <title level="m">
+                    Kirchen und Moscheen in Armenien und Kurdistan
+                </title>
+                <author
+                    xml:id="BachmannWalter"
+                    ref="https://cobdh.org/persons/BachmannWalter"
+                >
+                    <forename>Walter</forename>
+                    <surname>Bachmann</surname>
+                </author>
+                <imprint>
+                    <pubPlace>Leipzig</pubPlace>
+                    <publisher>J.C. Hinrichs</publisher>
+                    <date>1913</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Wissenschaftliche Veröffentlichung der Deutschen Orient-Gesellschaft 25
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>
