@@ -1,2 +1,15 @@
 COBDH COLLECTION
 ================
+
+History
+-------
+
+The base collection was created out of a single xml-file with a bunch of bibl
+data.
+
+>> cd data/bibl
+>> cob_split --src base.xml --node .//biblStruct    // Split single file into multiple
+>> cob_enrich .                                     // Add TEI header
+>> cob_bibl .                                       // Fix xml ids
+>> cd data/persons
+>> cob_persons ../bibl                              // Create persons based on bibl
