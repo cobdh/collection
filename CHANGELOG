@@ -1,2 +1,28 @@
 CHANGELOG
 =========
+
+## v0.1.0 (2023-05-16)
+
+### Feature
+
+* generate persons based on bibl data (b57cdfd745e5)
+* enrich data with TEI header (fd027caca1ec)
+* integrate bibl delivery (c764ec031751)
+* add base editors (a0e3b29fbe7d)
+
+### Fix
+
+* adjust xml ids to avoid duplication (b0e1f610ff7f)
+* fix id (3d3ab3aa9f25)
+* fix amps for valid xml (23ca224bff62)
+
+### Documentation
+
+* document first data creation (e1ac302159e2)
+
+### Chore
+
+* add separate release step (86754a105451)
+* upgrade app base image (2dad37b64ab3)
+* add docker build (2aeba26661f5)
+* add base ant (17d912d5af36)
