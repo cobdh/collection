@@ -6,7 +6,7 @@ ROOT=$(pwd)
 rm -r "${ROOT}/build"
 
 CURRENT=$(git describe --tags)
-TAG="cobdh/collection:${CURRENT}pre"
+TAG="cobdh/collection:${CURRENT}"
 
 NAME="tmp_cobdh_${CURRENT}"
 docker rm $NAME
@@ -36,8 +36,3 @@ then
     echo "could not build release"
     exit 1
 fi
-
-echo "docker run ${TAG}"
-docker run --rm -it -p 8091:8080 ${TAG}
-
-exit 0
