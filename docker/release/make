@@ -1,6 +1,6 @@
 #!/bin/sh
 
-BUILDER="cobdh/builder:v0.1.0-4-gbd8584e"
+BUILDER="cobdh/builder:v0.3.0"
 ROOT=$(pwd)
 
 rm -r "${ROOT}/build"
