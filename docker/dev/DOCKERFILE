@@ -1,3 +1,5 @@
 FROM cobdh/cobdh/view:v0.4.0pre
 
+LABEL org.opencontainers.image.authors="helmutus@outlook.com"
+
 COPY build/*.xar /exist/autodeploy
