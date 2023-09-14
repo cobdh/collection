@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+## v0.2.2 (2023-09-14)
+
+### Fix
+
+* copy index configuration from app project (3cd0bd3dd241)
+
 ## v0.2.1 (2023-09-14)
 
 ### Fix
