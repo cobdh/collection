@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xml:lang="en"
+>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="schewe_helmut_konrad"
+                    ref="https://cobdh.org/editors/schewe_helmut_konrad"
+                    role="creator"
+                />
+            </titleStmt>
+            <date>2023.09.14</date>
+        </fileDesc>
+    </teiHeader>
+    <body>
+        <floatingText>
+            <h1>First Release</h1>
+            <p>
+                This is the first release of cobdh project.
+                <br/>
+                The database contains:
+                <ul>
+                    <li>Bibliography: 321</li>
+                    <li>Persons: 319</li>
+                </ul>
+            </p>
+        </floatingText>
+    </body>
+</TEI>
