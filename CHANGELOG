@@ -1,6 +1,16 @@
 CHANGELOG
 =========
 
+## v0.2.1 (2023-09-14)
+
+### Fix
+
+* move news file (ffecf55ed75f)
+
+### Chore
+
+* upgrade existdb (565a8f37c167)
+
 ## v0.1.0 (2023-05-16)
 
 ### Feature
