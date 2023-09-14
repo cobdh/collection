@@ -1,4 +1,4 @@
-FROM cobdh/nanodb:v0.2.0
+FROM cobdh/nanodb:v0.3.1
 
 LABEL org.opencontainers.image.authors="helmutus@outlook.com"
 
