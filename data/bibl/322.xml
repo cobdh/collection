@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <editor
+                    xml:id="HornCorneliaB"
+                    ref="https://cobdh.org/editors/horn_cornelia"
+                    role="creator"
+                />
+            </titleStmt>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="GEORGIAN"/>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <body>
+        <biblStruct
+            xml:id="PhenixHorn2022"
+            type="book"
+        >
+            <monogr>
+                <title level="m">
+                    Strategius of Mar Saba. On the Captivity of Jerusalem by the Persians in 614 CE.
+                    The First Full English Translation of the Georgian Witness, with Selected Greek,
+                    Arabic, and Armenian Parallels
+                </title>
+                <author
+                    xml:id="PhenixRobert"
+                    ref="https://cobdh.org/persons/PhenixRobert"
+                >
+                    <surname>Phenix Jr.</surname>
+                    <forename>Robert</forename>
+                    <forename>Richard</forename>
+                </author>
+                <author
+                    xml:id="HornCorneliaB"
+                    ref="https://cobdh.org/persons/HornCorneliaB"
+                >
+                    <surname>Horn</surname>
+                    <forename>Cornelia</forename>
+                </author>
+                <imprint>
+                    <pubPlace>Chesterfield, Missouri, USA</pubPlace>
+                    <publisher>Abelian Academic</publisher>
+                    <date>2022</date>
+                </imprint>
+            </monogr>
+            <series>
+                <title level="s">
+                    Eastern Mediterranean Texts and Contexts 4, Georgian Texts and Studies 1
+                </title>
+            </series>
+        </biblStruct>
+    </body>
+</TEI>
