@@ -37,7 +37,8 @@
                     xml:id="HornCorneliaB"
                     ref="https://cobdh.org/persons/HornCorneliaB"
                 >
-                    <forename>Cornelia B.</forename>
+                    <forename>Cornelia</forename>
+                    <forename>B.</forename>
                     <surname>Horn</surname>
                 </author>
             </analytic>
@@ -57,7 +58,8 @@
                     xml:id="HornCorneliaB"
                     ref="https://cobdh.org/persons/HornCorneliaB"
                 >
-                    <forename>Cornelia B.</forename>
+                    <forename>Cornelia</forename>
+                    <forename>B.</forename>
                     <surname>Horn</surname>
                 </editor>
                 <editor
