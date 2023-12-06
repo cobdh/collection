@@ -22,9 +22,10 @@
     <body>
         <person xml:id="PhenixRobert">
             <persName>
-                <surname>Phenix Jr.</surname>
+                <surname>Phenix</surname>
                 <forename>Robert</forename>
                 <forename>Richard</forename>
+                <forename>Jr.</forename>
             </persName>
         </person>
     </body>

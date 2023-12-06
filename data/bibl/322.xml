@@ -33,9 +33,10 @@
                     xml:id="PhenixRobert"
                     ref="https://cobdh.org/persons/PhenixRobert"
                 >
-                    <surname>Phenix Jr.</surname>
+                    <surname>Phenix</surname>
                     <forename>Robert</forename>
                     <forename>Richard</forename>
+                    <forename>Jr.</forename>
                 </author>
                 <author
                     xml:id="HornCorneliaB"
