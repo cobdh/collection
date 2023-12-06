@@ -30,11 +30,12 @@
                     Evidences on the Kairak with Armeno-Syriac Inscriptions
                 </title>
                 <author
-                    xml:id="Giney(Gasparyan)Ruben"
-                    ref="https://cobdh.org/persons/Giney(Gasparyan)Ruben"
+                    xml:id="GineyGasparyanRuben"
+                    ref="https://cobdh.org/persons/GineyGasparyanRuben"
                 >
                     <forename>Ruben</forename>
-                    <surname>Giney (Gasparyan)</surname>
+                    <surname>Giney</surname>
+                    <surname>Gasparyan</surname>
                 </author>
             </analytic>
             <monogr>

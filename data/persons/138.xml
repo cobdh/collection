@@ -20,10 +20,10 @@
         </fileDesc>
     </teiHeader>
     <body>
-        <person xml:id="Giney(Gasparyan)Ruben">
+        <person xml:id="GineyGasparyanRuben">
             <persName>
                 <surname>Giney</surname>
-                <surname>(Gasparyan)</surname>
+                <surname>Gasparyan</surname>
                 <forename>Ruben</forename>
             </persName>
         </person>
