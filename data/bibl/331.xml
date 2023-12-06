@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    xml:id="Mathews2011"
+    type="journalArticle"
+>
+    <creator>Cornelia B. Horn</creator>
+    <analytic>
+        <title level="a">
+            Ephrem the Syrian: A Syriac Poet in Armenian Verse
+        </title>
+        <author>
+            <forename>Edward George</forename>
+            <surname>Mathews</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Theological Librarianship</title>
+        <imprint>
+            <biblScope unit="volume">5.1</biblScope>
+            <biblScope unit="page">71-76</biblScope>
+            <date>2011</date>
+        </imprint>
+    </monogr>
+</biblStruct>

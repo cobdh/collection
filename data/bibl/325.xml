@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    xml:id="Thomson2000"
+    type="bookSection"
+>
+    <creator>Cornelia B. Horn</creator>
+    <analytic>
+        <title level="a">
+            Saint Ephrem and an Armenian Homily on the Passion
+        </title>
+        <author>
+            <forename>Robert W.</forename>
+            <surname>Thomson</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="m">
+            Crossroads of Cultures: Studies in Liturgy and Patristics in Honor of Gabriele
+            Winkler. Acts of the International Congress: Comparative Liturgy Fifty Years
+            after Anton Baumstark (1872–1948). Rome, 25–29 September 1998.
+        </title>
+        <editor>
+            <forename>Hans-Jürgen</forename>
+            <surname>Feulner</surname>
+        </editor>
+        <editor>
+            <forename>Elena</forename>
+            <surname>Velkovska</surname>
+        </editor>
+        <editor>
+            <forename>Robert F.</forename>
+            <surname>Taft</surname>
+        </editor>
+        <imprint>
+            <pubPlace>Rome, Italy</pubPlace>
+            <biblScope unit="page">693-703</biblScope>
+            <publisher>Pontificio Istituto Orientale</publisher>
+            <date>2000</date>
+        </imprint>
+    </monogr>
+</biblStruct>

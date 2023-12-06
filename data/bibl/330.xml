@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    xml:id="Outtier1975"
+    type="journalArticle"
+>
+    <creator>Cornelia B. Horn</creator>
+    <analytic>
+        <title level="a">
+            Les recueils armeniens et Georgiens d'oeuvres attribuees it S. Ephrem Ie Syrien
+        </title>
+        <author>
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Orient Chrétien</title>
+        <imprint>
+            <biblScope unit="volume">???</biblScope>
+            <biblScope unit="page">53-57</biblScope>
+            <date>1975</date>
+        </imprint>
+    </monogr>
+</biblStruct>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblStruct
+    xml:id="Outtier1970"
+    type="journalArticle"
+>
+    <creator>Cornelia B. Horn</creator>
+    <analytic>
+        <title level="a">
+            Une explication de I'Evangile attribuée à Saint Ephrem: à propos d'une édition
+            récente
+        </title>
+        <author>
+            <forename>Bernard</forename>
+            <surname>Outtier</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Parole de l’Orient</title>
+        <imprint>
+            <biblScope unit="volume">1.2</biblScope>
+            <biblScope unit="page">385-407</biblScope>
+            <date>1954</date>
+        </imprint>
+    </monogr>
+</biblStruct>
