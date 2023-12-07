@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+## v0.4.1 (2023-12-07)
+
+### Fix
+
+* avoid duplicated xmlid (30afbfd555b2)
+
 ## v0.4.0 (2023-12-07)
 
 ### Feature
