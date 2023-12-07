@@ -1,6 +1,13 @@
 CHANGELOG
 =========
 
+## v0.4.0 (2023-12-07)
+
+### Feature
+
+* add Georgia label (1d531bcf7d78)
+* add Armenian label (fb5523e2deb7)
+
 ## v0.2.2 (2023-09-14)
 
 ### Fix
