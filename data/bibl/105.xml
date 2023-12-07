@@ -18,6 +18,13 @@
                 />
             </titleStmt>
         </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="ARMENIA"/>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
     </teiHeader>
     <body>
         <biblStruct
