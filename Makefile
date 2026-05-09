@@ -5,7 +5,7 @@ CURDIR := $(CURDIR)
 
 NAME = collection
 IMAGE := $(NAME):$(VERSION)
-IMAGE_BASE := ghcr.io/anaticulae/$(IMAGE)
+IMAGE_BASE := ghcr.io/cobdh/$(IMAGE)
 
 docker-build:
 	docker build -t $(IMAGE_BASE) .
