@@ -1,0 +1,25 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - '*'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+    - uses: actions/checkout@v6
+    - name: build docker container
+      run: make docker-build
+
+  linter:
+    runs-on: ubuntu-24.04
+    needs: build
+    steps:
+    - uses: actions/checkout@v6
+    - name: run formatter
+      run: make docker-format
