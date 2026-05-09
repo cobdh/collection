@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v1.0.1 (2026-05-09)
+
+### Chores
+
+- **make**: Fix docker push organization
+  ([`10ef09e`](https://github.com/cobdh/collection/commit/10ef09ee14bea23a9b7d4e29214fbee8a3a4bc26))
+
+
 ## v1.0.0 (2026-05-09)
 
 ### Chores

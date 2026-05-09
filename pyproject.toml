@@ -1,6 +1,6 @@
 [project]
 name = "collection"
-version = "1.0.0"
+version = "1.0.1"
 description = ""
 readme = {file = "README", content-type = "text/markdown"}
 requires-python = ">=3.12"
