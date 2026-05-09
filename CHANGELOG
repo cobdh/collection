@@ -1,57 +1,165 @@
-CHANGELOG
-=========
+# CHANGELOG
 
-## v0.4.1 (2023-12-07)
 
-### Fix
+## v1.0.0 (2026-05-09)
 
-* avoid duplicated xmlid (30afbfd555b2)
+### Chores
 
-## v0.4.0 (2023-12-07)
+- **docker**: Add docker file
+  ([`c65a6ea`](https://github.com/cobdh/collection/commit/c65a6eadff0a239a41063a91c0fed6250f2a6acc))
 
-### Feature
+- **github**: Add .github
+  ([`0f461e4`](https://github.com/cobdh/collection/commit/0f461e484227bbc341bdbf236c1abada78ebd73d))
 
-* add Georgia label (1d531bcf7d78)
-* add Armenian label (fb5523e2deb7)
+- **make**: Add makefile
+  ([`ba5f6aa`](https://github.com/cobdh/collection/commit/ba5f6aaf7f9c01782fcce46dac73cc5b42357797))
+
+- **project**: Add pyproject
+  ([`8fe342c`](https://github.com/cobdh/collection/commit/8fe342c7b7eb9c9f8d94323e5fa5378357901f5e))
+
+- **project**: Remove VERSION use pyproject
+  ([`09ef6c2`](https://github.com/cobdh/collection/commit/09ef6c231157accee4b3678b9433e835a22cf99d))
+
+
+## v0.4.1 (2026-05-09)
+
+### Bug Fixes
+
+- **bibl**: Avoid duplicated xmlid
+  ([`30afbfd`](https://github.com/cobdh/collection/commit/30afbfd555b2d62b24f7cecb9da74fb4e826c908))
+
+### Features
+
+- **bibl**: Add Armenian label
+  ([`fb5523e`](https://github.com/cobdh/collection/commit/fb5523e2deb7309aa5ae6abe3e9fe641d4e984da))
+
+- **bibl**: Add Georgia label
+  ([`1d531bc`](https://github.com/cobdh/collection/commit/1d531bcf7d78f13e2733d327dbebe1a654b31b3b))
+
+
+## v0.3.0 (2023-12-06)
+
+### Bug Fixes
+
+- **bibl**: Adjust autor to avoid duplication
+  ([`038452a`](https://github.com/cobdh/collection/commit/038452abc13a25b768a26e0cc080c30965e19151))
+
+- **persons**: Adjust autor name
+  ([`b5afa5b`](https://github.com/cobdh/collection/commit/b5afa5b1175f9380bfda174a8ab5b8c03b34d774))
+
+- **persons**: Resolve invalid id
+  ([`dd6f29d`](https://github.com/cobdh/collection/commit/dd6f29dc345516e3058b9791b6fee7d203235dd0))
+
+### Features
+
+- **bibl**: Add book Strategius of Mar Saba
+  ([`1466d07`](https://github.com/cobdh/collection/commit/1466d07da195cabbc3c363e38864a99e7344aefd))
+
+- **bibl**: Enrich data
+  ([`0d9b7eb`](https://github.com/cobdh/collection/commit/0d9b7eb411906eca77ef4899f523c979a8ee0db7))
+
+- **bibl**: Extend data
+  ([`728c054`](https://github.com/cobdh/collection/commit/728c0543a319184ee47dba7bde6de69f02712cb8))
+
+- **persons**: Add author for book Strategius of Mar Saba
+  ([`0c56e46`](https://github.com/cobdh/collection/commit/0c56e468f6477051147d174c3b775d3c63cef158))
+
 
 ## v0.2.2 (2023-09-14)
 
-### Fix
+### Bug Fixes
 
-* copy index configuration from app project (3cd0bd3dd241)
+- **index**: Copy index configuration from app project
+  ([`3cd0bd3`](https://github.com/cobdh/collection/commit/3cd0bd3dd241fedc0e086424d3f59149507ec720))
+
 
 ## v0.2.1 (2023-09-14)
 
-### Fix
+### Bug Fixes
 
-* move news file (ffecf55ed75f)
+- **data**: Move news file
+  ([`ffecf55`](https://github.com/cobdh/collection/commit/ffecf55ed75fbf8c65887597703bed6ae48b3c0b))
 
-### Chore
+### Chores
 
-* upgrade existdb (565a8f37c167)
+- **requirements**: Upgrade existdb
+  ([`565a8f3`](https://github.com/cobdh/collection/commit/565a8f37c16783c591ff291db6a1cf613170f683))
+
+
+## v0.2.0 (2023-09-14)
+
+### Features
+
+- **news**: Add release draft message
+  ([`1d7a57c`](https://github.com/cobdh/collection/commit/1d7a57ce8c80cfc7ac74b310bdcc8f0bdad757c0))
+
+
+## v0.1.1 (2023-06-04)
+
+### Bug Fixes
+
+- **docker**: Adjust base image
+  ([`3b91649`](https://github.com/cobdh/collection/commit/3b91649aeae27cdaa8983a44ce612896a4b5431d))
+
+### Chores
+
+- **builder**: Upgrade builder
+  ([`8942497`](https://github.com/cobdh/collection/commit/894249753e44148719797d3dce463fb570a2ea19))
+
+- **docker**: Update maintainer information
+  ([`dd0f7ed`](https://github.com/cobdh/collection/commit/dd0f7edc792ff4c24dadafb355bd82e54588be74))
+
+- **docker**: Upgrade base image
+  ([`624092c`](https://github.com/cobdh/collection/commit/624092c6c9769095673c276a755540d0e6ddeaca))
+
 
 ## v0.1.0 (2023-05-16)
 
-### Feature
+### Bug Fixes
 
-* generate persons based on bibl data (b57cdfd745e5)
-* enrich data with TEI header (fd027caca1ec)
-* integrate bibl delivery (c764ec031751)
-* add base editors (a0e3b29fbe7d)
+- **bibl**: Adjust xml ids to avoid duplication
+  ([`b0e1f61`](https://github.com/cobdh/collection/commit/b0e1f610ff7f581c4265210253d6e4570a1550c7))
 
-### Fix
+- **bibl**: Fix amps for valid xml
+  ([`23ca224`](https://github.com/cobdh/collection/commit/23ca224bff62c245ef3125048938af52aafbace8))
 
-* adjust xml ids to avoid duplication (b0e1f610ff7f)
-* fix id (3d3ab3aa9f25)
-* fix amps for valid xml (23ca224bff62)
+- **bibl**: Fix id
+  ([`3d3ab3a`](https://github.com/cobdh/collection/commit/3d3ab3aa9f25dd1e2be4eb0d9592614cd1cfd616))
+
+### Chores
+
+- **ant**: Add base ant
+  ([`17d912d`](https://github.com/cobdh/collection/commit/17d912d5af36c21a1deaca57fea441f4aecd9718))
+
+- **base**: Upgrade app base image
+  ([`2dad37b`](https://github.com/cobdh/collection/commit/2dad37b64ab39ace26bb201c706b9975002047e2))
+
+- **docker**: Add docker build
+  ([`2aeba26`](https://github.com/cobdh/collection/commit/2aeba26661f54690d80a21d30006b5ded9d6ae45))
+
+- **release**: Add separate release step
+  ([`86754a1`](https://github.com/cobdh/collection/commit/86754a105451584a1f8d16c252d026e338837432))
 
 ### Documentation
 
-* document first data creation (e1ac302159e2)
+- **README**: Document first data creation
+  ([`e1ac302`](https://github.com/cobdh/collection/commit/e1ac302159e22bd529fc6a90d98280a46a8efefc))
 
-### Chore
+### Features
 
-* add separate release step (86754a105451)
-* upgrade app base image (2dad37b64ab3)
-* add docker build (2aeba26661f5)
-* add base ant (17d912d5af36)
+- **bibl**: Enrich data with TEI header
+  ([`fd027ca`](https://github.com/cobdh/collection/commit/fd027caca1ecb4bd6d385912c9e72404dcff9531))
+
+- **bibl**: Integrate bibl delivery
+  ([`c764ec0`](https://github.com/cobdh/collection/commit/c764ec03175154e27317ed294420f73f97a0b6a5))
+
+- **editors**: Add base editors
+  ([`a0e3b29`](https://github.com/cobdh/collection/commit/a0e3b29fbe7d3a12d8a450107d48522ccdaedd75))
+
+- **persons**: Generate persons based on bibl data
+  ([`b57cdfd`](https://github.com/cobdh/collection/commit/b57cdfd745e5f5a47fb485f9b29dcd750038fdc7))
+
+
+## v0.0.0 (2023-05-14)
+
+- Initial Release
