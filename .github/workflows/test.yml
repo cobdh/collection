@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: build docker container
       run: make docker-build
 
@@ -20,6 +20,6 @@ jobs:
     runs-on: ubuntu-24.04
     needs: build
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: run formatter
       run: make docker-format
